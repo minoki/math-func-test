@@ -1,0 +1,10 @@
+---
+x = 0x1p+25:
+libm: sin(x) = -0x1.f3fa130939bbp-1
+MPFR: sin(x) = -0x1.f3fa130939bafp-1
+Quad: sin(x) = -0x1.f3fa130939baf7fe9fff3db317fbp-1
+---
+x = 0x1p+938:
+libm: sin(x) = 0x1.6acb9b25f25b2p-1
+MPFR: sin(x) = 0x1.6acb9b25f25b1p-1
+Quad: sin(x) = 0x1.6acb9b25f25b17fc4ab77e949513p-1

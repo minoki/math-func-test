@@ -1,0 +1,4925 @@
+---
+x = 0x8p+8:
+libm: sin(x) = -0xa.049023f6f1f08p-5
+MPFR: sin(x) = -0xa.049023f6f1f1p-5
+Quad: sin(x) = -0x1.4092047ede3e182a4cced687c0dep-2
+---
+x = 0x8p+15:
+libm: sin(x) = -0xa.c404e2e71ce7p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.c404e2e71cdbp-7
+Quad: sin(x) = -0x1.58809c5ce39b5968fde387b699d8p-4
+---
+x = 0x8p+16:
+libm: sin(x) = 0xa.ba40f6487efd8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.ba40f6487ef18p-6
+Quad: sin(x) = 0x1.57481ec90fde31d2be28b345ccc5p-3
+---
+x = 0x8p+17:
+libm: sin(x) = 0xa.9366597e43368p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.9366597e432bp-5
+Quad: sin(x) = 0x1.526ccb2fc8655b3b500514078839p-2
+---
+x = 0x8p+18:
+libm: sin(x) = 0x9.fb4443d09c01p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.fb4443d09bf78p-4
+Quad: sin(x) = 0x1.3f68887a137ee8f33057be418984p-1
+---
+x = 0x8p+19:
+libm: sin(x) = 0xf.9a2147ca49568p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.9a2147ca4951p-4
+Quad: sin(x) = 0x1.f34428f9492a2137cb34899a6f1bp-1
+---
+x = 0x8p+20:
+libm: sin(x) = 0xd.d4fa2e8e538a8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.d4fa2e8e53e28p-5
+Quad: sin(x) = 0x1.ba9f45d1ca7c4a90279596539ea3p-2
+---
+x = 0x8p+21:
+libm: sin(x) = -0xc.7917c219eb3ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.7917c219eb77p-4
+Quad: sin(x) = -0x1.8f22f8433d6edfe9a4aff9622518p-1
+---
+x = 0x8p+22:
+libm: sin(x) = -0xf.9fd09849ce018p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.9fd09849cdd78p-4
+Quad: sin(x) = -0x1.f3fa130939baf7fe9fff3db317fbp-1
+---
+x = 0x8p+23:
+libm: sin(x) = 0xd.76dd760ae68c8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.76dd760ae94e8p-5
+Quad: sin(x) = 0x1.aedbaec15d29d09d0588c1be761ep-2
+---
+x = 0x8p+24:
+libm: sin(x) = -0xc.36e64dd5d65b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.36e64dd5d852p-4
+Quad: sin(x) = -0x1.86dcc9babb0a40ee875cab3b9e89p-1
+---
+x = 0x8p+25:
+libm: sin(x) = -0xf.c777c6b36b768p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c777c6b36a75p-4
+Quad: sin(x) = -0x1.f8eef8d66d4ea14bfbd7100f42acp-1
+---
+x = 0x8p+26:
+libm: sin(x) = 0xa.733e0712fa73p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.733e0713116fp-5
+Quad: sin(x) = 0x1.4e67c0e2622de34e52c576734dfap-2
+---
+x = 0x8p+27:
+libm: sin(x) = -0x9.e091a9b93336p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.e091a9b946578p-4
+Quad: sin(x) = -0x1.3c12353728caf59dba440de60f86p-1
+---
+x = 0x8p+28:
+libm: sin(x) = -0xf.8a7c89f4cc3bp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.8a7c89f4d7ccp-4
+Quad: sin(x) = -0x1.f14f913e9af9846b68f2f02a19cdp-1
+---
+x = 0x8p+29:
+libm: sin(x) = -0xe.c89814472a15p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.c89814467d8ap-5
+Quad: sin(x) = -0x1.d9130288cfb144fc6cc321db984ep-2
+---
+x = 0x8p+30:
+libm: sin(x) = 0xd.1c81c7841b038p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.1c81c783ab828p-4
+Quad: sin(x) = 0x1.a39038f07570517d09bdfcc17100p-1
+---
+x = 0x8p+31:
+libm: sin(x) = 0xf.0779adf046aep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.0779adf0cc268p-4
+Quad: sin(x) = 0x1.e0ef35be1984d7020cb84916f932p-1
+---
+x = 0x8p+32:
+libm: sin(x) = -0xa.4f963325711a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.4f9633231e0cp-4
+Quad: sin(x) = -0x1.49f2c66463c17c287e43a4d9bb9cp-1
+---
+x = 0x8p+33:
+libm: sin(x) = 0xf.c4c9e5ce3a718p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c4c9e5cd32c3p-4
+Quad: sin(x) = 0x1.f8993cb9a6585fb9604ede7c96ffp-1
+---
+x = 0x8p+34:
+libm: sin(x) = 0xa.afa2b1c2379dp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.afa2b1d923c98p-5
+Quad: sin(x) = 0x1.55f4563b247932675110618f4a63p-2
+---
+x = 0x8p+35:
+libm: sin(x) = -0xa.12983b5999598p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.12983b6c7e69p-4
+Quad: sin(x) = -0x1.4253076d8fcd1c7b2941fd6a0f3dp-1
+---
+x = 0x8p+36:
+libm: sin(x) = -0xf.a6f8fffaf37cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.a6f900050957p-4
+Quad: sin(x) = -0x1.f4df2000a12ae60e9ffe1fcab9efp-1
+---
+x = 0x8p+37:
+libm: sin(x) = -0xc.fb89143d3c63p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.fb89138b6aec8p-5
+Quad: sin(x) = -0x1.9f7122716d5d8d1b5003a86b912ep-2
+---
+x = 0x8p+38:
+libm: sin(x) = 0xb.ddb9961957bdp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.ddb99596d693p-4
+Quad: sin(x) = 0x1.7bb732b2dad266bb309737096b69p-1
+---
+x = 0x8p+39:
+libm: sin(x) = 0xf.eb74205996768p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.eb74208082f6p-4
+Quad: sin(x) = 0x1.fd6e8410105ec62d12a5c8f3df92p-1
+---
+x = 0x8p+40:
+libm: sin(x) = -0xc.bd8b6d4e766cp-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.bd8b6163fc4fp-6
+Quad: sin(x) = -0x1.97b16c2c7f89e5f4ce85669880e3p-3
+---
+x = 0x8p+41:
+libm: sin(x) = 0xc.7c4435f888a3p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.7c442ac67708p-5
+Quad: sin(x) = 0x1.8f888558cee105c64e42369cdb37p-2
+---
+x = 0x8p+42:
+libm: sin(x) = 0xb.7ef0c1fb7b968p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.7ef0b9866f1b8p-4
+Quad: sin(x) = 0x1.6fde1730cde3723178c967476e55p-1
+---
+x = 0x8p+43:
+libm: sin(x) = 0xf.fdd773d057418p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fdd7749a6b5b8p-4
+Quad: sin(x) = 0x1.ffbaee934d6b73808c84061fbdd6p-1
+---
+x = 0x8p+44:
+libm: sin(x) = -0x8.4e26225a910d8p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.4e249e1394928p-7
+Quad: sin(x) = -0x1.09c493c272924c3592cd3e591dd8p-4
+---
+x = 0x8p+45:
+libm: sin(x) = 0x8.49ab2c1bd173p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.49a9aa49a59fp-6
+Quad: sin(x) = 0x1.0935354934b3dc7704fa9f854342p-3
+---
+x = 0x8p+46:
+libm: sin(x) = 0x8.37cdd0ed5dc4p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.37cc58e1373dp-5
+Quad: sin(x) = 0x1.06f98b1c26e79bb1b17f756fdec4p-2
+---
+x = 0x8p+47:
+libm: sin(x) = 0xf.e27d9561867p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.e27af1d576ed8p-5
+Quad: sin(x) = 0x1.fc4f5e3aaeddae2a61b66359c0fap-2
+---
+x = 0x8p+48:
+libm: sin(x) = 0xd.ca19d303868p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.ca1848544e3p-4
+Quad: sin(x) = 0x1.b943090a89c5fb91bddbbe7a91b5p-1
+---
+x = 0x8p+49:
+libm: sin(x) = 0xd.fcc854967e8ep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.fccb4845da83p-4
+Quad: sin(x) = 0x1.bf996908bb5061aa7c4af1e96c0fp-1
+---
+x = 0x8p+50:
+libm: sin(x) = -0xd.9539d199818b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.95336479aac3p-4
+Quad: sin(x) = -0x1.b2a66c8f355861bdca662b974988p-1
+---
+x = 0x8p+51:
+libm: sin(x) = 0xe.5b70f3e364608p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.5b7baf9b05bap-4
+Quad: sin(x) = 0x1.cb6f75f360b7382947e7df7d8e1ep-1
+---
+x = 0x8p+52:
+libm: sin(x) = -0xc.ac78219c7c15p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.ac5a717103308p-4
+Quad: sin(x) = -0x1.958b4e2e20660c11b90eb96e6f3dp-1
+---
+x = 0x8p+53:
+libm: sin(x) = 0xf.78bc2a6b1171p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.78d4f4094d46p-4
+Quad: sin(x) = 0x1.ef1a9e8129a8c6d4c72189a40270p-1
+---
+x = 0x8p+54:
+libm: sin(x) = -0xf.c5d489c374c8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c481f8debc0cp-5
+Quad: sin(x) = -0x1.f8903f1bd78186f9ff8ab16705a9p-2
+---
+x = 0x8p+55:
+libm: sin(x) = 0xd.b942e17bfb7e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.b87ac8a126158p-4
+Quad: sin(x) = 0x1.b70f591424c2b2d7439d49bc4a14p-1
+---
+x = 0x8p+56:
+libm: sin(x) = 0xe.1c572fdd9db18p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.1dc5c614f1be8p-4
+Quad: sin(x) = 0x1.c3b8b8c29e37d169949f72712706p-1
+---
+x = 0x8p+57:
+libm: sin(x) = -0xd.4db8772945d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.4a56d583332ep-4
+Quad: sin(x) = -0x1.a94adab06665c28063cbee3c5762p-1
+---
+x = 0x8p+58:
+libm: sin(x) = 0xe.c82e7c4e4bd8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.ccd17a17103a8p-4
+Quad: sin(x) = 0x1.d99a2f42e20748be4d32d81474eep-1
+---
+x = 0x8p+59:
+libm: sin(x) = -0xb.506a9dd559cfp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.3f2b9aaf80a38p-4
+Quad: sin(x) = -0x1.67e57355f014728b83a3a1b188b2p-1
+---
+x = 0x8p+60:
+libm: sin(x) = 0xf.cc47ed1a80a6p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ffb6fea16e2ap-4
+Quad: sin(x) = 0x1.fff6dfd42dc54430bc0576b00a89p-1
+---
+x = 0x8p+61:
+libm: sin(x) = 0xa.02a1d86913528p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.151a988c3c9e8p-9
+Quad: sin(x) = 0x1.82a353118793d25da3a34453c6c2p-6
+---
+x = 0x8p+62:
+libm: sin(x) = -0x9.8204d0b20dbb8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.143e153b0702p-8
+Quad: sin(x) = -0x1.8287c2a760e03d001f37148f6eb7p-5
+---
+x = 0x8p+63:
+libm: sin(x) = -0xf.4b4af5191c868p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.10cc66470bb98p-7
+Quad: sin(x) = -0x1.82198cc8e1772c4ec4d15cf90493p-4
+---
+x = 0x8p+64:
+libm: sin(x) = -0x8.fc3dabc0f69d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.030b8e422cd9p-6
+Quad: sin(x) = -0x1.806171c8459b1a825b68862c0d9fp-3
+---
+x = 0x8p+65:
+libm: sin(x) = 0xe.de88ed9ab3eep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.cc661a5f2e048p-5
+Quad: sin(x) = -0x1.798cc34be5c0944b6d0f01b756cdp-2
+---
+x = 0x8p+66:
+libm: sin(x) = 0xa.fb21b7f06ecep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.f79b163c24ed8p-4
+Quad: sin(x) = -0x1.5ef362c7849daaa1299d1591811ep-1
+---
+x = 0x8p+67:
+libm: sin(x) = -0xf.f91da91f2d858p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.f88af6ff6099p-4
+Quad: sin(x) = -0x1.ff115edfec1319050c3aca4f3d6ep-1
+---
+x = 0x8p+68:
+libm: sin(x) = -0xe.cfa2dab61137p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.6998f67785458p-7
+Quad: sin(x) = -0x1.ed331ecef0a8b3afdc7cfb710ee6p-4
+---
+x = 0x8p+69:
+libm: sin(x) = 0xe.b62acd21a969p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.4ce3e986623bp-6
+Quad: sin(x) = 0x1.e99c7d30cc4761c68ac15fd3bddcp-3
+---
+x = 0x8p+70:
+libm: sin(x) = 0xe.5150c707cd308p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.db4fc0678574p-5
+Quad: sin(x) = 0x1.db69f80cf0ae7e72731dd8104e05p-2
+---
+x = 0x8p+71:
+libm: sin(x) = 0xc.cdf7d5fca1718p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.2890f8b99d6b8p-4
+Quad: sin(x) = 0x1.a5121f1733ad73ac0e16b6982f07p-1
+---
+x = 0x8p+72:
+libm: sin(x) = 0xf.5b1150f68cf9p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.f8c84152140c8p-4
+Quad: sin(x) = 0x1.df19082a428189a018d56c1b7381p-1
+---
+x = 0x8p+73:
+libm: sin(x) = -0x8.a092f35909098p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.8f9dba714d24p-4
+Quad: sin(x) = -0x1.51f3b74e29a47dc07a86d4eaf4dcp-1
+---
+x = 0x8p+74:
+libm: sin(x) = 0xe.88042df05dccp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ddf87337a843p-4
+Quad: sin(x) = 0x1.fbbf0e66f5085b5c274b3924d7dcp-1
+---
+x = 0x8p+75:
+libm: sin(x) = 0xc.29cf5f843daap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.2a0b7bc3288fp-5
+Quad: sin(x) = 0x1.05416f786511e3f8bdcc15816080p-2
+---
+x = 0x8p+76:
+libm: sin(x) = -0xf.cdf650fc920c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c9c11b69d22dp-5
+Quad: sin(x) = -0x1.f938236d3a4598dbcd407933e8ccp-2
+---
+x = 0x8p+77:
+libm: sin(x) = 0x9.d9f1ef64620f8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.bb93fd40651b8p-4
+Quad: sin(x) = -0x1.b7727fa80ca36b3d93d0d1eac882p-1
+---
+x = 0x8p+78:
+libm: sin(x) = -0x9.5f767917fd9dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.18144077ff978p-4
+Quad: sin(x) = -0x1.c302880efff2eac4d413cf0d9320p-1
+---
+x = 0x8p+79:
+libm: sin(x) = -0xf.314b598a7b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.57b61ffaf03fp-4
+Quad: sin(x) = 0x1.aaf6c3ff5e07e172345f0d8a2dafp-1
+---
+x = 0x8p+80:
+libm: sin(x) = -0x9.87d8b75d11e18p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.ba39927dd7c38p-4
+Quad: sin(x) = -0x1.d747324fbaf869f9aedd244a6a20p-1
+---
+x = 0x8p+81:
+libm: sin(x) = 0xf.4f872acd3ddc8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.82fec7261f128p-4
+Quad: sin(x) = 0x1.705fd8e4c3e24f19d54c1675517fp-1
+---
+x = 0x8p+82:
+libm: sin(x) = 0x8.e42fad8ff3dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fd723e52d487p-4
+Quad: sin(x) = -0x1.ffae47ca5a90e0aeeb7aa833d8e2p-1
+---
+x = 0x8p+83:
+libm: sin(x) = -0xe.c8bc4f8fa5cep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.08686ac3b6ep-7
+Quad: sin(x) = 0x1.210d0d5876dbffae7c015834f9b0p-4
+---
+x = 0x8p+84:
+libm: sin(x) = -0xb.4e5e21edc1698p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.02a48ea1f529p-6
+Quad: sin(x) = -0x1.205491d43ea521992db45c338d36p-3
+---
+x = 0x8p+85:
+libm: sin(x) = 0xf.ffff0ee04fbep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.ebab2d14ffc08p-5
+Quad: sin(x) = -0x1.1d7565a29ff80f3d34cee99a4a06p-2
+---
+x = 0x8p+86:
+libm: sin(x) = 0xa.fae4ec6b1e1bp-12 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.9123f4bfefbb8p-4
+Quad: sin(x) = -0x1.12247e97fdf76a4cc545b84816c1p-1
+---
+x = 0x8p+87:
+libm: sin(x) = -0xa.fae25687d4afp-11 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.788ce6a411fa8p-4
+Quad: sin(x) = -0x1.cf119cd4823f5047edc096b8ec7cp-1
+---
+x = 0x8p+88:
+libm: sin(x) = -0xa.fad7fefe56228p-10 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.58ddbd36ef81p-4
+Quad: sin(x) = -0x1.8b1bb7a6ddf01a75ad947ffd5ebap-1
+---
+x = 0x8p+89:
+libm: sin(x) = -0xa.faaea112cdf68p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.b491d9195a27p-4
+Quad: sin(x) = 0x1.f6923b232b44e73e1d83112696c7p-1
+---
+x = 0x8p+90:
+libm: sin(x) = -0xa.fa092d0bc354p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.002e468bb995p-5
+Quad: sin(x) = -0x1.8005c8d177329a5481dcebffa8f6p-2
+---
+x = 0x8p+91:
+libm: sin(x) = -0xa.f773975e65218p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.1ff5dab043438p-4
+Quad: sin(x) = 0x1.63febb56086869622e45b6233e50p-1
+---
+x = 0x8p+92:
+libm: sin(x) = -0xa.ed20e6f0a2838p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fdc126989b15p-4
+Quad: sin(x) = 0x1.ffb824d31362a386002f840801ecp-1
+---
+x = 0x8p+93:
+libm: sin(x) = -0xa.c4106082525ap-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.7892f81f4e56p-7
+Quad: sin(x) = 0x1.0f125f03e9cac63c715da4ae65d9p-4
+---
+x = 0x8p+94:
+libm: sin(x) = -0xa.2367bfc8e99ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.73d1eac24803p-6
+Quad: sin(x) = -0x1.0e7a3d584900630d17a8ef19b1d8p-3
+---
+x = 0x8p+95:
+libm: sin(x) = -0xf.afbd7c030c61p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.60ddb48823cfp-5
+Quad: sin(x) = -0x1.0c1bb6910479e0560404598a72c6p-2
+---
+x = 0x8p+96:
+libm: sin(x) = -0xc.5c41d5c385bdp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.160b216f72d78p-4
+Quad: sin(x) = -0x1.02c1642dee5aef0ddea16e233107p-1
+---
+x = 0x8p+97:
+libm: sin(x) = 0xb.66ad313062978p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.f476cbd60fac8p-4
+Quad: sin(x) = -0x1.be8ed97ac1f58bea99cc1e489ea6p-1
+---
+x = 0x8p+98:
+libm: sin(x) = 0xf.ff81f3c6cc1f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.a72575e1ae3bp-4
+Quad: sin(x) = -0x1.b4e4aebc35c7666e293639263291p-1
+---
+x = 0x8p+99:
+libm: sin(x) = -0xf.e0087ff74ceap-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.3ccc42ad24c6p-4
+Quad: sin(x) = 0x1.c7998855a498c3a4c176cde68303p-1
+---
+x = 0x8p+100:
+libm: sin(x) = 0xf.de14461aef598p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.fdff5e704b758p-4
+Quad: sin(x) = -0x1.9fbfebce096eb439b58af092d723p-1
+---
+x = 0x8p+101:
+libm: sin(x) = 0xf.d644d0072d0d8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.2a622c58e8838p-4
+Quad: sin(x) = 0x1.e54c458b1d1072a4439b74b95277p-1
+---
+x = 0x8p+102:
+libm: sin(x) = 0xf.b71e050e60a4p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.aad18482c6ac8p-4
+Quad: sin(x) = -0x1.355a309058d589bfec1a0cad04c7p-1
+---
+x = 0x8p+103:
+libm: sin(x) = 0xf.3bf18f28d751p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.6804c12a9e208p-4
+Quad: sin(x) = 0x1.ed00982553c40bb1fc0038dbb640p-1
+---
+x = 0x8p+104:
+libm: sin(x) = 0xd.65a5143741018p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.50ca31a6e6a58p-4
+Quad: sin(x) = 0x1.0a194634dcd4b5fbd4a1b469d00fp-1
+---
+x = 0x8p+105:
+libm: sin(x) = 0xe.a61c0221d8d88p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.356552a01d0d8p-4
+Quad: sin(x) = -0x1.c6acaa5403a1b4797e648f222c6ep-1
+---
+x = 0x8p+106:
+libm: sin(x) = -0xb.c88cd29023b2p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.10c2220ebb09p-4
+Quad: sin(x) = -0x1.a2184441d76121b94b304ccad4ffp-1
+---
+x = 0x8p+107:
+libm: sin(x) = 0xf.f14324a5e567p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.154c12c3db2bp-4
+Quad: sin(x) = 0x1.e2a982587b655cf6db528acc3c5ap-1
+---
+x = 0x8p+108:
+libm: sin(x) = -0xa.cf3852407c988p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.1096e9a06514p-4
+Quad: sin(x) = -0x1.4212dd340ca27adbce5ea9974585p-1
+---
+x = 0x8p+109:
+libm: sin(x) = 0xa.a77708a795038p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.a5e6438072ebp-4
+Quad: sin(x) = 0x1.f4bcc8700e5d5b0949226cab82bfp-1
+---
+x = 0x8p+110:
+libm: sin(x) = 0xa.0bdaf316bf09p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.0e63fa4abbb28p-5
+Quad: sin(x) = 0x1.a1cc7f4957764eed8066e13da600p-2
+---
+x = 0x8p+111:
+libm: sin(x) = 0xf.a357b5b0cb3ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.eb883f06b14ep-4
+Quad: sin(x) = -0x1.7d7107e0d629c56130ee33c6d6c3p-1
+---
+x = 0x8p+112:
+libm: sin(x) = 0xd.3ac91d87cbf3p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e71df9033aebp-4
+Quad: sin(x) = -0x1.fce3bf20675d63a90cf6af2c480bp-1
+---
+x = 0x8p+113:
+libm: sin(x) = -0xc.0bcbcc3822f38p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.008036da8a37p-6
+Quad: sin(x) = 0x1.c01006db5146e7efdf17a7afdbaep-3
+---
+x = 0x8p+114:
+libm: sin(x) = -0xf.db3fe8fc2e01p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.a9a9bbb468b38p-5
+Quad: sin(x) = -0x1.b53537768d166a0fad95e1a4dc7cp-2
+---
+x = 0x8p+115:
+libm: sin(x) = 0x8.7a2d583eb2de8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.5ad509a7dc54p-4
+Quad: sin(x) = -0x1.8b5aa134fb8a84d8734ae93de4b7p-1
+---
+x = 0x8p+116:
+libm: sin(x) = -0x8.2ca4196d0f778p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b36230ca5ddb8p-4
+Quad: sin(x) = -0x1.f66c46194bbb6fd161e261d8343ep-1
+---
+x = 0x8p+117:
+libm: sin(x) = -0xe.0dd6f9992fffp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.171a32af37e58p-5
+Quad: sin(x) = 0x1.82e34655e6fcb6d797c6aa4cfcdfp-2
+---
+x = 0x8p+118:
+libm: sin(x) = -0xd.6f488f3f5fca8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.31b0b93ad8008p-4
+Quad: sin(x) = -0x1.663617275b0015dc58c5042d2c18p-1
+---
+x = 0x8p+119:
+libm: sin(x) = 0xe.97bdc7e883448p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ff18106753acp-4
+Quad: sin(x) = -0x1.ffe3020cea7583e2c2cce9e33a9ap-1
+---
+x = 0x8p+120:
+libm: sin(x) = -0xb.f7f603c63522p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.c40fb775b5468p-8
+Quad: sin(x) = -0x1.5881f6eeb6a8c94a209eec814208p-5
+---
+x = 0x8p+121:
+libm: sin(x) = 0xf.e2d606ea9871p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.c19f89b908fdp-7
+Quad: sin(x) = 0x1.5833f137211f981d24bdfd219bf0p-4
+---
+x = 0x8p+122:
+libm: sin(x) = -0xf.23863858929e8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.b7e222b07a72p-6
+Quad: sin(x) = 0x1.56fc44560f4e472b68bc694a964cp-3
+---
+x = 0x8p+123:
+libm: sin(x) = 0xe.b58a6890c4e48p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.91216138a4f18p-5
+Quad: sin(x) = 0x1.52242c27149e29de502cc1a326d4p-2
+---
+x = 0x8p+124:
+libm: sin(x) = 0xd.102804cef8328p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.f963166f215e8p-4
+Quad: sin(x) = 0x1.3f2c62cde42bd71270306d95f546p-1
+---
+x = 0x8p+125:
+libm: sin(x) = 0xf.15fe135a7de88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.990fbab59422p-4
+Quad: sin(x) = 0x1.f321f756b28445f0d71c8380185cp-1
+---
+x = 0x8p+126:
+libm: sin(x) = -0xa.0d58820a9a6ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.e6501deb3025p-5
+Quad: sin(x) = 0x1.bcca03bd6604a615e233ee9b3fc5p-2
+---
+x = 0x8p+127:
+libm: sin(x) = 0xf.a426ac24b862p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.851ae29c61098p-4
+Quad: sin(x) = -0x1.90a35c538c2130f9f4e047297f7dp-1
+---
+x = 0x8p+128:
+libm: sin(x) = 0xd.2cd3d22ae2368p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.9759b99417fbp-4
+Quad: sin(x) = -0x1.f2eb373282ff62007319e2d86beep-1
+---
+x = 0x8p+129:
+libm: sin(x) = -0xc.01b083897f5e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.01d8997fe881p-5
+Quad: sin(x) = 0x1.c03b132ffd102322cdc5b274c92ep-2
+---
+x = 0x8p+130:
+libm: sin(x) = -0xf.df3b67b7429a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.9810c736eaee8p-4
+Quad: sin(x) = -0x1.930218e6dd5dcb1a2506376bdbc8p-1
+---
+x = 0x8p+131:
+libm: sin(x) = 0x8.03bbc34e0b608p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.89298d28e812p-4
+Quad: sin(x) = -0x1.f12531a51d023b67c03d8a6dae66p-1
+---
+x = 0x8p+132:
+libm: sin(x) = -0xf.84ae708bab8d8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.dc474a9e2ea58p-5
+Quad: sin(x) = 0x1.db88e953c5d4b731fa9d64a4f7edp-2
+---
+x = 0x8p+133:
+libm: sin(x) = -0xd.9248b7e703dep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.292ff2ac3e7fp-4
+Quad: sin(x) = -0x1.a525fe5587cfdd62f5e2ee5c79e3p-1
+---
+x = 0x8p+134:
+libm: sin(x) = -0xe.6055ff5bd6b38p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.f802f5eb6f07p-4
+Quad: sin(x) = -0x1.df005ebd6de0de087fb555b87a62p-1
+---
+x = 0x8p+135:
+libm: sin(x) = 0xc.9ed89476a7c88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.92e52de61a638p-4
+Quad: sin(x) = 0x1.525ca5bcc34c76cc2a0f43a19655p-1
+---
+x = 0x8p+136:
+libm: sin(x) = -0xf.83d692a7d25fp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.df15b5d382078p-4
+Quad: sin(x) = -0x1.fbe2b6ba7040ec9ec4cf978c2ae7p-1
+---
+x = 0x8p+137:
+libm: sin(x) = 0xf.2a13e2fb4c168p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.083eba4e18c7p-5
+Quad: sin(x) = -0x1.0107d749c318e404bc655838fabdp-2
+---
+x = 0x8p+138:
+libm: sin(x) = -0xd.5a80cd35840a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.8cd4931a423b8p-5
+Quad: sin(x) = 0x1.f19a92634847764fc275579951cbp-2
+---
+x = 0x8p+139:
+libm: sin(x) = -0xe.b6417a9119d78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.97363fa0579ep-4
+Quad: sin(x) = 0x1.b2e6c7f40af3b9a6fb4ec941bfa8p-1
+---
+x = 0x8p+140:
+libm: sin(x) = 0xb.910657795a16p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.581d85f330af8p-4
+Quad: sin(x) = 0x1.cb03b0be6615ecef825ddf97bc37p-1
+---
+x = 0x8p+141:
+libm: sin(x) = -0xf.fbd0e82b477e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.b5a10f9f44bfp-4
+Quad: sin(x) = -0x1.96b421f3e897e6889b5e14080debp-1
+---
+x = 0x8p+142:
+libm: sin(x) = 0xb.8e61012674118p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.70f5e45b03f98p-4
+Quad: sin(x) = 0x1.ee1ebc8b607f29ea70c68c46265cp-1
+---
+x = 0x8p+143:
+libm: sin(x) = -0xb.824c26f010318p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.170c9056e5648p-4
+Quad: sin(x) = -0x1.02e1920adcac8c4f724048e4319ep-1
+---
+x = 0x8p+144:
+libm: sin(x) = -0xb.52446c4f01f38p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.f59a8d50d8f48p-4
+Quad: sin(x) = 0x1.beb351aa1b1e94f2117d4ad16c91p-1
+---
+x = 0x8p+145:
+libm: sin(x) = -0xa.96d1a2040d978p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.a4b69bd934618p-4
+Quad: sin(x) = 0x1.b496d37b268c34a944842eb4c206p-1
+---
+x = 0x8p+146:
+libm: sin(x) = -0xf.e0652b0530658p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.410ae6526055p-4
+Quad: sin(x) = -0x1.c8215cca4c0aa267fa34ae269b16p-1
+---
+x = 0x8p+147:
+libm: sin(x) = -0xf.bf6bd10b6348p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.f314606a35458p-4
+Quad: sin(x) = 0x1.9e628c0d46a8a8b85d7888dd9791p-1
+---
+x = 0x8p+148:
+libm: sin(x) = 0xf.4379a0f7d5fe8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.361bf817767a8p-4
+Quad: sin(x) = -0x1.e6c37f02eecf5696b0ceb18b9e7bp-1
+---
+x = 0x8p+149:
+libm: sin(x) = 0xd.6a5228c213b3p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.6ef9c003ba858p-4
+Quad: sin(x) = 0x1.2ddf38007750a91b8484618c590bp-1
+---
+x = 0x8p+150:
+libm: sin(x) = 0xe.9f2f857d409ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.3d26d46bd3f78p-4
+Quad: sin(x) = -0x1.e7a4da8d7a7ef053aa161f789b76p-1
+---
+x = 0x8p+151:
+libm: sin(x) = -0xb.dfa0054d59f48p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.49d1cae44716p-4
+Quad: sin(x) = -0x1.293a395c88e2be437840d72fd5b9p-1
+---
+x = 0x8p+152:
+libm: sin(x) = 0xf.eae1fd70c822p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.2040865257508p-4
+Quad: sin(x) = 0x1.e40810ca4aea17e84b1575967749p-1
+---
+x = 0x8p+153:
+libm: sin(x) = -0xc.e9f6b8b2d86a8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.dc9ccda957618p-4
+Quad: sin(x) = 0x1.3b9399b52aec34ec9daed0c83ad6p-1
+---
+x = 0x8p+154:
+libm: sin(x) = 0xc.a5f684043a468p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.881567b1ca81p-4
+Quad: sin(x) = -0x1.f102acf639501b7deb2531119563p-1
+---
+x = 0x8p+155:
+libm: sin(x) = 0xb.9e4b6463e4acp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.ec36ad71eaecp-5
+Quad: sin(x) = -0x1.dd86d5ae3d5d87dcedc2a56a2e07p-2
+---
+x = 0x8p+156:
+libm: sin(x) = 0xf.f9e53398d5458p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.33649769c099p-4
+Quad: sin(x) = 0x1.a66c92ed38131da76e0060906b3cp-1
+---
+x = 0x8p+157:
+libm: sin(x) = -0xd.f362e1ed55a4p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.eb2573d9c844p-4
+Quad: sin(x) = 0x1.dd64ae7b39088664b3e5d79ddfa0p-1
+---
+x = 0x8p+158:
+libm: sin(x) = 0xd.de1c6681ddc48p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.c885421444ap-4
+Quad: sin(x) = -0x1.5910a842889402a28e6e170209aap-1
+---
+x = 0x8p+159:
+libm: sin(x) = 0xd.89c4c24230f8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.eecaad5b6effp-4
+Quad: sin(x) = 0x1.fdd955ab6ddfdff16bdb91013231p-1
+---
+x = 0x8p+160:
+libm: sin(x) = 0xc.44539ee5f10dp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.abeb3b468c76p-6
+Quad: sin(x) = 0x1.757d6768d18ec7b49e09a960b14cp-3
+---
+x = 0x8p+161:
+libm: sin(x) = 0xf.c05ab835e0518p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.79cffcf62b7ep-5
+Quad: sin(x) = -0x1.6f39ff9ec56fc17bca93228aaa01p-2
+---
+x = 0x8p+162:
+libm: sin(x) = -0xb.105548846ef88p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.b66673ad4dcd8p-4
+Quad: sin(x) = -0x1.56ccce75a9b9ac4c6999e50016c8p-1
+---
+x = 0x8p+163:
+libm: sin(x) = 0xa.61a902bbc2548p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ea0568b656e4p-4
+Quad: sin(x) = -0x1.fd40ad16cadc83f8b1b876efef78p-1
+---
+x = 0x8p+164:
+libm: sin(x) = 0xf.cc8bf33a50d18p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.2bd84e7ac4e18p-6
+Quad: sin(x) = -0x1.a57b09cf589c2fdcf83e91dcc118p-3
+---
+x = 0x8p+165:
+libm: sin(x) = 0x9.fc4015d027838p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.e3aaadb55b748p-5
+Quad: sin(x) = 0x1.9c7555b6ab6e95549aadb0db89bdp-2
+---
+x = 0x8p+166:
+libm: sin(x) = -0x9.7c9cb8e9315ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.cc28714873748p-4
+Quad: sin(x) = 0x1.79850e290e6e8b95b5ff45aaa221p-1
+---
+x = 0x8p+167:
+libm: sin(x) = -0xf.475325f4746ep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.f057ff1d4699p-4
+Quad: sin(x) = 0x1.fe0affe3a8d323e21617858f3e26p-1
+---
+x = 0x8p+168:
+libm: sin(x) = -0x9.126d22bf3183p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.23596aeb93c4p-6
+Quad: sin(x) = -0x1.646b2d5d727878f3c4d88b59ac6dp-3
+---
+x = 0x8p+169:
+libm: sin(x) = 0xe.f20d5bf8d2e48p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.f7d660c52f4p-5
+Quad: sin(x) = 0x1.5efacc18a5e7fde8bdf35864987cp-2
+---
+x = 0x8p+170:
+libm: sin(x) = 0xa.abfe63b34f148p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.4dc0edba0e4ap-4
+Quad: sin(x) = 0x1.49b81db741c93f8af49e836e6631p-1
+---
+x = 0x8p+171:
+libm: sin(x) = -0xf.e7081e5232e88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c3f94c2b25808p-4
+Quad: sin(x) = 0x1.f87f298564b0140f4b13239df9efp-1
+---
+x = 0x8p+172:
+libm: sin(x) = -0xe.068ce4538658p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.c1b35e35dcb6p-5
+Quad: sin(x) = 0x1.58366bc6bb96c297b30a5fca62f2p-2
+---
+x = 0x8p+173:
+libm: sin(x) = 0xd.af44bab432bf8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.2176a0fab3f88p-4
+Quad: sin(x) = -0x1.442ed41f567f16d2aa228ef261cdp-1
+---
+x = 0x8p+174:
+libm: sin(x) = 0xc.5ec4a09bae8d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.aebf9beef1048p-4
+Quad: sin(x) = -0x1.f5d7f37dde2091ee8b5b190f9a4cp-1
+---
+x = 0x8p+175:
+libm: sin(x) = 0xf.b0fa5f1ece5cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.6ec3ebffc3ebp-5
+Quad: sin(x) = -0x1.8dd87d7ff87d5e432fa1b839ab8cp-2
+---
+x = 0x8p+176:
+libm: sin(x) = -0xc.44f80123a8a88p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.74ba05abad538p-4
+Quad: sin(x) = 0x1.6e9740b575aa6dad54268a95f3b0p-1
+---
+x = 0x8p+177:
+libm: sin(x) = 0xb.54eb2b630a838p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.feb035b6d5c5p-4
+Quad: sin(x) = 0x1.ffd606b6dab89f8ef5f5e66746b9p-1
+---
+x = 0x8p+178:
+libm: sin(x) = 0xf.fffaae23116p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.f3c67a2bba2d8p-8
+Quad: sin(x) = -0x1.9e78cf457745b0e0e815c2b7213dp-5
+---
+x = 0x8p+179:
+libm: sin(x) = -0xd.0c188a082aabp-11 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.ef87578b500e8p-7
+Quad: sin(x) = 0x1.9df0eaf16a01d152c71cae28df8fp-4
+---
+x = 0x8p+180:
+libm: sin(x) = 0xd.0c072fe6cc0f8p-10 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.de9326be44148p-6
+Quad: sin(x) = 0x1.9bd264d7c882955ffbd2ed565d78p-3
+---
+x = 0x8p+181:
+libm: sin(x) = 0xd.0bc1c7ebc805p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.9b477b9cd6b28p-5
+Quad: sin(x) = 0x1.9368ef739ad6504369bc9effe1d0p-2
+---
+x = 0x8p+182:
+libm: sin(x) = 0xd.0aac30a6fb878p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.9649ce5556f3p-4
+Quad: sin(x) = 0x1.72c939caaade661601ea32b819a2p-1
+---
+x = 0x8p+183:
+libm: sin(x) = 0xd.06565dff62e6p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fb193a603bcbp-4
+Quad: sin(x) = 0x1.ff63274c07795f16ce99e241f415p-1
+---
+x = 0x8p+184:
+libm: sin(x) = 0xc.f507b7f28df28p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.814ebf17c16d8p-7
+Quad: sin(x) = -0x1.9029d7e2f82da8c6cbbb8b20c21cp-4
+---
+x = 0x8p+185:
+libm: sin(x) = 0xc.b056df27492e8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.71fe542ed79ep-6
+Quad: sin(x) = 0x1.8e3fca85daf3c1f4e16e8d5d212ap-3
+---
+x = 0x8p+186:
+libm: sin(x) = 0xb.a60d56f3310ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.352d00fa6a0fp-5
+Quad: sin(x) = 0x1.86a5a01f4d41e46132a2cc29ba61p-2
+---
+x = 0x8p+187:
+libm: sin(x) = 0xf.f89985558ed98p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.48d394d2d7638p-4
+Quad: sin(x) = 0x1.691a729a5aec6cdbd337495e3687p-1
+---
+x = 0x8p+188:
+libm: sin(x) = -0xf.5a98487744f3p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fff209a3abba8p-4
+Quad: sin(x) = 0x1.fffe413475775572ec873e333e60p-1
+---
+x = 0x8p+189:
+libm: sin(x) = 0xf.3e36f2a6953d8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.918efbbc77bcp-10
+Quad: sin(x) = 0x1.5231df778ef7830a430edd9e35d9p-7
+---
+x = 0x8p+190:
+libm: sin(x) = 0xe.cdeb9932c8488p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.916a17d0123fp-9
+Quad: sin(x) = -0x1.522d42fa0247ddda15abc2c12829p-6
+---
+x = 0x8p+191:
+libm: sin(x) = 0xd.1ff22d2c2fcap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.90d68b231475p-8
+Quad: sin(x) = -0x1.521ad164628e9913ede24f077fdfp-5
+---
+x = 0x8p+192:
+libm: sin(x) = 0xf.03567bfb574d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.8e8888b6a6568p-7
+Quad: sin(x) = -0x1.51d11116d4cad032c4ee197bfaa4p-4
+---
+x = 0x8p+193:
+libm: sin(x) = -0xa.61e9e24b70498p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.855382ff234c8p-6
+Quad: sin(x) = -0x1.50aa705fe4698a599d63fb639b24p-3
+---
+x = 0x8p+194:
+libm: sin(x) = 0xf.cca6e119f03b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.60af8c39d2238p-5
+Quad: sin(x) = -0x1.4c15f1873a44689929a24a459b0cp-2
+---
+x = 0x8p+195:
+libm: sin(x) = 0x9.f9b80903724b8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.d119dc2e87p-4
+Quad: sin(x) = -0x1.3a233b85d0e0064523b35ddedd8ap-1
+---
+x = 0x8p+196:
+libm: sin(x) = -0x9.7a77587be589p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.80f84150f05b8p-4
+Quad: sin(x) = -0x1.f01f082a1e0b6c7d555db00697c6p-1
+---
+x = 0x8p+197:
+libm: sin(x) = -0xf.45bd4e99ae05p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.53217a7bc3cp-5
+Quad: sin(x) = -0x1.ea642f4f7877faecf4b5c01ac3c4p-2
+---
+x = 0x8p+198:
+libm: sin(x) = -0x9.1b3276dd23338p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.74005c32169b8p-4
+Quad: sin(x) = 0x1.ae800b8642d36f045a031404bc9cp-1
+---
+x = 0x8p+199:
+libm: sin(x) = 0xe.f99c39990d65p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.909229431c498p-4
+Quad: sin(x) = 0x1.d212452863892ff031892af48a72p-1
+---
+x = 0x8p+200:
+libm: sin(x) = 0xa.8c15a2071c83p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.0ef2fad943b18p-4
+Quad: sin(x) = -0x1.81de5f5b28762ca85bdf21bf47c6p-1
+---
+x = 0x8p+201:
+libm: sin(x) = -0xf.dcc03d8e0beap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d9f5012bfb3d8p-4
+Quad: sin(x) = 0x1.fb3ea0257f67b7d94e4f578e454fp-1
+---
+x = 0x8p+202:
+libm: sin(x) = -0x8.4e5ea3baa2448p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.9f226dea4a2ap-5
+Quad: sin(x) = -0x1.13e44dbd49453c29928c9b3a2139p-2
+---
+x = 0x8p+203:
+libm: sin(x) = 0x8.057d2236bce88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.4d846f4be4e3p-4
+Quad: sin(x) = 0x1.09b08de97c9c603bd24f74bcb0f1p-1
+---
+x = 0x8p+204:
+libm: sin(x) = 0xd.e190555f1b2ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.31de3e8e4d1e8p-4
+Quad: sin(x) = 0x1.c63bc7d1c9a3cad72bc92fb0ddd4p-1
+---
+x = 0x8p+205:
+libm: sin(x) = 0xd.ce7d98926611p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.19939143257a8p-4
+Quad: sin(x) = 0x1.a332722864af4c096cd9c82ecb08p-1
+---
+x = 0x8p+206:
+libm: sin(x) = -0xd.f45496f4e027p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.0af7d582792ep-4
+Quad: sin(x) = -0x1.e15efab04f25c1df122ef77d7a45p-1
+---
+x = 0x8p+207:
+libm: sin(x) = 0xd.a76e5e6602188p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.3fedb9ea33638p-4
+Quad: sin(x) = 0x1.47fdb73d466c76d178a0dcbc0804p-1
+---
+x = 0x8p+208:
+libm: sin(x) = -0xe.3c4c9d472fd7p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.bda9f7cf08f18p-4
+Quad: sin(x) = -0x1.f7b53ef9e11e2b86a81ec700c662p-1
+---
+x = 0x8p+209:
+libm: sin(x) = 0xc.ff45b9883942p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.492b9a49a66fp-5
+Quad: sin(x) = -0x1.6925734934cde5819856ba61e9b1p-2
+---
+x = 0x8p+210:
+libm: sin(x) = -0xf.28fd085349b4p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.8f858c7b06fb8p-4
+Quad: sin(x) = 0x1.51f0b18f60df6eb0cd23a3da6863p-1
+---
+x = 0x8p+211:
+libm: sin(x) = 0x9.b1c6fe418fddp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ddf02ad882df8p-4
+Quad: sin(x) = 0x1.fbbe055b105bee7050b964acc92ep-1
+---
+x = 0x8p+212:
+libm: sin(x) = -0xf.6cb3422b41d78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.2b04742ddc708p-5
+Quad: sin(x) = 0x1.05608e85bb8e0ccd735b2f07df63p-2
+---
+x = 0x8p+213:
+libm: sin(x) = -0x8.32d81750a9708p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.cb8106048b41p-5
+Quad: sin(x) = -0x1.f97020c091681a28f766b9c7d8cep-2
+---
+x = 0x8p+214:
+libm: sin(x) = 0xe.14b809ef54d28p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.bc9c26de67e5p-4
+Quad: sin(x) = -0x1.b79384dbccfca577292216e36624p-1
+---
+x = 0x8p+215:
+libm: sin(x) = 0xd.5f8398c5b2a08p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.162c4588affap-4
+Quad: sin(x) = -0x1.c2c588b115ff3bade140dfc82508p-1
+---
+x = 0x8p+216:
+libm: sin(x) = -0xe.af0e07a3b07e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.5c25525915a6p-4
+Quad: sin(x) = 0x1.ab84aa4b22b4c3acdc7c3a93edbbp-1
+---
+x = 0x8p+217:
+libm: sin(x) = 0xb.aa172382a7ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.b3e7f407be988p-4
+Quad: sin(x) = -0x1.d67cfe80f7d30a1c1c791c6a81bcp-1
+---
+x = 0x8p+218:
+libm: sin(x) = -0xf.f7dfd41584b78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.99421d179072p-4
+Quad: sin(x) = 0x1.732843a2f20e41d66556e331b0c3p-1
+---
+x = 0x8p+219:
+libm: sin(x) = 0x8.0ae8167819468p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.faab01f08f81p-4
+Quad: sin(x) = -0x1.ff55603e11f018b65d399e5e04ffp-1
+---
+x = 0x8p+220:
+libm: sin(x) = -0xf.f52b799535768p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.0a832d3e7855p-7
+Quad: sin(x) = 0x1.a15065a7cf0a9e3fcd7103fa7c61p-4
+---
+x = 0x8p+221:
+libm: sin(x) = -0xf.742519efd85ap-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.f923d5bac202p-6
+Quad: sin(x) = -0x1.9f247ab758403c313d1de582299fp-3
+---
+x = 0x8p+222:
+libm: sin(x) = -0xd.883d0b1a688cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.b43114b6ac108p-5
+Quad: sin(x) = -0x1.96862296d5820ee657dffe473879p-2
+---
+x = 0x8p+223:
+libm: sin(x) = -0xe.70c48b79d4c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.a8ed78f989698p-4
+Quad: sin(x) = -0x1.751daf1f312d329fbe054e3a2c71p-1
+---
+x = 0x8p+224:
+libm: sin(x) = 0xc.6fd663a4442ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.f81636cd4ec98p-4
+Quad: sin(x) = -0x1.ff02c6d9a9d92e50b2e12c6eb696p-1
+---
+x = 0x8p+225:
+libm: sin(x) = -0xf.a61068c7b03cp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.dfe415396e2b8p-7
+Quad: sin(x) = 0x1.fbfc82a72dc56b21e8a2800011b1p-4
+---
+x = 0x8p+226:
+libm: sin(x) = 0xd.0b81b78dcb8e8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c0843a0d8e108p-6
+Quad: sin(x) = -0x1.f8108741b1c20ed74bcac047cbedp-3
+---
+x = 0x8p+227:
+libm: sin(x) = -0xb.e96ca7e82b2dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4477e502ff018p-5
+Quad: sin(x) = -0x1.e88efca05fe03786cc378a997c41p-2
+---
+x = 0x8p+228:
+libm: sin(x) = -0xf.e7ceb61e09fd8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.6aefc9f132b6p-4
+Quad: sin(x) = -0x1.ad5df93e2656c0b3ed609ec5ce4cp-1
+---
+x = 0x8p+229:
+libm: sin(x) = 0xd.cf2c56ad97e08p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.9e44721a5937p-4
+Quad: sin(x) = -0x1.d3c88e434b26e2c4217e0bdaba4dp-1
+---
+x = 0x8p+230:
+libm: sin(x) = -0xd.7be64840665dp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.e2a73af6b03bp-4
+Quad: sin(x) = 0x1.7c54e75ed60766c617e40a3d98b9p-1
+---
+x = 0x8p+231:
+libm: sin(x) = -0xc.3a7b6045ee2d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e9f4bbb18a2ep-4
+Quad: sin(x) = -0x1.fd3e97763145be2e9915ff24600cp-1
+---
+x = 0x8p+232:
+libm: sin(x) = -0xf.c59d74e2a5618p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.30c53d0bd244p-6
+Quad: sin(x) = 0x1.a618a7a17a487d3c0262f7067099p-3
+---
+x = 0x8p+233:
+libm: sin(x) = 0xa.9d2c1601865fp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.e845ec6ada03p-5
+Quad: sin(x) = -0x1.9d08bd8d5b4059810bfacb0feebap-2
+---
+x = 0x8p+234:
+libm: sin(x) = -0xa.035a449b901c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.cf8e4d29196ep-4
+Quad: sin(x) = -0x1.79f1c9a5232db93394d5b3390147p-1
+---
+x = 0x8p+235:
+libm: sin(x) = -0xf.9eab6fede5918p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ef73bb1af3cfp-4
+Quad: sin(x) = -0x1.fdee77635e79e119c8be4fc1c72cp-1
+---
+x = 0x8p+236:
+libm: sin(x) = -0xd.8a15c904c7658p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.729ecae8a07d8p-6
+Quad: sin(x) = 0x1.6e53d95d140fa87552740ca6d266p-3
+---
+x = 0x8p+237:
+libm: sin(x) = 0xc.448d07da68428p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.435b5c6955918p-5
+Quad: sin(x) = -0x1.686b6b8d2ab2351cc8ab8be7697fp-2
+---
+x = 0x8p+238:
+libm: sin(x) = 0xf.c03b4c7490aa8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.8ada233e6d97p-4
+Quad: sin(x) = -0x1.515b4467cdb2e2c95b2da48011a6p-1
+---
+x = 0x8p+239:
+libm: sin(x) = -0xb.12f48438cd17p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.dc5213f39b4d8p-4
+Quad: sin(x) = -0x1.fb8a427e7369aafab495f10ee94ep-1
+---
+x = 0x8p+240:
+libm: sin(x) = 0xa.63c9364a73be8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.5b06cef852d6p-5
+Quad: sin(x) = -0x1.0b60d9df0a5aba08850e89d04f7cp-2
+---
+x = 0x8p+241:
+libm: sin(x) = 0xf.cd6d0f33a352p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.10d21f02bc97p-4
+Quad: sin(x) = 0x1.021a43e05792dd496fe30ae72034p-1
+---
+x = 0x8p+242:
+libm: sin(x) = 0x9.e70044214b8d8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.ee878d66ec578p-4
+Quad: sin(x) = 0x1.bdd0f1acdd8aedccea96a24cff58p-1
+---
+x = 0x8p+243:
+libm: sin(x) = -0x9.6a92dc2cf6d9p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.b3b4010bedc1p-4
+Quad: sin(x) = 0x1.b67680217db81a244a537ed4affbp-1
+---
+x = 0x8p+244:
+libm: sin(x) = -0xf.39d1525c7b04p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.2676054f6a8d8p-4
+Quad: sin(x) = -0x1.c4cec0a9ed51b23cb6b630cf76cep-1
+---
+x = 0x8p+245:
+libm: sin(x) = -0x9.5b87097456ae8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.358f272da259p-4
+Quad: sin(x) = 0x1.a6b1e4e5b44b1a0be79126c829cfp-1
+---
+x = 0x8p+246:
+libm: sin(x) = 0xf.2e3d16ea6b8e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.e85de02737f48p-4
+Quad: sin(x) = -0x1.dd0bbc04e6fe89cd14d0d23ccf23p-1
+---
+x = 0x8p+247:
+libm: sin(x) = 0x9.9769d40f43be8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.d3d6711e95208p-4
+Quad: sin(x) = 0x1.5a7ace23d2a41617c6c9e3615457p-1
+---
+x = 0x8p+248:
+libm: sin(x) = -0xf.5aa052685ca9p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.f17cc9790a75p-4
+Quad: sin(x) = -0x1.fe2f992f214ea505512f8e52906dp-1
+---
+x = 0x8p+249:
+libm: sin(x) = -0x8.a337dad642fe8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.ba3038fc6c048p-6
+Quad: sin(x) = -0x1.5746071f8d808a0dfe0a920396c1p-3
+---
+x = 0x8p+250:
+libm: sin(x) = 0xe.8aa400a67b04p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.935652f259328p-5
+Quad: sin(x) = 0x1.526aca5e4b2654f8ea73a0c66e93p-2
+---
+x = 0x8p+251:
+libm: sin(x) = 0xc.21a260529b77p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.fb36fe8fef55p-4
+Quad: sin(x) = 0x1.3f66dfd1fdea9b98ba3d3ef425dbp-1
+---
+x = 0x8p+252:
+libm: sin(x) = -0xf.d1cd12caaae78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.9a19c0d682cc8p-4
+Quad: sin(x) = 0x1.f343381ad0598e99920a541bcab8p-1
+---
+x = 0x8p+253:
+libm: sin(x) = 0x9.7a24e7507218p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.d574ac0108e38p-5
+Quad: sin(x) = 0x1.baae9580211c6acc03043666a4a1p-2
+---
+x = 0x8p+254:
+libm: sin(x) = -0x9.0d4d9cf311158p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.796cd4524d308p-4
+Quad: sin(x) = -0x1.8f2d9a8a49a60d5f497be3ee3182p-1
+---
+x = 0x8p+255:
+libm: sin(x) = -0xe.ed9888885e75p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.9f9607fbeb19p-4
+Quad: sin(x) = -0x1.f3f2c0ff7d631ed14b82613f1830p-1
+---
+x = 0x8p+256:
+libm: sin(x) = -0xa.be782a98a4c3p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.7ab72a44293ap-5
+Quad: sin(x) = 0x1.af56e548852744031aa098cb00c9p-2
+---
+x = 0x8p+257:
+libm: sin(x) = 0xf.ec36d175e061p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.39a3cbf854bfp-4
+Quad: sin(x) = -0x1.8734797f0a97da814343d886c782p-1
+---
+x = 0x8p+258:
+libm: sin(x) = 0xc.815c0260df778p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c60db53e12088p-4
+Quad: sin(x) = -0x1.f8c1b6a7c24111ba1e4a92a20716p-1
+---
+x = 0x8p+259:
+libm: sin(x) = -0xc.43a6d6b247158p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.93511250264bp-5
+Quad: sin(x) = 0x1.526a224a04c959f941834459ecccp-2
+---
+x = 0x8p+260:
+libm: sin(x) = -0xb.53e9678d56268p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.fb32a515dc658p-4
+Quad: sin(x) = -0x1.3f6654a2bb8cb53d86ef54b3c94ep-1
+---
+x = 0x8p+261:
+libm: sin(x) = -0xf.fffcc06ff1ce8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.9a174935a3bcp-4
+Quad: sin(x) = -0x1.f342e926b4778144cfb2763e31e6p-1
+---
+x = 0x8p+262:
+libm: sin(x) = 0xa.320071359dc08p-11 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.d59cd15c0d888p-5
+Quad: sin(x) = -0x1.bab39a2b81b10e17c2b82f5c08c7p-2
+---
+x = 0x8p+263:
+libm: sin(x) = -0xa.31f829b36ccbp-10 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.7988b57b9524p-4
+Quad: sin(x) = 0x1.8f3116af72a478d4c262c6aad571p-1
+---
+x = 0x8p+264:
+libm: sin(x) = -0xa.31d70bd300118p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.9f82d25976p-4
+Quad: sin(x) = 0x1.f3f05a4b2ec001508b51f6839ffcp-1
+---
+x = 0x8p+265:
+libm: sin(x) = -0xa.315296d6b8dfp-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.7bfa2ee22c8dp-5
+Quad: sin(x) = -0x1.af7f45dc4591a7e8004d8e6cc4b0p-2
+---
+x = 0x8p+266:
+libm: sin(x) = -0xa.2f40eb3ace2a8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.3a898707976dp-4
+Quad: sin(x) = 0x1.875130e0f2eda19db14d0a29ba00p-1
+---
+x = 0x8p+267:
+libm: sin(x) = -0xa.26fcc1bc08fe8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c59612630c908p-4
+Quad: sin(x) = 0x1.f8b2c24c6192084c2b976ddf77f5p-1
+---
+x = 0x8p+268:
+libm: sin(x) = -0xa.0614524936dap-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.9dd1b30d426f8p-5
+Quad: sin(x) = -0x1.53ba3661a84dedfada51325a31d0p-2
+---
+x = 0x8p+269:
+libm: sin(x) = -0x9.84efe4464cfep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.03e32f7a793d8p-4
+Quad: sin(x) = 0x1.407c65ef4f27b6008adc859f8de2p-1
+---
+x = 0x8p+270:
+libm: sin(x) = -0xf.4d6b4632cac98p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.9ef7773e82438p-4
+Quad: sin(x) = 0x1.f3deeee7d048716ef4b49006a09cp-1
+---
+x = 0x8p+271:
+libm: sin(x) = -0x8.f036b4e561998p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.851d0ede97478p-5
+Quad: sin(x) = 0x1.b0a3a1dbd2e8e8d601a128e7375ap-2
+---
+x = 0x8p+272:
+libm: sin(x) = 0xe.d3b7ae2428a78p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.4106b78a03a78p-4
+Quad: sin(x) = -0x1.8820d6f14074ecdcefa26970c247p-1
+---
+x = 0x8p+273:
+libm: sin(x) = 0xb.2515c09f2dd5p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c2254dd924818p-4
+Quad: sin(x) = -0x1.f844a9bb24903234bb191fd1583dp-1
+---
+x = 0x8p+274:
+libm: sin(x) = -0xf.fe33c1a85826p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.e9bcebc2e9b18p-5
+Quad: sin(x) = 0x1.5d379d785d3632db6f0d2bb44e21p-2
+---
+x = 0x8p+275:
+libm: sin(x) = -0xf.29544ada3dfbp-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.4241f37b20918p-4
+Quad: sin(x) = -0x1.48483e6f641231aedb47ae7db719p-1
+---
+x = 0x8p+276:
+libm: sin(x) = 0xf.22842fb212268p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.bebf46a92bf38p-4
+Quad: sin(x) = -0x1.f7d7e8d5257e7209ffe8136780bep-1
+---
+x = 0x8p+277:
+libm: sin(x) = 0xf.07561eaf16548p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.3271f951e4e9p-5
+Quad: sin(x) = -0x1.664e3f2a3c9d27d6b3134fa3067dp-2
+---
+x = 0x8p+278:
+libm: sin(x) = 0xe.9bc2095bd1558p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.7d3d87ddd235p-4
+Quad: sin(x) = 0x1.4fa7b0fbba469e02e2d557b3b6e4p-1
+---
+x = 0x8p+279:
+libm: sin(x) = 0xc.ff530f5dbc898p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d767d50fd545p-4
+Quad: sin(x) = 0x1.faecfaa1faa8a2cd2e8e017cd57fp-1
+---
+x = 0x8p+280:
+libm: sin(x) = 0xf.28ee68dcca6a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.e6283c0be38bp-5
+Quad: sin(x) = 0x1.1cc507817c715b0968d4f1d51d09p-2
+---
+x = 0x8p+281:
+libm: sin(x) = -0x9.b20fc0c8e62b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.8c4ab1cc0d958p-4
+Quad: sin(x) = -0x1.1189563981b2b642595dacf928d0p-1
+---
+x = 0x8p+282:
+libm: sin(x) = 0xf.6ce3dbb157918p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.73a3be6b559e8p-4
+Quad: sin(x) = -0x1.ce7477cd6ab3d57964aae8d0280ap-1
+---
+x = 0x8p+283:
+libm: sin(x) = 0x8.319de323f98ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.676a2f78f3acp-4
+Quad: sin(x) = -0x1.8ced45ef1e758568162248b09060p-1
+---
+x = 0x8p+284:
+libm: sin(x) = -0xe.135c5a7a76e4p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ab8c3a2d951e8p-4
+Quad: sin(x) = 0x1.f5718745b2a3d700659de37a0bd6p-1
+---
+x = 0x8p+285:
+libm: sin(x) = -0xd.62a629369a1f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.a99f303992eb8p-5
+Quad: sin(x) = -0x1.9533e607325d68742e4b4d90bff3p-2
+---
+x = 0x8p+286:
+libm: sin(x) = 0xe.aa7fcadeed71p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.a10832176e3fp-4
+Quad: sin(x) = 0x1.74210642edc7e49c17bc1fad9eafp-1
+---
+x = 0x8p+287:
+libm: sin(x) = -0xb.b9b1ee9b29c5p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.f973e7c41ffcp-4
+Quad: sin(x) = 0x1.ff2e7cf883ff7beaf72c64ee4417p-1
+---
+x = 0x8p+288:
+libm: sin(x) = 0xf.f4bd8e867f368p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.72138af6e04c8p-7
+Quad: sin(x) = -0x1.ce42715edc09922ba762ad305378p-4
+---
+x = 0x8p+289:
+libm: sin(x) = -0x9.7550871a4b7cp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.5a7353ec48a98p-6
+Quad: sin(x) = 0x1.cb4e6a7d8915373efa60d29e6e9cp-3
+---
+x = 0x8p+290:
+libm: sin(x) = 0x9.5aba2bd435db8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.fcd9d09bd13e8p-5
+Quad: sin(x) = 0x1.bf9b3a137a27cde74f45451c0e4ep-2
+---
+x = 0x8p+291:
+libm: sin(x) = 0x8.f21f874373cap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.94a2e9597b8a8p-4
+Quad: sin(x) = 0x1.92945d2b2f714e3e960440efadd6p-1
+---
+x = 0x8p+292:
+libm: sin(x) = 0xe.d572267324aep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.8bcdebb652d4p-4
+Quad: sin(x) = 0x1.f179bd76ca5a7de479cc39277169p-1
+---
+x = 0x8p+293:
+libm: sin(x) = 0xb.1e781a6fbb328p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.b4ddbf700064p-5
+Quad: sin(x) = -0x1.d69bb7ee000c7a7b561bbf6c5f85p-2
+---
+x = 0x8p+294:
+libm: sin(x) = -0xf.fd9d73690dc58p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.0fb7bee86c03p-4
+Quad: sin(x) = 0x1.a1f6f7dd0d8065a2a2c9a198116fp-1
+---
+x = 0x8p+295:
+libm: sin(x) = -0x8.bacd677aef268p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.167f8cb165ab8p-4
+Quad: sin(x) = 0x1.e2cff1962cb57443918647f4d8c5p-1
+---
+x = 0x8p+296:
+libm: sin(x) = 0x8.b599509a7eda8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.0afb4fdeaf73p-4
+Quad: sin(x) = -0x1.415f69fbd5ee618a1385ee1c0a6ap-1
+---
+x = 0x8p+297:
+libm: sin(x) = 0x8.a0db8d7a19e78p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.a2de067997228p-4
+Quad: sin(x) = 0x1.f45bc0cf32e455b0ad696b64e7dcp-1
+---
+x = 0x8p+298:
+libm: sin(x) = 0x8.4f0bf48091068p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.42f5722ce79ep-5
+Quad: sin(x) = 0x1.a85eae459cf3c167500bdcb66e09p-2
+---
+x = 0x8p+299:
+libm: sin(x) = 0xe.3384a1dbe9f7p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.11b2a97b73768p-4
+Quad: sin(x) = -0x1.8236552f6e6ecc7711f2ff5a5f2cp-1
+---
+x = 0x8p+300:
+libm: sin(x) = 0xd.1576398eda788p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.d8cf837a44248p-4
+Quad: sin(x) = -0x1.fb19f06f48848b2fe130691c3c38p-1
+---
+x = 0x8p+301:
+libm: sin(x) = -0xf.0fd248f1418bp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.bf5aa217ec0e8p-5
+Quad: sin(x) = 0x1.17eb5442fd81d5bdd3f7a7e7eddbp-2
+---
+x = 0x8p+302:
+libm: sin(x) = 0xa.29e17dca50288p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.6a0fdac3fd62p-4
+Quad: sin(x) = -0x1.0d41fb587fac39c3367a3dc8f65ep-1
+---
+x = 0x8p+303:
+libm: sin(x) = -0xf.b301d2cc092cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.504672798387p-4
+Quad: sin(x) = -0x1.ca08ce4f3070d8b5933308e04c77p-1
+---
+x = 0x8p+304:
+libm: sin(x) = -0xc.1e557e5011cap-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.caea8e822bb08p-4
+Quad: sin(x) = -0x1.995d51d045760c31cbffe6d4ec89p-1
+---
+x = 0x8p+305:
+libm: sin(x) = 0xb.3744514712e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.5de9a4690449p-4
+Quad: sin(x) = 0x1.ebbd348d20891ecd59ad86308d37p-1
+---
+x = 0x8p+306:
+libm: sin(x) = 0xf.ff648f2eabc48p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.8f6a59195fee8p-4
+Quad: sin(x) = -0x1.11ed4b232bfdd3cb5808d9fcf3edp-1
+---
+x = 0x8p+307:
+libm: sin(x) = 0x8.d074b6210a42p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.76ce5cde817bp-4
+Quad: sin(x) = 0x1.ced9cb9bd02f5fbbd8b27177631cp-1
+---
+x = 0x8p+308:
+libm: sin(x) = -0x8.cf1e365c415a8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.5e0e18826edbp-4
+Quad: sin(x) = 0x1.8bc1c3104ddb6397f08c198abd65p-1
+---
+x = 0x8p+309:
+libm: sin(x) = -0x8.c9c56f24dc7f8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b16ab711bb5e8p-4
+Quad: sin(x) = -0x1.f62d56e2376bca6505b42e587933p-1
+---
+x = 0x8p+310:
+libm: sin(x) = -0x8.b475c724b2698p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.3ca9777ccebbp-5
+Quad: sin(x) = 0x1.87952eef99d758308c070927d451p-2
+---
+x = 0x8p+311:
+libm: sin(x) = -0x8.606c3fbadc7b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.4e903a2e5fa58p-4
+Quad: sin(x) = -0x1.69d20745cbf4a81bb8f3159eed35p-1
+---
+x = 0x8p+312:
+libm: sin(x) = -0xe.46196bb36f508p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ffff3d03e38bp-4
+Quad: sin(x) = -0x1.ffffe7a07c715ee332e1dd104643p-1
+---
+x = 0x8p+313:
+libm: sin(x) = -0xc.e5eb2d9e35388p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.dfb25b2d1abp-12
+Quad: sin(x) = -0x1.3bf64b65a35607dd614c2ce5efc3p-9
+---
+x = 0x8p+314:
+libm: sin(x) = 0xf.43b8e62d7f3p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.dfb079dd88bcp-11
+Quad: sin(x) = 0x1.3bf60f3bb117780aa27acac50b89p-8
+---
+x = 0x8p+315:
+libm: sin(x) = -0x9.2648418dbdcfp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.dfa8f4a166cep-10
+Quad: sin(x) = 0x1.3bf51e942cd9c114e27f1add6420p-7
+---
+x = 0x8p+316:
+libm: sin(x) = 0xf.03087c01786p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.df8adfd33d478p-9
+Quad: sin(x) = 0x1.3bf15bfa67a8f6536e832db29472p-6
+---
+x = 0x8p+317:
+libm: sin(x) = 0xa.6340fce614cfp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.df128ec0754e8p-8
+Quad: sin(x) = 0x1.3be251d80ea9cdf0094618704e8ap-5
+---
+x = 0x8p+318:
+libm: sin(x) = -0xf.cd34e0f860248p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.dd316cd1fd54p-7
+Quad: sin(x) = 0x1.3ba62d9a3faa7cc745e6f0675754p-4
+---
+x = 0x8p+319:
+libm: sin(x) = -0x9.ec52b6003a0bp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.d5af0a941cfc8p-6
+Quad: sin(x) = 0x1.3ab5e152839f9587781676e28e3fp-3
+---
+x = 0x8p+320:
+libm: sin(x) = 0x9.6f18c89b1c488p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.b7c7c5c36c42p-5
+Quad: sin(x) = 0x1.36f8f8b86d88461cd4f4a87db2bbp-2
+---
+x = 0x8p+321:
+libm: sin(x) = 0xf.3d3e3f115c938p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.424a153a7e4dp-4
+Quad: sin(x) = 0x1.284942a74fc9a7d58b2ae560c933p-1
+---
+x = 0x8p+322:
+libm: sin(x) = 0x9.4954a4f190258p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.1a30235fe85ap-4
+Quad: sin(x) = 0x1.e346046bfd0b46195a8d58949709p-1
+---
+x = 0x8p+323:
+libm: sin(x) = -0xf.1fdc47964378p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.f99da2271c988p-4
+Quad: sin(x) = 0x1.3f33b444e3930e2400ef2d72318bp-1
+---
+x = 0x8p+324:
+libm: sin(x) = -0x9.de80cbac3ba58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.993114cddd2fp-4
+Quad: sin(x) = -0x1.f3262299bba5d8826da904c073a8p-1
+---
+x = 0x8p+325:
+libm: sin(x) = 0xf.893c0958e90b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.e4348604907dp-5
+Quad: sin(x) = -0x1.bc8690c0920f99b5dd58df83915fp-2
+---
+x = 0x8p+326:
+libm: sin(x) = 0xe.db35668ae1718p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.83a5c5527d118p-4
+Quad: sin(x) = 0x1.9074b8aa4fa229daa932c0206d00p-1
+---
+x = 0x8p+327:
+libm: sin(x) = -0xd.28800b9b38618p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.986623256d418p-4
+Quad: sin(x) = 0x1.f30cc464ada8308664a81ac326fcp-1
+---
+x = 0x8p+328:
+libm: sin(x) = -0xe.f8dd3d80fddp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.f1018fa4be588p-5
+Quad: sin(x) = -0x1.be2031f497cb0af7668ccbbc2c09p-2
+---
+x = 0x8p+329:
+libm: sin(x) = 0xa.8f445310de84p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.8c7c6ac238698p-4
+Quad: sin(x) = 0x1.918f8d58470d3099be1d6339fbdap-1
+---
+x = 0x8p+330:
+libm: sin(x) = -0xf.ddd9ce6d906ep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.91f2e6341c17p-4
+Quad: sin(x) = 0x1.f23e5cc68382ded2acd89d52a6e3p-1
+---
+x = 0x8p+331:
+libm: sin(x) = -0x8.2da3fa34db3d8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.5705fce8c0efp-5
+Quad: sin(x) = -0x1.cae0bf9d181dda004d155773a31cp-2
+---
+x = 0x8p+332:
+libm: sin(x) = 0xf.d038e7e96188p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.d1cab654f3cd8p-4
+Quad: sin(x) = 0x1.9a3956ca9e79ac0b72fd7a1e5a45p-1
+---
+x = 0x8p+333:
+libm: sin(x) = 0xd.bf639c89460bp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.57764bd15eb7p-4
+Quad: sin(x) = 0x1.eaeec97a2bd6df5dfa213c340309p-1
+---
+x = 0x8p+334:
+libm: sin(x) = 0xe.1103922426728p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.b6090d2a60e98p-4
+Quad: sin(x) = -0x1.16c121a54c1d340356718f8acadep-1
+---
+x = 0x8p+335:
+libm: sin(x) = -0xd.680a7f89b7cfp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.9d19951a6e318p-4
+Quad: sin(x) = 0x1.d3a332a34dc632df8f05b197b86ep-1
+---
+x = 0x8p+336:
+libm: sin(x) = 0xe.a2928a8f0d45p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.e67e0a1c3ea58p-4
+Quad: sin(x) = 0x1.7ccfc14387d4ab44ab82a226e3f5p-1
+---
+x = 0x8p+337:
+libm: sin(x) = -0xb.d464410813fdp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e8c0337b5bf5p-4
+Quad: sin(x) = -0x1.fd18066f6b7ea76788a2c0ec9a0bp-1
+---
+x = 0x8p+338:
+libm: sin(x) = 0xf.ee236f928944p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.8a91a560f137p-6
+Quad: sin(x) = 0x1.b15234ac1e26e0e9c2691dd99b6bp-3
+---
+x = 0x8p+339:
+libm: sin(x) = -0xb.e37f4d7a7ade8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.3c1613ed20828p-5
+Quad: sin(x) = -0x1.a782c27da410549904b9d2947aa5p-2
+---
+x = 0x8p+340:
+libm: sin(x) = 0xb.ae8684a6ade38p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.0cbc6eab3cc48p-4
+Quad: sin(x) = -0x1.81978dd56798922fad8041777330p-1
+---
+x = 0x8p+341:
+libm: sin(x) = 0xa.e0234f66c1e18p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.dadde74893fe8p-4
+Quad: sin(x) = -0x1.fb5bbce9127fca1ff47631444be7p-1
+---
+x = 0x8p+342:
+libm: sin(x) = 0xf.f42aa9afbef78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.8531cf4a269a8p-5
+Quad: sin(x) = 0x1.10a639e944d3570535b26e6eb5c4p-2
+---
+x = 0x8p+343:
+libm: sin(x) = 0x9.b1cf28e5eced8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.3674ea8f70cc8p-4
+Quad: sin(x) = -0x1.06ce9d51ee19883535e474a04625p-1
+---
+x = 0x8p+344:
+libm: sin(x) = -0x9.952bbcb3026bp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.18b5393ed4b38p-4
+Quad: sin(x) = -0x1.c316a727da966f4ecc9cfbb6d304p-1
+---
+x = 0x8p+345:
+libm: sin(x) = -0x9.2497b104a3d58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.563e74df8e57p-4
+Quad: sin(x) = -0x1.aac7ce9bf1cae34f3d9aba85aefap-1
+---
+x = 0x8p+346:
+libm: sin(x) = -0xf.019b2fb7804d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.bc4c8f1609bd8p-4
+Quad: sin(x) = 0x1.d78991e2c137b4a45e11b273d719p-1
+---
+x = 0x8p+347:
+libm: sin(x) = -0xa.698385fe68b3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.7b9a2e129508p-4
+Quad: sin(x) = -0x1.6f7345c252a106dab42d27508720p-1
+---
+x = 0x8p+348:
+libm: sin(x) = 0xf.cfc2a34f4f13p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fe244b1a03ce8p-4
+Quad: sin(x) = 0x1.ffc489634079cca679add7049869p-1
+---
+x = 0x8p+349:
+libm: sin(x) = 0x9.ad9746a13b57p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.69eb6ee66d2dp-8
+Quad: sin(x) = -0x1.ed3d6ddccda5a345edd23cde359cp-5
+---
+x = 0x8p+350:
+libm: sin(x) = -0x9.398faaf0dc6e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.62c2be4ec1a48p-7
+Quad: sin(x) = 0x1.ec5857c9d8349218f5f7e36485a3p-4
+---
+x = 0x8p+351:
+libm: sin(x) = -0xf.1312b8730db28p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.4633ec06cff9p-6
+Quad: sin(x) = 0x1.e8c67d80d9ff1ea8d2c92fac97a2p-3
+---
+x = 0x8p+352:
+libm: sin(x) = -0xa.1aea76913aa88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.d535e8cc2b16p-5
+Quad: sin(x) = 0x1.daa6bd198562c6c679a5d9aa93afp-2
+---
+x = 0x8p+353:
+libm: sin(x) = 0xf.ab5d310d10338p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.24a4c2e7cc0b8p-4
+Quad: sin(x) = 0x1.a494985cf98168d57ad628bbfdd0p-1
+---
+x = 0x8p+354:
+libm: sin(x) = 0xc.acf5f219460c8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.fd9e54610bbb8p-4
+Quad: sin(x) = 0x1.dfb3ca8c217774ef8563ebf4b7c7p-1
+---
+x = 0x8p+355:
+libm: sin(x) = -0xb.a38735d878d4p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.7adc81291be88p-4
+Quad: sin(x) = -0x1.4f5b9025237d0d0a88e48fc16b2dp-1
+---
+x = 0x8p+356:
+libm: sin(x) = -0xf.f90909f97c858p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d684255b502fp-4
+Quad: sin(x) = 0x1.fad084ab6a05da57356a650a94c4p-1
+---
+x = 0x8p+357:
+libm: sin(x) = 0xe.e5a949bc1fap-7 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.fe590a1ce5a18p-5
+Quad: sin(x) = 0x1.1fcb21439cb43168109c5de1a031p-2
+---
+x = 0x8p+358:
+libm: sin(x) = -0xe.cbbeb097dea7p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.a18c6ac3b62b8p-4
+Quad: sin(x) = -0x1.14318d5876c56b19281927a8c7d6p-1
+---
+x = 0x8p+359:
+libm: sin(x) = -0xe.6522341ee2a9p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.88fbfedb36788p-4
+Quad: sin(x) = -0x1.d11f7fdb66cf0983ca9fd84ceaaep-1
+---
+x = 0x8p+360:
+libm: sin(x) = -0xc.db376f597eec8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.26cd02ac12948p-4
+Quad: sin(x) = -0x1.84d9a05582528d3e47da39caa862p-1
+---
+x = 0x8p+361:
+libm: sin(x) = -0xf.4e6106176ced8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.cf64fb4d44d2p-4
+Quad: sin(x) = 0x1.f9ec9f69a89a39a0ea9c4f09e390p-1
+---
+x = 0x8p+362:
+libm: sin(x) = 0x8.eac04f8d82788p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.b6affbf3b42e8p-5
+Quad: sin(x) = -0x1.36d5ff7e7685cf093bfdae08cc77p-2
+---
+x = 0x8p+363:
+libm: sin(x) = -0xe.cec0093aeb1p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.415a926f2a088p-4
+Quad: sin(x) = 0x1.282b524de541167cda4e24139972p-1
+---
+x = 0x8p+364:
+libm: sin(x) = -0xb.37eaebfb289a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.196e06e86f67p-4
+Quad: sin(x) = 0x1.e32dc0dd0dece0df913f6e8de6c1p-1
+---
+x = 0x8p+365:
+libm: sin(x) = 0xf.ff6c802e550ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.fd339be015388p-4
+Quad: sin(x) = 0x1.3fa6737c02a7121067cde620ebdcp-1
+---
+x = 0x8p+366:
+libm: sin(x) = 0x8.96149372bb29p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.9b398bcac0388p-4
+Quad: sin(x) = -0x1.f3673179580711bfe148c0f8d48bp-1
+---
+x = 0x8p+367:
+libm: sin(x) = -0x8.94d7fb52d8298p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.c31a304f6ffp-5
+Quad: sin(x) = -0x1.b8634609edfe060e99a5cac14f38p-2
+---
+x = 0x8p+368:
+libm: sin(x) = -0x8.8fe6ac5f5fd8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.6ca5be8937ebp-4
+Quad: sin(x) = 0x1.8d94b7d126fd661c2114ef2e8cc7p-1
+---
+x = 0x8p+369:
+libm: sin(x) = -0x8.7c3281f0d096p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.a829e620c73d8p-4
+Quad: sin(x) = 0x1.f5053cc418e7b0ba73c5ec9207dcp-1
+---
+x = 0x8p+370:
+libm: sin(x) = -0x8.2e71179286p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.e6740d3679828p-5
+Quad: sin(x) = -0x1.9cce81a6cf304d94e5b04b468f64p-2
+---
+x = 0x8p+371:
+libm: sin(x) = -0xe.0fd7332d39288p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.ce36c4526183p-4
+Quad: sin(x) = 0x1.79c6d88a4c305bd6ce823f555e61p-1
+---
+x = 0x8p+372:
+libm: sin(x) = -0xd.6ab9914453258p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.efceabb0e3008p-4
+Quad: sin(x) = 0x1.fdf9d5761c600b93c580dba7243ap-1
+---
+x = 0x8p+373:
+libm: sin(x) = 0xe.9e9559e64d6ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.534f2f675f9fp-6
+Quad: sin(x) = -0x1.6a69e5ecebf3e7f57c30b0438c88p-3
+---
+x = 0x8p+374:
+libm: sin(x) = -0xb.e19ca4d213178p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.258d7a8b2b9ap-5
+Quad: sin(x) = 0x1.64b1af5165733ea0f3a066c01091p-2
+---
+x = 0x8p+375:
+libm: sin(x) = 0xf.ea46edf117d2p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.72d6019f178bp-4
+Quad: sin(x) = 0x1.4e5ac033e2f16667e5c1cc2e2fb5p-1
+---
+x = 0x8p+376:
+libm: sin(x) = -0xd.186b1977b13d8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d3731fe0c29bp-4
+Quad: sin(x) = 0x1.fa6e63fc18535f137bfc62a0aa05p-1
+---
+x = 0x8p+377:
+libm: sin(x) = 0xc.d17d49c6f57fp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.4fac38f9ac41p-5
+Quad: sin(x) = 0x1.29f5871f358826c557a4870b65f1p-2
+---
+x = 0x8p+378:
+libm: sin(x) = 0xb.beb6d5ccfd288p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.e88844c481c78p-4
+Quad: sin(x) = -0x1.1d1108989038ea6637c72e58457dp-1
+---
+x = 0x8p+379:
+libm: sin(x) = 0xf.f39ea2e1987ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.ccb90328a55d8p-4
+Quad: sin(x) = -0x1.d997206514aba819a37f195825aep-1
+---
+x = 0x8p+380:
+libm: sin(x) = -0x9.ea186c1e70f98p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.3f872f8b116dp-4
+Quad: sin(x) = -0x1.67f0e5f1622da7bea8632fd5f83ep-1
+---
+x = 0x8p+381:
+libm: sin(x) = 0x9.cb74ae7437c5p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ffba007e5a93p-4
+Quad: sin(x) = 0x1.fff7400fcb5258d442a1217406d0p-1
+---
+x = 0x8p+382:
+libm: sin(x) = 0x9.531b9085e9d08p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.d4bd06d6ffffp-9
+Quad: sin(x) = 0x1.7a97a0dadfffe66c2b0d6588d9b7p-6
+---
+x = 0x8p+383:
+libm: sin(x) = 0xf.27a2ea21b12cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.d3edff25a2f5p-8
+Quad: sin(x) = -0x1.7a7dbfe4b45e9e4049c124f52be1p-5
+---
+x = 0x8p+384:
+libm: sin(x) = 0x9.b87d61393a6p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.d0b2354714408p-7
+Quad: sin(x) = -0x1.7a1646a8e2880f709824c3c23940p-4
+---
+x = 0x8p+385:
+libm: sin(x) = -0xf.7127ae4cc88dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.c3c85b24b62c8p-6
+Quad: sin(x) = -0x1.78790b6496c58f91769ef050a3f7p-3
+---
+x = 0x8p+386:
+libm: sin(x) = -0x8.15c477aed9ddp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.9075829c13eap-5
+Quad: sin(x) = -0x1.720eb053827d3a3e209b50552b8cp-2
+---
+x = 0x8p+387:
+libm: sin(x) = 0xd.f426ab29e45p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.c861e2cbbc3fp-4
+Quad: sin(x) = -0x1.590c3c597787dd0351046b4160d3p-1
+---
+x = 0x8p+388:
+libm: sin(x) = 0xd.a7d034f104aap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.eec1e7890183p-4
+Quad: sin(x) = -0x1.fdd83cf12030601b6bc4d8bdc0fbp-1
+---
+x = 0x8p+389:
+libm: sin(x) = -0xe.3ba12c740d4c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.aedc6e80e1668p-6
+Quad: sin(x) = -0x1.75db8dd01c2cd14a97479756458fp-3
+---
+x = 0x8p+390:
+libm: sin(x) = 0xd.00fb674d8389p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.7c9b0abf20b6p-5
+Quad: sin(x) = 0x1.6f936157e416ba9cd7748deed3bdp-2
+---
+x = 0x8p+391:
+libm: sin(x) = -0xf.271bdf7dae108p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.b89f47f19b458p-4
+Quad: sin(x) = 0x1.5713e8fe3368b36d37d7db97540fp-1
+---
+x = 0x8p+392:
+libm: sin(x) = 0x9.bb19ad6c8e49p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.eaa2cd53a021p-4
+Quad: sin(x) = 0x1.fd5459aa74041eddad0135e437bcp-1
+---
+x = 0x8p+393:
+libm: sin(x) = -0xf.72df093ea3328p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.fcfa0fa54b06p-6
+Quad: sin(x) = 0x1.9f9f41f4a960bd81802c2b1b83a8p-3
+---
+x = 0x8p+394:
+libm: sin(x) = -0x8.0a689ff846da8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.b7c9a0c9e9388p-5
+Quad: sin(x) = -0x1.96f934193d2717af7132af4c8c02p-2
+---
+x = 0x8p+395:
+libm: sin(x) = 0xd.e7353b163f0e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.ab9c0444aad58p-4
+Quad: sin(x) = -0x1.75738088955aaeceed95fd1e0a92p-1
+---
+x = 0x8p+396:
+libm: sin(x) = 0xd.c2f00576a4cbp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.f797a810f9e88p-4
+Quad: sin(x) = -0x1.fef2f5021f3d0acbed2caeec8760p-1
+---
+x = 0x8p+397:
+libm: sin(x) = -0xe.0a5f8a33e791p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.2e237ca76f9e8p-6
+Quad: sin(x) = 0x1.05c46f94edf3d294be28931ab9dfp-3
+---
+x = 0x8p+398:
+libm: sin(x) = 0xd.7720850e7c3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.1cf656ba66048p-5
+Quad: sin(x) = -0x1.039ecad74cc09200c14ad3e3d96cp-2
+---
+x = 0x8p+399:
+libm: sin(x) = -0xe.8bc534b097528p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b2331995ce73p-5
+Quad: sin(x) = -0x1.f6466332b9ce629571058807eb20p-2
+---
+x = 0x8p+400:
+libm: sin(x) = 0xc.1e18ed1ae5908p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.ad9e3e2f6211p-4
+Quad: sin(x) = -0x1.b5b3c7c5ec4226deba969030bb2ep-1
+---
+x = 0x8p+401:
+libm: sin(x) = -0xf.d3691809541cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.31603dbaeb948p-4
+Quad: sin(x) = -0x1.c62c07b75d729689955d58b1e7fap-1
+---
+x = 0x8p+402:
+libm: sin(x) = 0x9.50b12312dfd4p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.1accf143c0bbp-4
+Quad: sin(x) = 0x1.a3599e28781766070c311098d884p-1
+---
+x = 0x8p+403:
+libm: sin(x) = -0x8.e96ac9cb64928p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.0983456a1868p-4
+Quad: sin(x) = -0x1.e13068ad430d073e344bbcc3bb3bp-1
+---
+x = 0x8p+404:
+libm: sin(x) = -0xe.cd8827cdef338p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.46794c30f6a08p-4
+Quad: sin(x) = 0x1.48cf29861ed415b36ca05bbc6b2bp-1
+---
+x = 0x8p+405:
+libm: sin(x) = -0xb.3c7ef976c0b6p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c0aff46fc0f38p-4
+Quad: sin(x) = -0x1.f815fe8df81e695e4d9417c09095p-1
+---
+x = 0x8p+406:
+libm: sin(x) = 0xf.ff9e85ef30cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.0934c49da8c3p-5
+Quad: sin(x) = -0x1.61269893b51862e462d1e655bba3p-2
+---
+x = 0x8p+407:
+libm: sin(x) = 0xd.f6014f1972508p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.5be088af8d838p-4
+Quad: sin(x) = 0x1.4b7c1115f1b06b06e2d429785c8ap-1
+---
+x = 0x8p+408:
+libm: sin(x) = -0xd.f4ad1b7c3b5c8p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ca1e798d458p-4
+Quad: sin(x) = 0x1.f943cf31a8affad771bf9213ce97p-1
+---
+x = 0x8p+409:
+libm: sin(x) = -0xd.ef5d0f4d8db08p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.35e629f66d18p-5
+Quad: sin(x) = 0x1.46bcc53ecda304859973d36cc9e6p-2
+---
+x = 0x8p+410:
+libm: sin(x) = -0xd.da28ff7e7a15p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.ad43e6e73853p-4
+Quad: sin(x) = -0x1.35a87cdce70a5a9d2c6b02e7e48ep-1
+---
+x = 0x8p+411:
+libm: sin(x) = -0xd.8619f1c1e76e8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.69ac092526b2p-4
+Quad: sin(x) = -0x1.ed358124a4d63ee432f8a4176a54p-1
+---
+x = 0x8p+412:
+libm: sin(x) = -0xc.41ba1880bd5e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.4648a118d2b58p-4
+Quad: sin(x) = -0x1.08c914231a56aff161eb52537806p-1
+---
+x = 0x8p+413:
+libm: sin(x) = -0xf.c1c48b330405p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.2a085a4fa6548p-4
+Quad: sin(x) = 0x1.c5410b49f4ca8b4bf653cfaae707p-1
+---
+x = 0x8p+414:
+libm: sin(x) = 0xa.f1eeddb96ea8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.2ce2580e98b08p-4
+Quad: sin(x) = 0x1.a59c4b01d3160e0a8aa222ad288ap-1
+---
+x = 0x8p+415:
+libm: sin(x) = -0xa.48f16056a1618p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.f36517ea28e4p-4
+Quad: sin(x) = -0x1.de6ca2fd451c81ac4f8395ee4018p-1
+---
+x = 0x8p+416:
+libm: sin(x) = -0xf.c1cf9e3d936e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.a660d25c63a4p-4
+Quad: sin(x) = 0x1.54cc1a4b8c7478d4b8370af7fb6fp-1
+---
+x = 0x8p+417:
+libm: sin(x) = -0xa.f0ff1d6c9191p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e557fdc6e7548p-4
+Quad: sin(x) = -0x1.fcaaffb8dcea92685069015d269bp-1
+---
+x = 0x8p+418:
+libm: sin(x) = 0xa.482deacf2e98p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.7c03c59d71ed8p-6
+Quad: sin(x) = -0x1.cf8078b3ae3daf193f71e2071f05p-3
+---
+x = 0x8p+419:
+libm: sin(x) = 0xf.c176ea85dbbfp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.1bcdb478ebep-5
+Quad: sin(x) = 0x1.c379b68f1d7bf8ea98e048bfb01dp-2
+---
+x = 0x8p+420:
+libm: sin(x) = 0xa.f87cd3ad7a638p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.a9ceb484fd2d8p-4
+Quad: sin(x) = 0x1.9539d6909fa5ae2c453d4d5e0f21p-1
+---
+x = 0x8p+421:
+libm: sin(x) = -0xa.4e4878d827e98p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.7af289d61a5ep-4
+Quad: sin(x) = 0x1.ef5e513ac34bc1c55440f1fdf34bp-1
+---
+x = 0x8p+422:
+libm: sin(x) = -0xf.c435af1974bd8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.a775b3799804p-5
+Quad: sin(x) = -0x1.f4eeb66f330085c5fb0fa1cb91a5p-2
+---
+x = 0x8p+423:
+libm: sin(x) = -0xa.bc7c37185b568p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.a73605656f84p-4
+Quad: sin(x) = 0x1.b4e6c0acadf07b76d4649d889a67p-1
+---
+x = 0x8p+424:
+libm: sin(x) = 0xa.1d2ce105d7078p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.3caf4659e2618p-4
+Quad: sin(x) = 0x1.c795e8cb3c4c2c4da5317f4fc821p-1
+---
+x = 0x8p+425:
+libm: sin(x) = 0xf.ac89fd37549bp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.fe49836c0f6p-4
+Quad: sin(x) = -0x1.9fc9306d81ebfc3ebfa1f37a330ep-1
+---
+x = 0x8p+426:
+libm: sin(x) = 0xc.9788e5f1e9a18p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.2a11284794c3p-4
+Quad: sin(x) = 0x1.e5422508f2985aa8cf3e883804e5p-1
+---
+x = 0x8p+427:
+libm: sin(x) = -0xb.937a4e678608p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.ac6662ff7baa8p-4
+Quad: sin(x) = -0x1.358ccc5fef75533f9b76384358eap-1
+---
+x = 0x8p+428:
+libm: sin(x) = -0xf.fb7d2849d5178p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.69169405d1878p-4
+Quad: sin(x) = 0x1.ed22d280ba30f71cb6722dcf1fc9p-1
+---
+x = 0x8p+429:
+libm: sin(x) = 0xb.ff8de4b28f89p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.4a0080f86c28p-4
+Quad: sin(x) = 0x1.0940101f0d84fcf7d0c6afc7b140p-1
+---
+x = 0x8p+430:
+libm: sin(x) = -0xb.f207c6947c978p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.2e1118e6cac2p-4
+Quad: sin(x) = -0x1.c5c2231cd958467db3d3c52bab12p-1
+---
+x = 0x8p+431:
+libm: sin(x) = -0xb.bc4aa1ce17b48p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.22fdbd4b4b96p-4
+Quad: sin(x) = -0x1.a45fb7a96972bd483ac780fb9c3bp-1
+---
+x = 0x8p+432:
+libm: sin(x) = -0xa.eaf816a49a34p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.ffa3a6fd2b1ep-4
+Quad: sin(x) = 0x1.dff474dfa563c3a50798373f8323p-1
+---
+x = 0x8p+433:
+libm: sin(x) = -0xf.f64ea63767fd8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.7218dfc44d558p-4
+Quad: sin(x) = -0x1.4e431bf889aaab681ee032b8a866p-1
+---
+x = 0x8p+434:
+libm: sin(x) = -0x8.c79eeb8b7e44p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d3298c4edfbfp-4
+Quad: sin(x) = 0x1.fa653189dbf7e64c15e90a73dee3p-1
+---
+x = 0x8p+435:
+libm: sin(x) = 0x8.b25ef166fe968p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.572331c5f3ccp-5
+Quad: sin(x) = 0x1.2ae46638be797d8e4cfa4cc05e10p-2
+---
+x = 0x8p+436:
+libm: sin(x) = 0x8.5e92a701fb188p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.ef029ecc033dp-4
+Quad: sin(x) = -0x1.1de053d980679843806a8fd740dep-1
+---
+x = 0x8p+437:
+libm: sin(x) = 0xe.4422afd441ce8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.d2a0435212bp-4
+Quad: sin(x) = -0x1.da54086a4256013ddd18cb3bca34p-1
+---
+x = 0x8p+438:
+libm: sin(x) = 0xc.eb0cc2af13b58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.293ef8bac58c8p-4
+Quad: sin(x) = -0x1.6527df1758b1951acc3d820ee7c4p-1
+---
+x = 0x8p+439:
+libm: sin(x) = -0xf.3e7b64112631p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fe8792b9f0fp-4
+Quad: sin(x) = 0x1.ffd0f2573e1df87edb3ed5bbbf7fp-1
+---
+x = 0x8p+440:
+libm: sin(x) = 0x9.42b190b8cb41p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.b682d6d415058p-8
+Quad: sin(x) = 0x1.b6d05ada82a0ad73d3345749e2bdp-5
+---
+x = 0x8p+441:
+libm: sin(x) = -0xf.1a83ebd1eaa68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.b1789777f0288p-7
+Quad: sin(x) = -0x1.b62f12eefe05165950439d1db567p-4
+---
+x = 0x8p+442:
+libm: sin(x) = -0x9.f810b48b1321p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.9d5ab5f5b6fb8p-6
+Quad: sin(x) = -0x1.b3ab56beb6df73e41f1db5e49fe4p-3
+---
+x = 0x8p+443:
+libm: sin(x) = 0xf.984e9748a642p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.4d942b2c3fff8p-5
+Quad: sin(x) = -0x1.a9b2856587fff7471229b0906098p-2
+---
+x = 0x8p+444:
+libm: sin(x) = 0xd.f27ccba50e6f8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.1959491adc618p-4
+Quad: sin(x) = -0x1.832b29235b8c366a88bae541846ep-1
+---
+x = 0x8p+445:
+libm: sin(x) = -0xc.8d81be953bd18p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.d585e114a034p-4
+Quad: sin(x) = -0x1.fab0bc22940680f98acdde2c030fp-1
+---
+x = 0x8p+446:
+libm: sin(x) = -0xf.91308b27a9e7p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.1908c25d89b58p-5
+Quad: sin(x) = 0x1.2321184bb136b566121f525ca0a4p-2
+---
+x = 0x8p+447:
+libm: sin(x) = 0xe.62ca1dead98dp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.b8ec62c80e9b8p-4
+Quad: sin(x) = -0x1.171d8c5901d376f50758f5741346p-1
+---
+x = 0x8p+448:
+libm: sin(x) = -0xc.d9a752399555p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.9fe6312895498p-4
+Quad: sin(x) = -0x1.d3fcc62512a92e489a2d7a265dbdp-1
+---
+x = 0x8p+449:
+libm: sin(x) = -0xf.4fe79b40f7708p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.dd444e86d11b8p-4
+Quad: sin(x) = -0x1.7ba889d0da2374225d49434cc731p-1
+---
+x = 0x8p+450:
+libm: sin(x) = 0x8.e207051fcbef8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.eb970b66d31dp-4
+Quad: sin(x) = 0x1.fd72e16cda63a098878ac4f435a2p-1
+---
+x = 0x8p+451:
+libm: sin(x) = -0xe.c6bf46108b8d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.b2d624d7b3018p-6
+Quad: sin(x) = -0x1.965ac49af66035f7f035c7f1b5bdp-3
+---
+x = 0x8p+452:
+libm: sin(x) = -0xb.55b4cf11381dp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.7234177d4df9p-5
+Quad: sin(x) = 0x1.8e4682efa9bf206263e33c7de0ebp-2
+---
+x = 0x8p+453:
+libm: sin(x) = 0xf.fff8b46a12c58p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.77549c35a648p-4
+Quad: sin(x) = 0x1.6eea9386b4c902d8ab7af3303d02p-1
+---
+x = 0x8p+454:
+libm: sin(x) = -0xf.47649e962987p-11 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fe7e1ef7f4eap-4
+Quad: sin(x) = 0x1.ffcfc3defe9d43fdbcc94b8d23adp-1
+---
+x = 0x8p+455:
+libm: sin(x) = 0xf.4748c0f52228p-10 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.e245cfb0e44a8p-8
+Quad: sin(x) = -0x1.bc48b9f61c8956ddc86651a1d959p-5
+---
+x = 0x8p+456:
+libm: sin(x) = 0xf.46d94ba1f227p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.dd0aaef4efce8p-7
+Quad: sin(x) = 0x1.bba155de9df9d3b272b7ee9428eap-4
+---
+x = 0x8p+457:
+libm: sin(x) = 0xf.451b8963a19c8p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.c829fdc25a2e8p-6
+Quad: sin(x) = 0x1.b9053fb84b45d00e8001ca2e697cp-3
+---
+x = 0x8p+458:
+libm: sin(x) = 0xf.3e25b13746fe8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.75637f6c278ep-5
+Quad: sin(x) = 0x1.aeac6fed84f1b96037cee35fed93p-2
+---
+x = 0x8p+459:
+libm: sin(x) = 0xf.226156d1a4cfp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.35d9230550de8p-4
+Quad: sin(x) = 0x1.86bb2460aa1bd5f80dccb375edbfp-1
+---
+x = 0x8p+460:
+libm: sin(x) = 0xe.b47eb29b5bbc8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c8016888fabp-4
+Quad: sin(x) = 0x1.f9002d111f55fe43932b0341f0ddp-1
+---
+x = 0x8p+461:
+libm: sin(x) = 0xd.0f79edcb43aap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.66eef022c26b8p-5
+Quad: sin(x) = -0x1.4cddde04584d6c7c4ac2d4ba6af9p-2
+---
+x = 0x8p+462:
+libm: sin(x) = 0xf.16c6c3c0a7bc8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.d65055a1b1af8p-4
+Quad: sin(x) = 0x1.3aca0ab43635e9b3b94e31d68d86p-1
+---
+x = 0x8p+463:
+libm: sin(x) = -0xa.09ae020b522p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.8436b4bffefbp-4
+Quad: sin(x) = 0x1.f086d697ffdf61277ec428c784d9p-1
+---
+x = 0x8p+464:
+libm: sin(x) = 0xf.a2282618792ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.24a8cca5327d8p-5
+Quad: sin(x) = 0x1.e4951994a64fb302dec67e176cccp-2
+---
+x = 0x8p+465:
+libm: sin(x) = 0xd.4f21028865dbp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.571c4710ebd28p-4
+Quad: sin(x) = -0x1.aae388e21d7a5093f82e8b7dc96ep-1
+---
+x = 0x8p+466:
+libm: sin(x) = -0xc.1a76bf0cf0aa8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.bb134956f74c8p-4
+Quad: sin(x) = -0x1.d762692adee98d4d6a0e0cc06d2bp-1
+---
+x = 0x8p+467:
+libm: sin(x) = -0xf.d50829781747p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.7ff817b4a4efp-4
+Quad: sin(x) = 0x1.6fff02f6949de5ea247a55347bd4p-1
+---
+x = 0x8p+468:
+libm: sin(x) = 0x9.261ab4565ee78p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fdbe9879a9d9p-4
+Quad: sin(x) = -0x1.ffb7d30f353b258340acdcb492cep-1
+---
+x = 0x8p+469:
+libm: sin(x) = -0x8.c457b69931cb8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.7d61b739d634p-7
+Quad: sin(x) = 0x1.0fac36e73ac6840dba7b45341715p-4
+---
+x = 0x8p+470:
+libm: sin(x) = -0xe.aae0e2dd6cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.78988b9191f48p-6
+Quad: sin(x) = -0x1.0f131172323e91aa551c7b0f77cdp-3
+---
+x = 0x8p+471:
+libm: sin(x) = -0xb.b8673c90af2ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.658409c9f6388p-5
+Quad: sin(x) = -0x1.0cb081393ec70d49f9679eca5a5ep-2
+---
+x = 0x8p+472:
+libm: sin(x) = 0xf.f5051d848103p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.1a331bbc82858p-4
+Quad: sin(x) = -0x1.034663779050b1dfba358d271c74p-1
+---
+x = 0x8p+473:
+libm: sin(x) = -0x9.57465818e19b8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.f92b0682614d8p-4
+Quad: sin(x) = -0x1.bf2560d04c29a9eda5fa082c026ep-1
+---
+x = 0x8p+474:
+libm: sin(x) = 0x9.3dab14f8ba8f8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.9d0f06be86eap-4
+Quad: sin(x) = -0x1.b3a1e0d7d0dd451d4de540acd125p-1
+---
+x = 0x8p+475:
+libm: sin(x) = 0x8.d8e1b43ff8a6p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.4e39283dd477p-4
+Quad: sin(x) = 0x1.c9c72507ba8ede2c8fe0ac5172c2p-1
+---
+x = 0x8p+476:
+libm: sin(x) = 0xe.be43ec04660ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.d06ae502a2a78p-4
+Quad: sin(x) = -0x1.9a0d5ca05454e9213e5c53f7ee62p-1
+---
+x = 0x8p+477:
+libm: sin(x) = 0xb.748df6d779fbp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.58c362a31bbcp-4
+Quad: sin(x) = 0x1.eb186c5463777f50575ab0782a28p-1
+---
+x = 0x8p+478:
+libm: sin(x) = -0xf.feb3656f7b3b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.ae53a4c9b04bp-4
+Quad: sin(x) = -0x1.15ca7499360967cc089bbc610af4p-1
+---
+x = 0x8p+479:
+libm: sin(x) = 0xc.e404a61a9a358p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.9595821d0a258p-4
+Quad: sin(x) = 0x1.d2b2b043a144b38fb2e018b84851p-1
+---
+x = 0x8p+480:
+libm: sin(x) = -0xc.dfd4f201396dp-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.feec67dc42208p-4
+Quad: sin(x) = 0x1.7fdd8cfb884408f2aa65d57b0d4bp-1
+---
+x = 0x8p+481:
+libm: sin(x) = -0xc.cf1e48fbcb1f8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e0478f7f8ad3p-4
+Quad: sin(x) = -0x1.fc08f1eff15a6799915f24e2dd5ap-1
+---
+x = 0x8p+482:
+libm: sin(x) = -0xc.8cc59bfdf2648p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c6a5ab81f35f8p-6
+Quad: sin(x) = 0x1.f8d4b5703e6becd7552bbb1146acp-3
+---
+x = 0x8p+483:
+libm: sin(x) = -0xb.8b62e7cef9938p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4a06bd43d1618p-5
+Quad: sin(x) = -0x1.e940d7a87a2c33661f7a0aff9176p-2
+---
+x = 0x8p+484:
+libm: sin(x) = -0xf.fc8536279614p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.6e60d977892ap-4
+Quad: sin(x) = -0x1.adcc1b2ef1253f7d9f5d5a179155p-1
+---
+x = 0x8p+485:
+libm: sin(x) = 0xa.8a7d9733cef18p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.991b4707112p-4
+Quad: sin(x) = -0x1.d32368e0e224035a738937732f9ep-1
+---
+x = 0x8p+486:
+libm: sin(x) = -0xa.815324649b48p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.f388c05b128ap-4
+Quad: sin(x) = 0x1.7e71180b62513ef3023e6affc1a1p-1
+---
+x = 0x8p+487:
+libm: sin(x) = -0xa.5cd91d4b92fd8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e466f5f9002p-4
+Quad: sin(x) = -0x1.fc8cdebf2003fb98f6abf9e497fbp-1
+---
+x = 0x8p+488:
+libm: sin(x) = -0x9.cde5818cb3bep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.bbd7633169a8p-6
+Quad: sin(x) = 0x1.d77aec662d34fba2e2246e74c756p-3
+---
+x = 0x8p+489:
+libm: sin(x) = -0xf.7ef5056ade8c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.56876b116eefp-5
+Quad: sin(x) = -0x1.cad0ed622ddde33e1d80f5ebe090p-2
+---
+x = 0x8p+490:
+libm: sin(x) = -0xf.6f96c28e25428p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.d175fcdfd23b8p-4
+Quad: sin(x) = -0x1.9a2ebf9bfa476ba0b55faa672627p-1
+---
+x = 0x8p+491:
+libm: sin(x) = 0xd.8575c5a7223c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.57c6a617ed038p-4
+Quad: sin(x) = -0x1.eaf8d4c2fda07268cdf285f0a631p-1
+---
+x = 0x8p+492:
+libm: sin(x) = 0xe.753c6fa88e6ep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.b42df192c0fap-4
+Quad: sin(x) = 0x1.1685be32581f38190c2f5813da13p-1
+---
+x = 0x8p+493:
+libm: sin(x) = -0xc.62b49a7e0c23p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.9b4bdb0f76e78p-4
+Quad: sin(x) = -0x1.d3697b61eedcf7b703b133b096f0p-1
+---
+x = 0x8p+494:
+libm: sin(x) = 0xf.ae87b89fc49ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.ec6664da96068p-4
+Quad: sin(x) = -0x1.7d8ccc9b52c0d0a2c37ea0f2af85p-1
+---
+x = 0x8p+495:
+libm: sin(x) = -0xc.72d274d531938p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.e6d471db03068p-4
+Quad: sin(x) = 0x1.fcda8e3b6060d7c9dea421588c5cp-1
+---
+x = 0x8p+496:
+libm: sin(x) = 0xb.77cc7e55b64ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.14cfb3f5ef4ap-6
+Quad: sin(x) = -0x1.c299f67ebde942f2a1709dae2b26p-3
+---
+x = 0x8p+497:
+libm: sin(x) = 0xf.fe74bcfe3d448p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.bc79ffb5a9bd8p-5
+Quad: sin(x) = 0x1.b78f3ff6b537b2dca2194bbb951fp-2
+---
+x = 0x8p+498:
+libm: sin(x) = -0xe.0d2f2ed395ed8p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.6804e003302b8p-4
+Quad: sin(x) = 0x1.8d009c0066056eee52cdab2c305dp-1
+---
+x = 0x8p+499:
+libm: sin(x) = 0xe.07c2f07bf81e8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ab29279450748p-4
+Quad: sin(x) = 0x1.f56524f28a0e8cd2e44cbf7c50a9p-1
+---
+x = 0x8p+500:
+libm: sin(x) = 0xd.f21e840c2fc28p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.b0a654b01a4ap-5
+Quad: sin(x) = -0x1.9614ca960349469bb34d7c862175p-2
+---
+x = 0x8p+501:
+libm: sin(x) = 0xd.9c54b925696ep-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.a648ac788cdc8p-4
+Quad: sin(x) = 0x1.74c9158f119b88d540b9b3b0e617p-1
+---
+x = 0x8p+502:
+libm: sin(x) = 0xc.5172942504bf8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.f88f1af3659cp-4
+Quad: sin(x) = 0x1.ff11e35e6cb37c535731197cc6c0p-1
+---
+x = 0x8p+503:
+libm: sin(x) = 0xf.b8f41ec487a6p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.6555fff4b21ap-7
+Quad: sin(x) = -0x1.ecaabffe964339bb8b2415818605p-4
+---
+x = 0x8p+504:
+libm: sin(x) = -0xb.a9a06879828e8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.48b8cb55c503p-6
+Quad: sin(x) = 0x1.e917196ab8a059358759c93ce58fp-3
+---
+x = 0x8p+505:
+libm: sin(x) = 0xa.dc46ce2f544cp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.d78249224f838p-5
+Quad: sin(x) = 0x1.daf0492449f06b4d0647e1f09ca3p-2
+---
+x = 0x8p+506:
+libm: sin(x) = 0xf.f35a986976508p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.261f4d0c870fp-4
+Quad: sin(x) = 0x1.a4c3e9a190e1dac835842c70acf2p-1
+---
+x = 0x8p+507:
+libm: sin(x) = 0xa.04fc855682c88p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.fbcd4a4f779ap-4
+Quad: sin(x) = 0x1.df79a949eef33d679243428d9c7dp-1
+---
+x = 0x8p+508:
+libm: sin(x) = -0x9.e55bc3530df3p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.82b17c0604538p-4
+Quad: sin(x) = -0x1.50562f80c08a6862adba340bf5c0p-1
+---
+x = 0x8p+509:
+libm: sin(x) = -0x9.692d4c9f8593p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d96901dcbf2fp-4
+Quad: sin(x) = 0x1.fb2d203b97e5e5a258c294eee88ep-1
+---
+x = 0x8p+510:
+libm: sin(x) = -0xf.38c133f60a418p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.ae9145ef663bp-5
+Quad: sin(x) = 0x1.15d228bdecc763bd7e4d24c38909p-2
+---
+x = 0x8p+511:
+libm: sin(x) = -0x9.6120e4fb6ba88p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.5b3429b06e75p-4
+Quad: sin(x) = -0x1.0b6685360dce9a345683187bb4bap-1
+---
+x = 0x8p+512:
+libm: sin(x) = 0xf.3294f9f7cafc8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.408cdb76d4c7p-4
+Quad: sin(x) = -0x1.c8119b6eda98de6d13c80c84d93cp-1
+---
+x = 0x8p+513:
+libm: sin(x) = 0x9.813ca89d9892p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.f45a1e920dc98p-4
+Quad: sin(x) = -0x1.9e8b43d241b937c0e040f078db48p-1
+---
+x = 0x8p+514:
+libm: sin(x) = -0xf.4ab8a6735583p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.34c355e8cbf1p-4
+Quad: sin(x) = 0x1.e6986abd197e26e90042656f274ep-1
+---
+x = 0x8p+515:
+libm: sin(x) = -0x8.ff74fd52a2e68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.75f8dd23a48f8p-4
+Quad: sin(x) = -0x1.2ebf1ba47491f13844d13d6f0fddp-1
+---
+x = 0x8p+516:
+libm: sin(x) = 0xe.e1663f9ece2e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.42668f02f228p-4
+Quad: sin(x) = 0x1.e84cd1e05e44fdae3c12ba40367cp-1
+---
+x = 0x8p+517:
+libm: sin(x) = 0xa.efcccc1549cap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.2d7ff8e90892p-4
+Quad: sin(x) = 0x1.25afff1d21123ca351d70e2387e8p-1
+---
+x = 0x8p+518:
+libm: sin(x) = -0xf.f732015ab6768p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.0917172cb0c48p-4
+Quad: sin(x) = -0x1.e122e2e59618971b02197e9944e5p-1
+---
+x = 0x8p+519:
+libm: sin(x) = -0x8.5ec256af5e1cp-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.485e630eeab78p-4
+Quad: sin(x) = -0x1.490bcc61dd56ed62038c105a52b1p-1
+---
+x = 0x8p+520:
+libm: sin(x) = 0x8.4c5ad67db1808p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c18ceef607fc8p-4
+Quad: sin(x) = 0x1.f8319ddec0ff8e5750539aadbdfcp-1
+---
+x = 0x8p+521:
+libm: sin(x) = 0x8.03aef1ab26fd8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.f6a15ff247f7p-5
+Quad: sin(x) = 0x1.5ed42bfe48feddf9dbff5b38157fp-2
+---
+x = 0x8p+522:
+libm: sin(x) = 0xd.df7ca368501bp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.4cc542758e6d8p-4
+Quad: sin(x) = -0x1.4998a84eb1cdb47ae827b9c7bf57p-1
+---
+x = 0x8p+523:
+libm: sin(x) = 0xd.d2b35535a3e9p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c388e2ae3177p-4
+Quad: sin(x) = -0x1.f8711c55c62ed9988bda90a9c3e5p-1
+---
+x = 0x8p+524:
+libm: sin(x) = -0xd.ec22a1ba07bf8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.cb610afad15e8p-5
+Quad: sin(x) = -0x1.596c215f5a2bd613c8b623866976p-2
+---
+x = 0x8p+525:
+libm: sin(x) = 0xd.b8b74bb631e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.29693bcfdea6p-4
+Quad: sin(x) = 0x1.452d2779fbd4c62c8ee02ce214a1p-1
+---
+x = 0x8p+526:
+libm: sin(x) = -0xe.1d56fd9be5998p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.b2c5af56ffd38p-4
+Quad: sin(x) = 0x1.f658b5eadffa6b0688f42bd86c30p-1
+---
+x = 0x8p+527:
+libm: sin(x) = 0xd.4b5cc23027f5p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.22d62b65fd3p-5
+Quad: sin(x) = 0x1.845ac56cbfa5fb12a053b506b052p-2
+---
+x = 0x8p+528:
+libm: sin(x) = -0xe.cb6b7e4941cfp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.3abc1d2721d3p-4
+Quad: sin(x) = -0x1.675783a4e43a634f66ebb6a4416bp-1
+---
+x = 0x8p+529:
+libm: sin(x) = 0xb.446538e63cbep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ff8c7e5383f7p-4
+Quad: sin(x) = -0x1.fff18fca707ee7b0f5cb3930164dp-1
+---
+x = 0x8p+530:
+libm: sin(x) = -0xf.ffdca8d61ef3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.327000cca3cp-9
+Quad: sin(x) = -0x1.e64e001994780643ef9cb7fde6a9p-6
+---
+x = 0x8p+531:
+libm: sin(x) = -0x8.6826dde9cab1p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.30b9303ea6a8p-8
+Quad: sin(x) = 0x1.e6172607d4d4ff9dc5c1519a66dfp-5
+---
+x = 0x8p+532:
+libm: sin(x) = 0x8.67dc97b66a7fp-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.29df16f449b88p-7
+Quad: sin(x) = 0x1.e53be2de893716c5b6471e1e19b0p-4
+---
+x = 0x8p+533:
+libm: sin(x) = 0x8.66b38e49fffd8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.0e893a5d8ea5p-6
+Quad: sin(x) = 0x1.e1d1274bb1d49d0a80b58f49ba8bp-3
+---
+x = 0x8p+534:
+libm: sin(x) = 0x8.62105e90414b8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.a258c0bef9bp-5
+Quad: sin(x) = 0x1.d44b1817df3605e6e0f4bd5840c7p-2
+---
+x = 0x8p+535:
+libm: sin(x) = 0x8.4f92f8cb4cbb8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.03a388090cca8p-4
+Quad: sin(x) = 0x1.a074710121994f1760d07ece94acp-1
+---
+x = 0x8p+536:
+libm: sin(x) = 0x8.06915e396c2b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.242b2c81920ap-4
+Quad: sin(x) = 0x1.e4856590324145fb6aa948450246p-1
+---
+x = 0x8p+537:
+libm: sin(x) = 0xd.e2cdbba5b58fp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.c990c6e0d6eb8p-4
+Quad: sin(x) = -0x1.393218dc1add7634735abb04eba6p-1
+---
+x = 0x8p+538:
+libm: sin(x) = 0xd.cbf78658fa068p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.7c36f9b84de58p-4
+Quad: sin(x) = 0x1.ef86df3709bca9e65ca2b57c0adep-1
+---
+x = 0x8p+539:
+libm: sin(x) = -0xd.f93382cc9a2e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.95eae8e6c2ffp-5
+Quad: sin(x) = 0x1.f2bd5d1cd85fdd672d9b5ceaccc1p-2
+---
+x = 0x8p+540:
+libm: sin(x) = 0xd.9cfcb8723b24p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.9cb0878b7bce8p-4
+Quad: sin(x) = -0x1.b39610f16f79c830d0cf81bfe6f8p-1
+---
+x = 0x8p+541:
+libm: sin(x) = -0xe.4e585ccf879d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.4eda2e2352138p-4
+Quad: sin(x) = -0x1.c9db45c46a426f49bf0cbceb674dp-1
+---
+x = 0x8p+542:
+libm: sin(x) = 0xc.d0176fb81c1a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.cebbf689619bp-4
+Quad: sin(x) = 0x1.99d77ed12c3360edc370018675bbp-1
+---
+x = 0x8p+543:
+libm: sin(x) = -0xf.59122dbeac03p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.5a59511c93e1p-4
+Quad: sin(x) = -0x1.eb4b2a23927c1fc28eea7fcad416p-1
+---
+x = 0x8p+544:
+libm: sin(x) = 0x8.ac7f4f2dafa78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.a4e0986968e98p-4
+Quad: sin(x) = 0x1.149c130d2d1d3369ac7a97a3b4a9p-1
+---
+x = 0x8p+545:
+libm: sin(x) = -0xe.93ca7894ff91p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.8c4894290f62p-4
+Quad: sin(x) = -0x1.d189128521ec3fede39ecdab9876p-1
+---
+x = 0x8p+546:
+libm: sin(x) = -0xc.04ae1f94a86cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.1c7cb9d35433p-4
+Quad: sin(x) = -0x1.838f973a6a865934726c317f8fcfp-1
+---
+x = 0x8p+547:
+libm: sin(x) = 0xf.de143bffb1d28p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d4220d1f7f4dp-4
+Quad: sin(x) = 0x1.fa8441a3efe9a53811a51459b7e9p-1
+---
+x = 0x8p+548:
+libm: sin(x) = -0x8.26c76456a666p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.3dd1ea45d284p-5
+Quad: sin(x) = -0x1.27ba3d48ba507d75cb5fca82b4a8p-2
+---
+x = 0x8p+549:
+libm: sin(x) = 0xf.c3e090bd8ddep-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.d90380010bfe8p-4
+Quad: sin(x) = 0x1.1b207000217fc9f97a3e880d5ecfp-1
+---
+x = 0x8p+550:
+libm: sin(x) = 0xd.b81b5a9c4e2a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.be636f49d0948p-4
+Quad: sin(x) = 0x1.d7cc6de93a128b5421c31075552fp-1
+---
+x = 0x8p+551:
+libm: sin(x) = 0xe.1e74589de5058p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.741caf26edaep-4
+Quad: sin(x) = 0x1.6e8395e4ddb5bcced817e9cded82p-1
+---
+x = 0x8p+552:
+libm: sin(x) = -0xd.48b9832fd5c4p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.febb84b54955p-4
+Quad: sin(x) = -0x1.ffd77096a92aa079ba9e5643fb31p-1
+---
+x = 0x8p+553:
+libm: sin(x) = 0xe.cf044ea7d2bc8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.bb81f18f6a53p-8
+Quad: sin(x) = 0x1.97703e31ed4a5a4c00ad90a37f34p-5
+---
+x = 0x8p+554:
+libm: sin(x) = -0xb.36e9d0daab94p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.b7793de7928fp-7
+Quad: sin(x) = -0x1.96ef27bcf251dee71c25e90bb28fp-4
+---
+x = 0x8p+555:
+libm: sin(x) = 0xf.ff6028aea73cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.a75e199a354cp-6
+Quad: sin(x) = -0x1.94ebc33346a97cba180bbff82e5ep-3
+---
+x = 0x8p+556:
+libm: sin(x) = 0x8.f028ffd06ec98p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.676bb91e8642p-5
+Quad: sin(x) = -0x1.8ced7723d0c8410f1d8c083e7aecp-2
+---
+x = 0x8p+557:
+libm: sin(x) = -0x8.eec3db48684b8p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.6f286a39080ep-4
+Quad: sin(x) = -0x1.6de50d472101c194a0339b6daf90p-1
+---
+x = 0x8p+558:
+libm: sin(x) = -0x8.e930978d7e49p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ff0f8639f1b98p-4
+Quad: sin(x) = -0x1.ffe1f0c73e3729f4de308b82bf28p-1
+---
+x = 0x8p+559:
+libm: sin(x) = -0x8.d2f8652d600fp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.f65001caaf608p-8
+Quad: sin(x) = 0x1.5eca003955ec12f88df2b836fb01p-5
+---
+x = 0x8p+560:
+libm: sin(x) = -0x8.7b62f53a8f4c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.f3bd0ca9138cp-7
+Quad: sin(x) = -0x1.5e77a195227187d3d369ca97f8a9p-4
+---
+x = 0x8p+561:
+libm: sin(x) = -0xe.62535c58dde08p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.e974d83d9d06p-6
+Quad: sin(x) = -0x1.5d2e9b07b3a0c2563dd8dbd4adcep-3
+---
+x = 0x8p+562:
+libm: sin(x) = -0xc.9942530ec5b3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.c08ddf6e15ebp-5
+Quad: sin(x) = -0x1.5811bbedc2bd5d3669887e16dbe1p-2
+---
+x = 0x8p+563:
+libm: sin(x) = 0xf.883c1a4411d6p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.208566b1104cp-4
+Quad: sin(x) = -0x1.4410acd622097de6edbf9c27e136p-1
+---
+x = 0x8p+564:
+libm: sin(x) = -0xe.e9fc64575703p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ae43e7f72dd7p-4
+Quad: sin(x) = -0x1.f5c87cfee5bade0a677e0f3ef076p-1
+---
+x = 0x8p+565:
+libm: sin(x) = 0xd.31f82caac526p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.77bc766b125cp-5
+Quad: sin(x) = -0x1.8ef78ecd624b7b9be2bf440155abp-2
+---
+x = 0x8p+566:
+libm: sin(x) = 0xe.ecf6a781a4048p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.7b843e6eb2278p-4
+Quad: sin(x) = 0x1.6f7087cdd644f37a20bd9a6df9e6p-1
+---
+x = 0x8p+567:
+libm: sin(x) = -0xa.c112341ff5a18p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fe26305e46048p-4
+Quad: sin(x) = 0x1.ffc4c60bc8c08b1571ebe9c759cdp-1
+---
+x = 0x8p+568:
+libm: sin(x) = 0xf.ece5d5086127p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.620f18120895p-8
+Quad: sin(x) = -0x1.ec41e3024112a432b52ec1fa8ea3p-5
+---
+x = 0x8p+569:
+libm: sin(x) = 0xc.4a39a2020de88p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.5af1577cb28b8p-7
+Quad: sin(x) = 0x1.eb5e2aef965168d5d09b6d733420p-4
+---
+x = 0x8p+570:
+libm: sin(x) = -0xc.0fabb2d7b671p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.3e8e1294b0a7p-6
+Quad: sin(x) = 0x1.e7d1c2529614e36e8fa5a1707c77p-3
+---
+x = 0x8p+571:
+libm: sin(x) = -0xb.2bf371cbd05fp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.ce3b206946f18p-5
+Quad: sin(x) = 0x1.d9c7640d28de33b5080905c184c3p-2
+---
+x = 0x8p+572:
+libm: sin(x) = -0xf.feb999e688c08p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.20257ac1811b8p-4
+Quad: sin(x) = 0x1.a404af5830236f2fba5d1562deacp-1
+---
+x = 0x8p+573:
+libm: sin(x) = -0xc.c51d8c8699a28p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.03186ea263c7p-4
+Quad: sin(x) = 0x1.e0630dd44c78e473ba27606c2c25p-1
+---
+x = 0x8p+574:
+libm: sin(x) = 0xc.c10baf2f41328p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.62fadd20d26fp-4
+Quad: sin(x) = -0x1.4c5f5ba41a4de21d0aab2ad55c9ap-1
+---
+x = 0x8p+575:
+libm: sin(x) = 0xc.b0cc013deb778p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.cd17ea2fccd9p-4
+Quad: sin(x) = 0x1.f9a2fd45f99b1d3809281be56b51p-1
+---
+x = 0x8p+576:
+libm: sin(x) = 0xc.70494966b16a8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.ef0fdc55552a8p-5
+Quad: sin(x) = 0x1.3de1fb8aaaa5500a9c0dd07a0494p-2
+---
+x = 0x8p+577:
+libm: sin(x) = 0xb.75e0f7039df58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.716c54fc68e3p-4
+Quad: sin(x) = -0x1.2e2d8a9f8d1c630365c8683a468dp-1
+---
+x = 0x8p+578:
+libm: sin(x) = 0xf.fe9a7b719703p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.3efeb3ff71ed8p-4
+Quad: sin(x) = -0x1.e7dfd67fee3db6a584b9cb47bd10p-1
+---
+x = 0x8p+579:
+libm: sin(x) = -0xd.5d47cd0ac229p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.3fefcfc6c0a3p-4
+Quad: sin(x) = -0x1.27fdf9f8d8145a6792b1a5e4b1cep-1
+---
+x = 0x8p+580:
+libm: sin(x) = 0xd.589d8101f06bp-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.184782cef7878p-4
+Quad: sin(x) = 0x1.e308f059def0f1dc8291b99290efp-1
+---
+x = 0x8p+581:
+libm: sin(x) = 0xd.45fe152810edp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.02a00d745522p-4
+Quad: sin(x) = 0x1.405401ae8aa43f427f99116abc41p-1
+---
+x = 0x8p+582:
+libm: sin(x) = 0xc.fc1c06f4f1a68p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.9e43ddc7bdf18p-4
+Quad: sin(x) = -0x1.f3c87bb8f7be2cbcad1cd3d88cb8p-1
+---
+x = 0x8p+583:
+libm: sin(x) = 0xb.de256d664d2a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.90d7da4a9abdp-5
+Quad: sin(x) = -0x1.b21afb4953579f21a9a8c516b83fp-2
+---
+x = 0x8p+584:
+libm: sin(x) = 0xf.eb53e909acb98p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.4955b816df8ep-4
+Quad: sin(x) = 0x1.892ab702dbf1c458e159071d67c6p-1
+---
+x = 0x8p+585:
+libm: sin(x) = -0xc.c764364e0999p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.bd9515d9424bp-4
+Quad: sin(x) = 0x1.f7b2a2bb28495d59cbbd4a852cc0p-1
+---
+x = 0x8p+586:
+libm: sin(x) = 0xc.858423ec8c45p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.4adf860221d08p-5
+Quad: sin(x) = -0x1.695bf0c0443a15ff0ab3febf5ff1p-2
+---
+x = 0x8p+587:
+libm: sin(x) = 0xb.85ebb47d5b0ep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.90e375b8c0828p-4
+Quad: sin(x) = 0x1.521c6eb7181055e10fe7b78255a8p-1
+---
+x = 0x8p+588:
+libm: sin(x) = 0xf.fd23d69a14de8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.de67ab458d3b8p-4
+Quad: sin(x) = 0x1.fbccf568b1a77256af3ef28b94fbp-1
+---
+x = 0x8p+589:
+libm: sin(x) = -0x9.8eead93991a38p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.1cf0122e12abp-5
+Quad: sin(x) = 0x1.039e0245c255647f73c558dd5006p-2
+---
+x = 0x8p+590:
+libm: sin(x) = 0x9.8815e8c9a4058p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b227ce967a1cp-5
+Quad: sin(x) = -0x1.f644f9d2cf437df556b617ff913cp-2
+---
+x = 0x8p+591:
+libm: sin(x) = 0x9.6cdf6c67df0bp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.ad978501f4f68p-4
+Quad: sin(x) = -0x1.b5b2f0a03e9ed25b550eeeb03d88p-1
+---
+x = 0x8p+592:
+libm: sin(x) = 0x9.01d5e7dcafe8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.316c34caad848p-4
+Quad: sin(x) = -0x1.c62d869955b0891cbdaee91a41d1p-1
+---
+x = 0x8p+593:
+libm: sin(x) = 0xe.e382a51c81028p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.1aaf33983f9f8p-4
+Quad: sin(x) = 0x1.a355e67307f3eda10c56a38ffaafp-1
+---
+x = 0x8p+594:
+libm: sin(x) = 0xa.e76373a629a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.09a6afe58d9c8p-4
+Quad: sin(x) = -0x1.e134d5fcb1b3910c7a9309bb9474p-1
+---
+x = 0x8p+595:
+libm: sin(x) = -0xf.f59f5478feb88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.45da596515398p-4
+Quad: sin(x) = 0x1.48bb4b2ca2a731bfc69aa9dd7b3ap-1
+---
+x = 0x8p+596:
+libm: sin(x) = -0x9.152e6392574ap-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c0673e85c3fe8p-4
+Quad: sin(x) = -0x1.f80ce7d0b87fd33decb00fa84ad8p-1
+---
+x = 0x8p+597:
+libm: sin(x) = 0x8.fda5921888158p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.0f49856fad1ap-5
+Quad: sin(x) = -0x1.61e930adf5a34108fdd1134ba9a0p-2
+---
+x = 0x8p+598:
+libm: sin(x) = 0x8.a0eef24206bap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.60cfda8c4d548p-4
+Quad: sin(x) = 0x1.4c19fb5189aa8bce651e249444f5p-1
+---
+x = 0x8p+599:
+libm: sin(x) = 0xe.885f98c4a8198p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.cc319f262ecf8p-4
+Quad: sin(x) = 0x1.f98633e4c5d9f106dd5b2e90a6bap-1
+---
+x = 0x8p+600:
+libm: sin(x) = 0xc.28b36bd034f7p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.04b889d292168p-5
+Quad: sin(x) = 0x1.4097113a5242d56c852b794469f4p-2
+---
+x = 0x8p+601:
+libm: sin(x) = -0xf.ce7e23c2571a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.83c983d26f668p-4
+Quad: sin(x) = -0x1.3079307a4decd2acfad99844b4abp-1
+---
+x = 0x8p+602:
+libm: sin(x) = 0x9.ccf326b1d6d58p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4c95203c949p-4
+Quad: sin(x) = -0x1.e992a4079291f9a1f93081613743p-1
+---
+x = 0x8p+603:
+libm: sin(x) = -0x9.546200b5aac7p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.f4f50eedc11c8p-4
+Quad: sin(x) = -0x1.1e9ea1ddb8238eab4c70e404d7d3p-1
+---
+x = 0x8p+604:
+libm: sin(x) = -0xf.28a452fd9e9a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.d800ecbf81908p-4
+Quad: sin(x) = 0x1.db001d97f03213d5158444b095c9p-1
+---
+x = 0x8p+605:
+libm: sin(x) = -0x9.b3802a36e5868p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.149e5656bd63p-4
+Quad: sin(x) = 0x1.6293cacad7ac67a48d90dc227631p-1
+---
+x = 0x8p+606:
+libm: sin(x) = 0xf.6dd983c17689p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fc97265bad1e8p-4
+Quad: sin(x) = -0x1.ff92e4cb75a3d0ef48bc86279ce3p-1
+---
+x = 0x8p+607:
+libm: sin(x) = 0x8.2b65a056316c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.6f3d345ffb16p-7
+Quad: sin(x) = -0x1.4de7a68bff62bee8b8e647fd9132p-4
+---
+x = 0x8p+608:
+libm: sin(x) = -0xe.0c74a306c94bp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.6659351d3d148p-6
+Quad: sin(x) = 0x1.4ccb26a3a7a28bcbed2fa1f8ffd8p-3
+---
+x = 0x8p+609:
+libm: sin(x) = -0xd.726c685a275f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.42f69e9415398p-5
+Quad: sin(x) = 0x1.485ed3d282a72b411643d82973dap-2
+---
+x = 0x8p+610:
+libm: sin(x) = 0xe.92faaeded767p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.b83b73234d1fp-4
+Quad: sin(x) = 0x1.37076e6469a3e434bd49655b5401p-1
+---
+x = 0x8p+611:
+libm: sin(x) = -0xc.0746e954a3418p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.70fc35cdc52p-4
+Quad: sin(x) = 0x1.ee1f86b9b8a3fcd3c22734121ed3p-1
+---
+x = 0x8p+612:
+libm: sin(x) = 0xf.dd0f80ca681p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.16e2f1d904b8p-4
+Quad: sin(x) = 0x1.02dc5e3b209701d0c4b69fdd4d09p-1
+---
+x = 0x8p+613:
+libm: sin(x) = -0x8.45363fee756ap-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.f56b66991ea3p-4
+Quad: sin(x) = -0x1.bead6cd323d45fc12862b8e7b185p-1
+---
+x = 0x8p+614:
+libm: sin(x) = 0xf.fa8f26cc760ep-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.a51b63f66d5f8p-4
+Quad: sin(x) = -0x1.b4a36c7ecdabe999cad7c8d96e5cp-1
+---
+x = 0x8p+615:
+libm: sin(x) = 0xd.d81867212d8f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.405b89f1ef048p-4
+Quad: sin(x) = 0x1.c80b713e3de0950b66454fa84bfbp-1
+---
+x = 0x8p+616:
+libm: sin(x) = 0xd.e18125c41c2f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.f4d977850706p-4
+Quad: sin(x) = -0x1.9e9b2ef0a0e0c6076ff951c5acbbp-1
+---
+x = 0x8p+617:
+libm: sin(x) = -0xd.ce9c74d6173a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.343c3b183d3c8p-4
+Quad: sin(x) = 0x1.e687876307a78d22a23cd9b06340p-1
+---
+x = 0x8p+618:
+libm: sin(x) = 0xd.f418d3f8819b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.78b4b0da4f4c8p-4
+Quad: sin(x) = -0x1.2f16961b49e994f60ec840d887cfp-1
+---
+x = 0x8p+619:
+libm: sin(x) = -0xd.a7edafbd5f29p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.446f468ae6d58p-4
+Quad: sin(x) = 0x1.e88de8d15cdaa8c87a7ac9d7b82cp-1
+---
+x = 0x8p+620:
+libm: sin(x) = 0xe.3b6d7bbe584ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.22607f22c3008p-4
+Quad: sin(x) = 0x1.244c0fe45860153884757e46ac47p-1
+---
+x = 0x8p+621:
+libm: sin(x) = -0xd.017f386e18db8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.ffbae1c5bd698p-4
+Quad: sin(x) = -0x1.dff75c38b7ad296170aa047e3ce3p-1
+---
+x = 0x8p+622:
+libm: sin(x) = 0xf.268a779fa8a68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.71b3cc431aff8p-4
+Quad: sin(x) = -0x1.4e367988635ff552385af80dd56bp-1
+---
+x = 0x8p+623:
+libm: sin(x) = -0x9.bde7ec7aa61p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d3022315d0548p-4
+Quad: sin(x) = 0x1.fa604462ba0a8d415efd29dfb513p-1
+---
+x = 0x8p+624:
+libm: sin(x) = 0xf.74b49e5af2cdp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.5b2011a9d0d48p-5
+Quad: sin(x) = 0x1.2b6402353a1a8f1c14197b504de1p-2
+---
+x = 0x8p+625:
+libm: sin(x) = 0xf.fc56c999f62d8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.f277de163b4a8p-4
+Quad: sin(x) = -0x1.1e4efbc2c7694e2ce26d3a2af0a0p-1
+---
+x = 0x8p+626:
+libm: sin(x) = -0xd.d91ff379d16e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.d5c1ffde2dfep-4
+Quad: sin(x) = -0x1.dab83ffbc5bfb9ac281ef7c5a3b2p-1
+---
+x = 0x8p+627:
+libm: sin(x) = -0xd.df758ec7a3718p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.1d45914802478p-4
+Quad: sin(x) = -0x1.63a8b2290048f47f0e4d527716b7p-1
+---
+x = 0x8p+628:
+libm: sin(x) = 0xd.d2c1a5962526p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fd800507d857p-4
+Quad: sin(x) = 0x1.ffb000a0fb0adf370a6c26bb0693p-1
+---
+x = 0x8p+629:
+libm: sin(x) = -0xd.ec069dbd44148p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.eff3a8d5233ap-7
+Quad: sin(x) = 0x1.1dfe751aa46743a73b08118d8aaap-4
+---
+x = 0x8p+630:
+libm: sin(x) = 0xd.b8f1c47d8dd3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.ea5e2b7eba068p-6
+Quad: sin(x) = -0x1.1d4bc56fd740d6ead4b9236d5f4ap-3
+---
+x = 0x8p+631:
+libm: sin(x) = -0xe.1cebe0fa6cd9p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.d41d209227568p-5
+Quad: sin(x) = -0x1.1a83a41244ead313bf87cb3555fbp-2
+---
+x = 0x8p+632:
+libm: sin(x) = 0xd.4c59bb529597p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.7c652a419e398p-4
+Quad: sin(x) = -0x1.0f8ca54833c72ca121a1e303f5c3p-1
+---
+x = 0x8p+633:
+libm: sin(x) = -0xe.ca10c614da53p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.635df227b855p-4
+Quad: sin(x) = -0x1.cc6bbe44f70aa7b7de8b3f90366ap-1
+---
+x = 0x8p+634:
+libm: sin(x) = 0xb.496fb7a824f78p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.9652da8c554cp-4
+Quad: sin(x) = -0x1.92ca5b518aa97d8df74c76ea2f0bp-1
+---
+x = 0x8p+635:
+libm: sin(x) = -0xf.fff437ee3da48p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.8a82347946c98p-4
+Quad: sin(x) = 0x1.f150468f28d92f3cd3f6a30e9efap-1
+---
+x = 0x8p+636:
+libm: sin(x) = -0x9.b54ddad28333p-10 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.c8438d620fb5p-5
+Quad: sin(x) = -0x1.d90871ac41f698274aacf03fd5d9p-2
+---
+x = 0x8p+637:
+libm: sin(x) = 0x9.b53142b2a186p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.1c4b26f9b8428p-4
+Quad: sin(x) = 0x1.a38964df37084dd50ba92385445dp-1
+---
+x = 0x8p+638:
+libm: sin(x) = 0x9.b4bee42c6b748p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.07bb0c797f668p-4
+Quad: sin(x) = 0x1.e0f7618f2fecca96a1f08821fb15p-1
+---
+x = 0x8p+639:
+libm: sin(x) = 0x9.b2f589a78652p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.4e72a570a556p-4
+Quad: sin(x) = -0x1.49ce54ae14aab8a781d05a5c5ad7p-1
+---
+x = 0x8p+640:
+libm: sin(x) = 0x9.abd2188d6692p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c448736a76bcp-4
+Quad: sin(x) = 0x1.f8890e6d4ed782b0c71363d84c74p-1
+---
+x = 0x8p+641:
+libm: sin(x) = 0x9.8f63d252890dp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.badcaded891e8p-5
+Quad: sin(x) = 0x1.575b95bdb123d08d86f10c998a39p-2
+---
+x = 0x8p+642:
+libm: sin(x) = 0x9.1f9e477f7f68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.1bd7094327fep-4
+Quad: sin(x) = -0x1.437ae12864ffc35ff27df6450a1dp-1
+---
+x = 0x8p+643:
+libm: sin(x) = 0xe.fd62c6711c6c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.abd872db9519p-4
+Quad: sin(x) = -0x1.f57b0e5b72a3266e4fdde7ffeb14p-1
+---
+x = 0x8p+644:
+libm: sin(x) = 0xa.7bdde52d55698p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.a433bf775a228p-5
+Quad: sin(x) = -0x1.948677eeeb444d13fcfb1e324709p-2
+---
+x = 0x8p+645:
+libm: sin(x) = -0xf.d6e4a73858568p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.9cf9ee34ce9e8p-4
+Quad: sin(x) = 0x1.739f3dc699d3cef2f93943116553p-1
+---
+x = 0x8p+646:
+libm: sin(x) = -0x8.f420f9d79427p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fa1a4df79641p-4
+Quad: sin(x) = 0x1.ff4349bef2c82156e1149eed2970p-1
+---
+x = 0x8p+647:
+libm: sin(x) = 0x8.9893a467a53a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.b668543f5e268p-7
+Quad: sin(x) = -0x1.b6cd0a87ebc4cd1c4c08e6213665p-4
+---
+x = 0x8p+648:
+libm: sin(x) = 0xe.8008a4aaf23c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.a2349e75dc5ep-6
+Quad: sin(x) = 0x1.b44693cebb8bc38883080a8fdf60p-3
+---
+x = 0x8p+649:
+libm: sin(x) = 0xc.4255ce94db12p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.521802f79fbe8p-5
+Quad: sin(x) = 0x1.aa43005ef3f7c8f2e47da87090dcp-2
+---
+x = 0x8p+650:
+libm: sin(x) = -0xf.c17049b9c9b48p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.1c9869e6e5a98p-4
+Quad: sin(x) = 0x1.83930d3cdcb52807d7b45c038916p-1
+---
+x = 0x8p+651:
+libm: sin(x) = 0xa.f90be2b2de238p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d415adbb49d88p-4
+Quad: sin(x) = 0x1.fa82b5b7693b16b9e5534d15ae29p-1
+---
+x = 0x8p+652:
+libm: sin(x) = -0xa.4ebcf4c99f36p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.3f166fc1a632p-5
+Quad: sin(x) = -0x1.27e2cdf834c640548d0dbd0c4dd1p-2
+---
+x = 0x8p+653:
+libm: sin(x) = -0xf.c4697de831a48p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.da1de649ac81p-4
+Quad: sin(x) = 0x1.1b43bcc93590211e502d301da8a6p-1
+---
+x = 0x8p+654:
+libm: sin(x) = -0xa.b8006505b4ec8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.bf6a8fd326e4p-4
+Quad: sin(x) = 0x1.d7ed51fa64dc812b1d79b8ce3deap-1
+---
+x = 0x8p+655:
+libm: sin(x) = 0xa.197c65261ef1p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.70694c11d4068p-4
+Quad: sin(x) = 0x1.6e0d29823a80d64ca801b9f5cdbbp-1
+---
+x = 0x8p+656:
+libm: sin(x) = 0xf.aa9dd6a7d1f08p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fefb7873f601p-4
+Quad: sin(x) = -0x1.ffdf6f0e7ec02050b8bfa5c2a891p-1
+---
+x = 0x8p+657:
+libm: sin(x) = 0xc.ba80356964ef8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.68e9884f5637p-8
+Quad: sin(x) = 0x1.6d1d3109eac6e23ce58246832aa0p-5
+---
+x = 0x8p+658:
+libm: sin(x) = -0xb.ada1aa69311b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.66027a01dc018p-7
+Quad: sin(x) = -0x1.6cc04f403b8036d90b3f2c944447p-4
+---
+x = 0x8p+659:
+libm: sin(x) = -0xf.f7359c92439a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.5a6aae95a435p-6
+Quad: sin(x) = -0x1.6b4d55d2b4869f843a9153943003p-3
+---
+x = 0x8p+660:
+libm: sin(x) = 0x8.5d0db228d4efp-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.2c52277bcc4cp-5
+Quad: sin(x) = -0x1.658a44ef79897a7355594eaebdc3p-2
+---
+x = 0x8p+661:
+libm: sin(x) = -0x8.4ab1783d21a9p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.784d0bc136b98p-4
+Quad: sin(x) = -0x1.4f09a17826d7373b7c7c359d9a64p-1
+---
+x = 0x8p+662:
+libm: sin(x) = -0x8.0231b5a77a728p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.d58c87d25bad8p-4
+Quad: sin(x) = -0x1.fab190fa4b75b21e68c09d32dbcap-1
+---
+x = 0x8p+663:
+libm: sin(x) = -0xd.ddc57b12229dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.1857277da5f1p-5
+Quad: sin(x) = -0x1.230ae4efb4be1b3196f712614be7p-2
+---
+x = 0x8p+664:
+libm: sin(x) = -0xd.d6293ae1673ep-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.b85113aa0cfb8p-4
+Quad: sin(x) = 0x1.170a2275419f77b6b1fefb51bf35p-1
+---
+x = 0x8p+665:
+libm: sin(x) = 0xd.e55535bab687p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.9f4fd95b4aa9p-4
+Quad: sin(x) = 0x1.d3e9fb2b69551af1b83a90ebbcc2p-1
+---
+x = 0x8p+666:
+libm: sin(x) = -0xd.c6cb4570091b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.df3543aeb666p-4
+Quad: sin(x) = 0x1.7be6a875d6ccbd57d36b5de693b1p-1
+---
+x = 0x8p+667:
+libm: sin(x) = 0xe.031661255dce8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.eb023e28645cp-4
+Quad: sin(x) = -0x1.fd6047c50c8b7a7e6c5133f2c1cep-1
+---
+x = 0x8p+668:
+libm: sin(x) = -0xd.876406616acfp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.e036e74424368p-6
+Quad: sin(x) = 0x1.9c06dce88486d3aea224ecd661c9p-3
+---
+x = 0x8p+669:
+libm: sin(x) = 0xe.72227407d37cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.9cd1523ab4938p-5
+Quad: sin(x) = -0x1.939a2a4756926e664a6615d7c616p-2
+---
+x = 0x8p+670:
+libm: sin(x) = -0xc.6bd62c52e6e58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.97713dfa46fbp-4
+Quad: sin(x) = -0x1.72ee27bf48df59a78206f66bdf9ep-1
+---
+x = 0x8p+671:
+libm: sin(x) = 0xf.a8b162a4d988p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.faeef6e09b5fp-4
+Quad: sin(x) = -0x1.ff5ddedc136be2b0cf3d99a6271cp-1
+---
+x = 0x8p+672:
+libm: sin(x) = -0xc.dd080726fab78p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.b69c588bd8f5p-7
+Quad: sin(x) = 0x1.96d38b117b1ea39fac2324a9ad79p-4
+---
+x = 0x8p+673:
+libm: sin(x) = 0xb.c741cfb3dba7p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.a6847cb8fea5p-6
+Quad: sin(x) = -0x1.94d08f971fd49a824c8a1f67c2bbp-3
+---
+x = 0x8p+674:
+libm: sin(x) = 0xf.f1959c249115p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.669f14aa5c408p-5
+Quad: sin(x) = -0x1.8cd3e2954b880bebec18eccd4ec4p-2
+---
+x = 0x8p+675:
+libm: sin(x) = -0xa.b1147bcc32c4p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.6e8d1d59b3bd8p-4
+Quad: sin(x) = -0x1.6dd1a3ab3677b3a68c08d4f00d22p-1
+---
+x = 0x8p+676:
+libm: sin(x) = 0xa.8a9db03f3d55p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ff18f042697ep-4
+Quad: sin(x) = -0x1.ffe31e084d2fb84a114b7f1ea18ep-1
+---
+x = 0x8p+677:
+libm: sin(x) = 0x9.f3fce0b748ec8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.bedd2bf2948f8p-8
+Quad: sin(x) = 0x1.57dba57e5291eaa491e573011730p-5
+---
+x = 0x8p+678:
+libm: sin(x) = 0xf.95f6d3520e138p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.bc7084c6e506p-7
+Quad: sin(x) = -0x1.578e1098dca0becf46bdc0f2d443p-4
+---
+x = 0x8p+679:
+libm: sin(x) = 0xe.17f4d6aacf8ap-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.b2c1300ac5f5p-6
+Quad: sin(x) = -0x1.5658260158be98e45b8603e5fd9ap-3
+---
+x = 0x8p+680:
+libm: sin(x) = -0xc.a72fa83c60688p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.8c3838c552ddp-5
+Quad: sin(x) = -0x1.51870718aa5ba2728cbae5f29a39p-2
+---
+x = 0x8p+681:
+libm: sin(x) = -0xf.7d1b0b335cd5p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.f55144c8e897p-4
+Quad: sin(x) = -0x1.3eaa28991d12e71cf6dad0c894d4p-1
+---
+x = 0x8p+682:
+libm: sin(x) = 0xf.89859b4d017e8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.96bb116f8c6c8p-4
+Quad: sin(x) = -0x1.f2d7622df18d9562027822763cacp-1
+---
+x = 0x8p+683:
+libm: sin(x) = -0xd.9536875975758p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.0bc090e5de9cp-5
+Quad: sin(x) = -0x1.c178121cbbd3876e1bd728059902p-2
+---
+x = 0x8p+684:
+libm: sin(x) = -0xe.5b7672a71a428p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.9eda0b4c71208p-4
+Quad: sin(x) = 0x1.93db41698e240fcddfa4c4968541p-1
+---
+x = 0x8p+685:
+libm: sin(x) = 0xc.ac68ee9c65278p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.83d568a3444ap-4
+Quad: sin(x) = 0x1.f07aad14688947960dff0374bab7p-1
+---
+x = 0x8p+686:
+libm: sin(x) = -0xf.78c8db765311p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.2a24aae71173p-5
+Quad: sin(x) = -0x1.e544955ce22e5809dc1cab2f8fd5p-2
+---
+x = 0x8p+687:
+libm: sin(x) = 0xf.c52734ff19b3p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.5a8b4c8ddc1bp-4
+Quad: sin(x) = 0x1.ab516991bb8362a361fcecdeca2ep-1
+---
+x = 0x8p+688:
+libm: sin(x) = -0xd.b8dc73dd84d6p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.b6327ef0cad18p-4
+Quad: sin(x) = 0x1.d6c64fde195a2d5cbdf07bf67394p-1
+---
+x = 0x8p+689:
+libm: sin(x) = -0xe.1d12ee967e9d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.913b020ec71f8p-4
+Quad: sin(x) = -0x1.72276041d8e3f11b7b2829da8a48p-1
+---
+x = 0x8p+690:
+libm: sin(x) = 0xd.4bfd87350c0cp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fbca01c32f288p-4
+Quad: sin(x) = 0x1.ff79403865e5130330c4231bda2dp-1
+---
+x = 0x8p+691:
+libm: sin(x) = -0xe.ca8f41a8f01cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.97de41c83fc8p-7
+Quad: sin(x) = -0x1.72fbc83907f8f98f686c2a6a254cp-4
+---
+x = 0x8p+692:
+libm: sin(x) = 0xb.479984dd9001p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.8bab818cc5388p-6
+Quad: sin(x) = 0x1.7175703198a71038ed99b0e5a564p-3
+---
+x = 0x8p+693:
+libm: sin(x) = -0xf.ffed1795fde38p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.5b2d67e8e4f3p-5
+Quad: sin(x) = 0x1.6b65acfd1c9e5fa4fc19963f8f8bp-2
+---
+x = 0x8p+694:
+libm: sin(x) = -0xc.4c728a72426f8p-10 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.9df45cfe3bc2p-4
+Quad: sin(x) = 0x1.53be8b9fc77846d5726095ce591ep-1
+---
+x = 0x8p+695:
+libm: sin(x) = 0xc.4c3867f949688p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.e2b6c4deb921p-4
+Quad: sin(x) = 0x1.fc56d89bd72424550a001743c9fdp-1
+---
+x = 0x8p+696:
+libm: sin(x) = 0xc.4b4fe48625128p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.2b7ba9c0bb9b8p-6
+Quad: sin(x) = 0x1.e56f753817736e9d7710443614f2p-3
+---
+x = 0x8p+697:
+libm: sin(x) = 0xc.47ae3dbfdafe8p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.bcd054f074f18p-5
+Quad: sin(x) = -0x1.d79a0a9e0e9e2d2637a7f153a18cp-2
+---
+x = 0x8p+698:
+libm: sin(x) = 0xc.392e119e0c8a8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.14e135dcb8fd8p-4
+Quad: sin(x) = -0x1.a29c26bb971face53f02a35db1fbp-1
+---
+x = 0x8p+699:
+libm: sin(x) = 0xb.ff93f5758ec5p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.1080d4e3cdefp-4
+Quad: sin(x) = -0x1.e2101a9c79bddf2c1936190af3bep-1
+---
+x = 0x8p+700:
+libm: sin(x) = 0xb.1f7e3478b7128p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.26c1837971d78p-4
+Quad: sin(x) = 0x1.44d8306f2e3af2e6a620ec1fa0c2p-1
+---
+x = 0x8p+701:
+libm: sin(x) = 0xf.fdb6134e106ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b1703437ef51p-4
+Quad: sin(x) = -0x1.f62e0686fdea1e8ddf6f9fc95affp-1
+---
+x = 0x8p+702:
+libm: sin(x) = 0x8.8d560276fa338p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.3c4164b5eb988p-5
+Quad: sin(x) = -0x1.87882c96bd730f55645d8ce37fdep-2
+---
+x = 0x8p+703:
+libm: sin(x) = -0x8.8871a39e4ec38p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.4e40881338bcp-4
+Quad: sin(x) = 0x1.69c81102671779f840693ee7ed7ap-1
+---
+x = 0x8p+704:
+libm: sin(x) = -0x8.74f0ef688141p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fffef1503f5f8p-4
+Quad: sin(x) = 0x1.ffffde2a07ebe8882026f132b71bp-1
+---
+x = 0x8p+705:
+libm: sin(x) = -0x8.27f8c5eab7c18p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.a23a05746bb2p-12
+Quad: sin(x) = 0x1.744740ae8d7638e01b4e4d061163p-9
+---
+x = 0x8p+706:
+libm: sin(x) = -0xe.08a30c04de2p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.a236f22f0f9c8p-11
+Quad: sin(x) = -0x1.7446de45e1f388f9e62140659ed0p-8
+---
+x = 0x8p+707:
+libm: sin(x) = -0xd.7b07af40c35c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.a22aa51e7fedp-10
+Quad: sin(x) = -0x1.744554a3cffda53410a14c9e18dcp-7
+---
+x = 0x8p+708:
+libm: sin(x) = 0xe.85b817f60bbdp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.a1f9712a4b608p-9
+Quad: sin(x) = -0x1.743f2e25496c16e1860df4d346e5p-6
+---
+x = 0x8p+709:
+libm: sin(x) = -0xc.30ebab6f1151p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.a134a63a0cb68p-8
+Quad: sin(x) = -0x1.742694c74196d2b924db756cd48dp-5
+---
+x = 0x8p+710:
+libm: sin(x) = 0xf.ca7ce35ff24cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.9e21c87e6c778p-7
+Quad: sin(x) = -0x1.73c4390fcd8ee86f294dcb5c70d1p-4
+---
+x = 0x8p+711:
+libm: sin(x) = -0xa.2d3c1303f7288p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.91db30ee2aabp-6
+Quad: sin(x) = -0x1.723b661dc55562ad15e0a6afcc85p-3
+---
+x = 0x8p+712:
+libm: sin(x) = 0x9.a5facfc04c68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.610e8ad42a9dp-5
+Quad: sin(x) = -0x1.6c21d15a85539d2fa82c813aaa89p-2
+---
+x = 0x8p+713:
+libm: sin(x) = 0xf.64b9b9ff73648p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.a2a8226ac29ap-4
+Quad: sin(x) = -0x1.5455044d58533cc8f92e526bfb56p-1
+---
+x = 0x8p+714:
+libm: sin(x) = 0x8.657e01b0a0f68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e43242e9f95p-4
+Quad: sin(x) = -0x1.fc86485d3f29f8ca371f5a7c022ep-1
+---
+x = 0x8p+715:
+libm: sin(x) = -0xe.4b76778e5152p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.c9a4b3c78cdb8p-6
+Quad: sin(x) = -0x1.d9349678f19b7060a85d1cab81c8p-3
+---
+x = 0x8p+716:
+libm: sin(x) = -0xc.d7c60215fdbb8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.633451d0c3c78p-5
+Quad: sin(x) = 0x1.cc668a3a1878f3e2cc2403014b45p-2
+---
+x = 0x8p+717:
+libm: sin(x) = 0xf.51bad3cc3838p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.d9ee2744cee18p-4
+Quad: sin(x) = 0x1.9b3dc4e899dc36f47ff416dec1b7p-1
+---
+x = 0x8p+718:
+libm: sin(x) = -0x8.d785ffd7679bp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.4fa29b2acdfp-4
+Quad: sin(x) = 0x1.e9f4536559bdf85a0134e9bc2c4fp-1
+---
+x = 0x8p+719:
+libm: sin(x) = 0xe.bcff6b112b79p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.e39284a5e7688p-4
+Quad: sin(x) = -0x1.1c725094bced11eb663c1f88cc2ap-1
+---
+x = 0x8p+720:
+libm: sin(x) = 0xb.791a37cb4a36p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.c82bb122a85f8p-4
+Quad: sin(x) = 0x1.d9057624550bf3070c9a4ee9b912p-1
+---
+x = 0x8p+721:
+libm: sin(x) = -0xf.fe5a045e8c428p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.5074f080a5478p-4
+Quad: sin(x) = 0x1.6a0e9e1014a8ec9c9a64d1b29b66p-1
+---
+x = 0x8p+722:
+libm: sin(x) = 0xe.84ab4cf1e763p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fffffe9beb2fp-4
+Quad: sin(x) = -0x1.ffffffd37d65dcabcc23198a77b2p-1
+---
+x = 0x8p+723:
+libm: sin(x) = -0xe.7eafff1ad9a18p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.57db249ee5ff8p-16
+Quad: sin(x) = 0x1.aafb6493dcbff487b416461d39fbp-13
+---
+x = 0x8p+724:
+libm: sin(x) = -0xe.66d18f2ffbecp-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57db1ffb155f8p-15
+Quad: sin(x) = -0x1.aafb63ff62abe9b3333bf791f748p-12
+---
+x = 0x8p+725:
+libm: sin(x) = -0xe.084322e2aa2f8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57db0d6bd2e78p-14
+Quad: sin(x) = -0x1.aafb61ad7a5cf429f1a8f92e2c74p-11
+---
+x = 0x8p+726:
+libm: sin(x) = -0xc.9c768d4907f88p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57dac32ec9a4p-13
+Quad: sin(x) = -0x1.aafb5865d9347a90f48e07d0fac7p-10
+---
+x = 0x8p+727:
+libm: sin(x) = -0xf.85b97710e6608p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57d99a3aae43p-12
+Quad: sin(x) = -0x1.aafb334755c85ce88685b96a5f08p-9
+---
+x = 0x8p+728:
+libm: sin(x) = 0xf.0ec19878a968p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57d4f66adba38p-11
+Quad: sin(x) = -0x1.aafa9ecd5b7470bc09655c5d2a2ep-8
+---
+x = 0x8p+729:
+libm: sin(x) = -0xd.4954d8dcec5b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57c267353f688p-10
+Quad: sin(x) = -0x1.aaf84ce6a7ed169303bca0b7d370p-7
+---
+x = 0x8p+730:
+libm: sin(x) = -0xe.ce3114e51987p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.57782af9b207p-9
+Quad: sin(x) = -0x1.aaef055f3640e3d9fd613c20bfcep-6
+---
+x = 0x8p+731:
+libm: sin(x) = 0xb.3a04a683aba3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.564f43b98cb7p-8
+Quad: sin(x) = -0x1.aac9e8773196db1f83623f66320bp-5
+---
+x = 0x8p+732:
+libm: sin(x) = -0xf.ff84b8f4f1368p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.51ac418fe2018p-7
+Quad: sin(x) = -0x1.aa358831fc402891d5815de541a2p-4
+---
+x = 0x8p+733:
+libm: sin(x) = -0xf.b323aeb3786fp-9 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.3f29e3d20df18p-6
+Quad: sin(x) = -0x1.a7e53c7a41be2e8c31e12ee06275p-3
+---
+x = 0x8p+734:
+libm: sin(x) = 0xf.b13fda9b21c7p-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.f5ba7a56f8548p-5
+Quad: sin(x) = -0x1.9eb74f4adf0a8c0eb37acaccd99dp-2
+---
+x = 0x8p+735:
+libm: sin(x) = 0xf.a9b1e7a2418fp-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.d975ca8c8fd68p-4
+Quad: sin(x) = -0x1.7b2eb95191fad4a84966203da14dp-1
+---
+x = 0x8p+736:
+libm: sin(x) = 0xf.8b8fea648dbd8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ecb4769c9f608p-4
+Quad: sin(x) = -0x1.fd968ed393ec1168de925ea78848p-1
+---
+x = 0x8p+737:
+libm: sin(x) = 0xf.1462e901a2aa8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.59e138c60e99p-6
+Quad: sin(x) = 0x1.8b3c2718c1d31836404a54a5d4c2p-3
+---
+x = 0x8p+738:
+libm: sin(x) = 0xd.4ce214263a68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.1e70fa1cfed98p-5
+Quad: sin(x) = -0x1.83ce1f439fdb30a6281c20eabbc9p-2
+---
+x = 0x8p+739:
+libm: sin(x) = 0xe.c95580ec69218p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.37597ebb2226p-4
+Quad: sin(x) = -0x1.66eb2fd76444bbaba2bf3b1f444ap-1
+---
+x = 0x8p+740:
+libm: sin(x) = -0xb.4c26b072cde5p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ff659488d9a58p-4
+Quad: sin(x) = -0x1.ffecb2911b34b3193ce171ddbf90p-1
+---
+x = 0x8p+741:
+libm: sin(x) = 0xf.fffbaef61dfp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.c90953871dda8p-8
+Quad: sin(x) = -0x1.19212a70e3bb4b9adb2dc09a7e4dp-5
+---
+x = 0x8p+742:
+libm: sin(x) = 0xb.c0b7c4f35b3e8p-11 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.c7b631fd46a4p-7
+Quad: sin(x) = 0x1.18f6c63fa8d4855bb769fbb0fd21p-4
+---
+x = 0x8p+743:
+libm: sin(x) = -0xb.c0ab1621b91bp-10 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.c26ade9983b78p-6
+Quad: sin(x) = 0x1.184d5bd33076e8c8d5b17f368dc8p-3
+---
+x = 0x8p+744:
+libm: sin(x) = -0xb.c0785b2d4f028p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.ad50b4995314p-5
+Quad: sin(x) = 0x1.15aa16932a627fcf2c45cf701db9p-2
+---
+x = 0x8p+745:
+libm: sin(x) = -0xb.bfad747d7d5ep-8 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.5a181d248481p-4
+Quad: sin(x) = 0x1.0b4303a490901dc8adaeedce3376p-1
+---
+x = 0x8p+746:
+libm: sin(x) = -0xb.bc822bd77b5f8p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.3f5df0c0ec8fp-4
+Quad: sin(x) = 0x1.c7ebbe181d91e52360cc0af0d555p-1
+---
+x = 0x8p+747:
+libm: sin(x) = -0xb.afda29ca0b61p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.f767506f026f8p-4
+Quad: sin(x) = 0x1.9eecea0de04deeea831744fad87ep-1
+---
+x = 0x8p+748:
+libm: sin(x) = -0xb.7d8be7f12975p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.318340fd36ce8p-4
+Quad: sin(x) = -0x1.e630681fa6d9ce56b2f2a70c07a6p-1
+---
+x = 0x8p+749:
+libm: sin(x) = -0xa.b95ed2befc158p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.86ba491520ca8p-4
+Quad: sin(x) = 0x1.30d74922a4194da3b5de450bb523p-1
+---
+x = 0x8p+750:
+libm: sin(x) = -0xf.ead752b0d0dc8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4eb7dfdcb7298p-4
+Quad: sin(x) = -0x1.e9d6fbfb96e531b6c8e3e6aa2377p-1
+---
+x = 0x8p+751:
+libm: sin(x) = -0xc.ed2e762f8b77p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.e8d0db4e908b8p-4
+Quad: sin(x) = -0x1.1d1a1b69d21176fadeb46e407be5p-1
+---
+x = 0x8p+752:
+libm: sin(x) = 0xc.a8fb04b9bb44p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.ccfb6a74da1p-4
+Quad: sin(x) = 0x1.d99f6d4e9b41fb0549c5449be5e6p-1
+---
+x = 0x8p+753:
+libm: sin(x) = 0xb.a08d686851fd8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.3e8e8d0cee8c8p-4
+Quad: sin(x) = 0x1.67d1d1a19dd18d36aad2eaac96e5p-1
+---
+x = 0x8p+754:
+libm: sin(x) = 0xf.f9880cfb3cadp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.ffb1b0ed7af3p-4
+Quad: sin(x) = -0x1.fff6361daf5e649488f64857f6d5p-1
+---
+x = 0x8p+755:
+libm: sin(x) = -0xe.5bdfa02696a38p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.8376e99c926ep-9
+Quad: sin(x) = -0x1.906edd33924dbcdba7186ceddb48p-6
+---
+x = 0x8p+756:
+libm: sin(x) = 0xe.44abecb8179bp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.8281f106eba38p-8
+Quad: sin(x) = 0x1.90503e20dd7476f3dfa58913fca8p-5
+---
+x = 0x8p+757:
+libm: sin(x) = 0xd.e8bd9838528fp-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.7eae7f137c008p-7
+Quad: sin(x) = 0x1.8fd5cfe26f8017d9ca7680c24d87p-4
+---
+x = 0x8p+758:
+libm: sin(x) = 0xc.86c85a2edd178p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.6f67bbdc1447p-6
+Quad: sin(x) = 0x1.8decf77b8288e7e0ba98af41d67fp-3
+---
+x = 0x8p+759:
+libm: sin(x) = 0xf.9622e1a72dffp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.32bc91834847p-5
+Quad: sin(x) = 0x1.865792306908e6bc886049a76759p-2
+---
+x = 0x8p+760:
+libm: sin(x) = -0xe.1538a3fb081b8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.46f48fbfd9f5p-4
+Quad: sin(x) = 0x1.68de91f7fb3e98308413517b7f1ep-1
+---
+x = 0x8p+761:
+libm: sin(x) = 0xc.a5521f98ca848p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ffea321dc0eep-4
+Quad: sin(x) = 0x1.fffd4643b81dc33fbc5b5c317ba1p-1
+---
+x = 0x8p+762:
+libm: sin(x) = 0xf.7ea1100e693a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.34fdd4a8d26f8p-10
+Quad: sin(x) = 0x1.a69fba951a4de9082f3d775c5847p-7
+---
+x = 0x8p+763:
+libm: sin(x) = -0xf.74331b43975bp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.34b5d6de70cp-9
+Quad: sin(x) = -0x1.a696badbce180326d251b575dd43p-6
+---
+x = 0x8p+764:
+libm: sin(x) = 0xd.884593b5b8c58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.3395e8e76638p-8
+Quad: sin(x) = -0x1.a672bd1cecc7024b5d24fa8a3446p-5
+---
+x = 0x8p+765:
+libm: sin(x) = 0xe.70b6c508bb2ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.2f16c4299932p-7
+Quad: sin(x) = -0x1.a5e2d88533263ef0dfcd5198bde9p-4
+---
+x = 0x8p+766:
+libm: sin(x) = -0xc.6ffea2e75e07p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.1d2360bf0518p-6
+Quad: sin(x) = -0x1.a3a46c17e0a2fdb693b0ad98fa3cp-3
+---
+x = 0x8p+767:
+libm: sin(x) = 0xf.a5f5bc79c5868p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.d5e835ecdbb9p-5
+Quad: sin(x) = -0x1.9abd06bd9b7727a2d2879a334979p-2
+---
+x = 0x8p+768:
+libm: sin(x) = -0xd.0d5509edf6e18p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.c1fc95b10efap-4
+Quad: sin(x) = -0x1.783f92b621df475ad3f2d7b278c1p-1
+---
+x = 0x8p+769:
+libm: sin(x) = 0xb.eac242ff9c038p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.f2dbeddf56428p-4
+Quad: sin(x) = -0x1.fe5b7dbbeac8488bede53ac949b7p-1
+---
+x = 0x8p+770:
+libm: sin(x) = 0xf.e75f206ade1b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.3649a57470f7p-6
+Quad: sin(x) = 0x1.46c934ae8e1ee4a68248ce6f732ep-3
+---
+x = 0x8p+771:
+libm: sin(x) = -0xd.ee66960fcdbe8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.14cae623d5818p-5
+Quad: sin(x) = -0x1.42995cc47ab02a03bee95fb9df51p-2
+---
+x = 0x8p+772:
+libm: sin(x) = 0xd.98e1e81038f98p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.916044ee83a2p-4
+Quad: sin(x) = -0x1.322c089dd0743eed0bd9704bebddp-1
+---
+x = 0x8p+773:
+libm: sin(x) = 0xc.4f03c869a63d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.565bf5c859e7p-4
+Quad: sin(x) = -0x1.eacb7eb90b3ce2a6a34b0f98c559p-1
+---
+x = 0x8p+774:
+libm: sin(x) = 0xf.ba5c14c65005p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.bc89b3b844a2p-4
+Quad: sin(x) = -0x1.17913677089446ff65c84c5fa70cp-1
+---
+x = 0x8p+775:
+libm: sin(x) = -0xb.8d391153088a8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.a363cbeea8068p-4
+Quad: sin(x) = 0x1.d46c797dd500cfaafd35bbccb7dbp-1
+---
+x = 0x8p+776:
+libm: sin(x) = 0xa.c5d1448806478p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.d1aa4063dbc68p-4
+Quad: sin(x) = 0x1.7a35480c7b78d5ac25f8fe080257p-1
+---
+x = 0x8p+777:
+libm: sin(x) = 0xf.ee1d8a9e3aa1p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.eee2b4cfe4e5p-4
+Quad: sin(x) = -0x1.fddc5699fc9c9e2d998a9e536beep-1
+---
+x = 0x8p+778:
+libm: sin(x) = 0xb.e56fd225823d8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.a3d831dc1eae8p-6
+Quad: sin(x) = 0x1.747b063b83d5d5e06cd3c127ce1ep-3
+---
+x = 0x8p+779:
+libm: sin(x) = -0xb.b05cf0ddb917p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.72253f2b7ae4p-5
+Quad: sin(x) = -0x1.6e44a7e56f5c7b5e8d956d890d7ap-2
+---
+x = 0x8p+780:
+libm: sin(x) = -0xa.e195dd2c889d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.b04b90fe30f48p-4
+Quad: sin(x) = -0x1.5609721fc61e971d3e31e91a1ee2p-1
+---
+x = 0x8p+781:
+libm: sin(x) = -0xf.f476f187dddbp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.e84a0f0424dfp-4
+Quad: sin(x) = -0x1.fd0941e0849bdda5472bf1f028acp-1
+---
+x = 0x8p+782:
+libm: sin(x) = -0x9.92962d9467ac8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.ac4f4d8c0a5b8p-6
+Quad: sin(x) = -0x1.b589e9b1814b6b2fe898c1460409p-3
+---
+x = 0x8p+783:
+libm: sin(x) = 0x9.770504ed282c8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.5b7ea6be57668p-5
+Quad: sin(x) = 0x1.ab6fd4d7caecc9cd18eea074216cp-2
+---
+x = 0x8p+784:
+libm: sin(x) = 0x9.0a9aeb9cbf9f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.2357f14275d18p-4
+Quad: sin(x) = 0x1.846afe284eba2d16230b30bafe44p-1
+---
+x = 0x8p+785:
+libm: sin(x) = 0xe.eb3c97bc0a5ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d10320732ffep-4
+Quad: sin(x) = 0x1.fa20640e65ffc7650c31faf36db0p-1
+---
+x = 0x8p+786:
+libm: sin(x) = 0xa.c826a408f90e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.8e2cc11be254p-5
+Quad: sin(x) = -0x1.31c598237c4a7c9cd807643e4716p-2
+---
+x = 0x8p+787:
+libm: sin(x) = -0xf.eeb331352a058p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.1e927d1523338p-4
+Quad: sin(x) = 0x1.23d24fa2a466751c222fb7644447p-1
+---
+x = 0x8p+788:
+libm: sin(x) = -0xb.b3c9d836169fp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.fc7e9e7e2edb8p-4
+Quad: sin(x) = 0x1.df8fd3cfc5db7128b2b466ea516fp-1
+---
+x = 0x8p+789:
+libm: sin(x) = 0xb.81486630fb848p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.7fb644533d338p-4
+Quad: sin(x) = 0x1.4ff6c88a67a675ee40327086aecbp-1
+---
+x = 0x8p+790:
+libm: sin(x) = 0xa.bc571fbce574p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.d851f0d2fbfbp-4
+Quad: sin(x) = -0x1.fb0a3e1a5f7f6197a739dd484981p-1
+---
+x = 0x8p+791:
+libm: sin(x) = 0xf.eba56af125d4p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.ccfc1ba57f63p-5
+Quad: sin(x) = -0x1.199f8374afec67006b721dba467bp-2
+---
+x = 0x8p+792:
+libm: sin(x) = 0xc.ae6b0025a38ap-6 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.761accc48245p-4
+Quad: sin(x) = 0x1.0ec359989048a5859c46943be9bap-1
+---
+x = 0x8p+793:
+libm: sin(x) = -0xc.6e0cc760ba53p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.5cdaee882bdb8p-4
+Quad: sin(x) = 0x1.cb9b5dd1057b6ad3ac2fa5d56394p-1
+---
+x = 0x8p+794:
+libm: sin(x) = -0xb.742f42214743p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.a88d23672e6e8p-4
+Quad: sin(x) = 0x1.9511a46ce5cdca8d3fb120849ebbp-1
+---
+x = 0x8p+795:
+libm: sin(x) = -0xf.feba318f9c8d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.7bfbf28653cap-4
+Quad: sin(x) = -0x1.ef7f7e50ca79421155dae6f6eadbp-1
+---
+x = 0x8p+796:
+libm: sin(x) = 0xc.c2264d1b5a89p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.991dffccb5e88p-5
+Quad: sin(x) = 0x1.f323bff996bd095087683da7a48cp-2
+---
+x = 0x8p+797:
+libm: sin(x) = -0xc.be174552ae93p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.9e9d219f9a36p-4
+Quad: sin(x) = -0x1.b3d3a433f346b97ce7b99e0925d3p-1
+---
+x = 0x8p+798:
+libm: sin(x) = -0xc.ade2e496f18b8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.4b9114a3cc0e8p-4
+Quad: sin(x) = -0x1.c97222947981ced40afc658366acp-1
+---
+x = 0x8p+799:
+libm: sin(x) = -0xc.6d8cd2052cf8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.d77f54981adfp-4
+Quad: sin(x) = 0x1.9aefea93035bdeab326990756503p-1
+---
+x = 0x8p+800:
+libm: sin(x) = -0xb.73ce4b47b00c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.51ff31cff8adp-4
+Quad: sin(x) = -0x1.ea3fe639ff15a7f9b8684fd70537p-1
+---
+x = 0x8p+801:
+libm: sin(x) = -0xf.fec11455fdfap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.d5fae7d3cbe08p-4
+Quad: sin(x) = 0x1.1abf5cfa797c0d17610c43dea4a9p-1
+---
+x = 0x8p+802:
+libm: sin(x) = 0xc.9f7a290205eap-8 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.bb8e0c9ade0d8p-4
+Quad: sin(x) = -0x1.d771c1935bc1b5d17dbe22ba0319p-1
+---
+x = 0x8p+803:
+libm: sin(x) = -0xc.9b8be20edafe8p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.7e42771c162f8p-4
+Quad: sin(x) = -0x1.6fc84ee382c5f324de1654d28487p-1
+---
+x = 0x8p+804:
+libm: sin(x) = -0xc.8bda1d9d8916p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fde7993f3d82p-4
+Quad: sin(x) = 0x1.ffbcf327e7b047c85c7a07452a06p-1
+---
+x = 0x8p+805:
+libm: sin(x) = -0xc.4d8813fbaa1cp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.2ee4fa60076dp-7
+Quad: sin(x) = -0x1.05dc9f4c00ed9ea1f3c379495bbbp-4
+---
+x = 0x8p+806:
+libm: sin(x) = -0xb.5b754744c6ae8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.2a9be4297cb48p-6
+Quad: sin(x) = 0x1.05537c852f96893d16c27594b7dep-3
+---
+x = 0x8p+807:
+libm: sin(x) = -0xf.ffe0ce629815p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.198500320ed1p-5
+Quad: sin(x) = 0x1.0330a00641da259dde1b5551b3e8p-2
+---
+x = 0x8p+808:
+libm: sin(x) = 0xf.cbec9890b04bp-10 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.abfeda202b588p-5
+Quad: sin(x) = 0x1.f57fdb44056b127101c14475c06bp-2
+---
+x = 0x8p+809:
+libm: sin(x) = -0xf.cb7168af770a8p-9 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.a9eb8daeb7e88p-4
+Quad: sin(x) = 0x1.b53d71b5d6fd08fbc6337a2c4182p-1
+---
+x = 0x8p+810:
+libm: sin(x) = -0xf.c984bfae43d38p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.37ed07345ebp-4
+Quad: sin(x) = 0x1.c6fda0e68bd601c72822e15c1cd5p-1
+---
+x = 0x8p+811:
+libm: sin(x) = -0xf.c1d383c3a94ep-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.0a629d9a6ce18p-4
+Quad: sin(x) = -0x1.a14c53b34d9c35fba5659b898711p-1
+---
+x = 0x8p+812:
+libm: sin(x) = -0xf.a3250d8390dp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.1c984684d04cp-4
+Quad: sin(x) = 0x1.e39308d09a0983427ba3766a8c76p-1
+---
+x = 0x8p+813:
+libm: sin(x) = -0xf.29d0beb8b3c58p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.ee2c992013cbp-4
+Quad: sin(x) = -0x1.3dc5932402795f6ee48e4c340776p-1
+---
+x = 0x8p+814:
+libm: sin(x) = -0xd.5a56cc5b6f768p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.9295526b6ef38p-4
+Quad: sin(x) = 0x1.f252aa4d6dde71f3682d2a12e482p-1
+---
+x = 0x8p+815:
+libm: sin(x) = -0xe.b67d69b517b6p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.4d2703fc531b8p-5
+Quad: sin(x) = 0x1.c9a4e07f8a63704f1ea9a2da2ab8p-2
+---
+x = 0x8p+816:
+libm: sin(x) = 0xb.9033952d7ab98p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.cb2cd44d0c8ep-4
+Quad: sin(x) = -0x1.99659a89a191c1640e46a990d1e0p-1
+---
+x = 0x8p+817:
+libm: sin(x) = -0xf.fbec4ae12c54p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.5dac26217c098p-4
+Quad: sin(x) = -0x1.ebb584c42f812e6c5f3add42a6bfp-1
+---
+x = 0x8p+818:
+libm: sin(x) = 0xb.6868e319bea4p-7 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.90df35d6f4f8p-4
+Quad: sin(x) = 0x1.121be6bade9f00211ad7d3bcf53ep-1
+---
+x = 0x8p+819:
+libm: sin(x) = -0xb.5cc9c0f4d29fp-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.784770be8351p-4
+Quad: sin(x) = -0x1.cf08ee17d06a1e5d744e8411d72bp-1
+---
+x = 0x8p+820:
+libm: sin(x) = -0xb.2e94298d40b58p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.59acc3f8a6818p-4
+Quad: sin(x) = -0x1.8b35987f14d032fe3b5d786bf414p-1
+---
+x = 0x8p+821:
+libm: sin(x) = -0xa.7a1f621d43a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.b415427951258p-4
+Quad: sin(x) = 0x1.f682a84f2a24ae9e2700230774b3p-1
+---
+x = 0x8p+822:
+libm: sin(x) = -0xf.d63cf9588df8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.099c33a45a25p-5
+Quad: sin(x) = -0x1.813386748b449bd5d72af3a19704p-2
+---
+x = 0x8p+823:
+libm: sin(x) = -0x9.05da1fbf516ap-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.2743983c1bccp-4
+Quad: sin(x) = 0x1.64e8730783797f06ae4d0bd2eb3dp-1
+---
+x = 0x8p+824:
+libm: sin(x) = 0x8.a821284f1b2b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fe60af7f3a6c8p-4
+Quad: sin(x) = 0x1.ffcc15efe74d9047bba015d82c0dp-1
+---
+x = 0x8p+825:
+libm: sin(x) = 0xe.8f7eca4f45ddp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.6736fee24124p-8
+Quad: sin(x) = 0x1.cce6dfdc4824842ee5c1d1d25b0dp-5
+---
+x = 0x8p+826:
+libm: sin(x) = 0xc.125c3182d0118p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.615fd449749p-7
+Quad: sin(x) = -0x1.cc2bfa892e91fffa54f230357365p-4
+---
+x = 0x8p+827:
+libm: sin(x) = -0xf.d8881afcfa698p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.4a115db87136p-6
+Quad: sin(x) = -0x1.c9422bb70e26ba7d11b0510e405fp-3
+---
+x = 0x8p+828:
+libm: sin(x) = 0x8.c71dd052d5f78p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.edb9acad6fe1p-5
+Quad: sin(x) = -0x1.bdb73595adfc198cd4e161e322adp-2
+---
+x = 0x8p+829:
+libm: sin(x) = -0x8.70ec2698be8bp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.8a394693b2adp-4
+Quad: sin(x) = -0x1.914728d276559dac900bbfe63c6fp-1
+---
+x = 0x8p+830:
+libm: sin(x) = -0xe.5775c456a22dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.939eec8982878p-4
+Quad: sin(x) = -0x1.f273dd913050ec96f1ed8ebac64dp-1
+---
+x = 0x8p+831:
+libm: sin(x) = -0xc.b76cbb97ee28p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.3cef782c62d78p-5
+Quad: sin(x) = 0x1.c79def058c5af07394db33a00696p-2
+---
+x = 0x8p+832:
+libm: sin(x) = 0xf.6f68327f73f18p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.c0433cc941888p-4
+Quad: sin(x) = -0x1.9808679928310d19b062318f177ep-1
+---
+x = 0x8p+833:
+libm: sin(x) = -0x8.213ef569ecc3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.679e5a26feaa8p-4
+Quad: sin(x) = -0x1.ecf3cb44dfd553999465187e8423p-1
+---
+x = 0x8p+834:
+libm: sin(x) = 0xe.011af51d17818p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.5351f9a965d3p-4
+Quad: sin(x) = 0x1.0a6a3f352cba617a3f36dddec08dp-1
+---
+x = 0x8p+835:
+libm: sin(x) = 0xd.8bc38eed8b028p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.381dbad14abap-4
+Quad: sin(x) = -0x1.c703b75a2957398d12af57d527b7p-1
+---
+x = 0x8p+836:
+libm: sin(x) = -0xe.6b0cf20eee938p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.09e78488d3828p-4
+Quad: sin(x) = -0x1.a13cf0911a704f9e1bd67d9db575p-1
+---
+x = 0x8p+837:
+libm: sin(x) = 0xc.806b7280f5ff8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.1d23c8bb8ab8p-4
+Quad: sin(x) = 0x1.e3a479177156fd9dd23af296b08ep-1
+---
+x = 0x8p+838:
+libm: sin(x) = -0xf.9ab32808ee2cp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.eb92263ab1d08p-4
+Quad: sin(x) = -0x1.3d7244c7563a0958273a01ccb5e4p-1
+---
+x = 0x8p+839:
+libm: sin(x) = 0xd.cbb01f2c0883p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.910dd0f2df0cp-4
+Quad: sin(x) = 0x1.f221ba1e5be17dca057aa2ee8251p-1
+---
+x = 0x8p+840:
+libm: sin(x) = -0xc.72a1f7a0714ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.64e2fe72408b8p-5
+Quad: sin(x) = 0x1.cc9c5fce48116d6f783280161ed1p-2
+---
+x = 0x8p+841:
+libm: sin(x) = -0xf.a433977e0e02p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.db0d4d738e9d8p-4
+Quad: sin(x) = -0x1.9b61a9ae71d3b29df575d329e17fp-1
+---
+x = 0x8p+842:
+libm: sin(x) = 0xd.2bf425fdb98a8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4e8a3f0177bc8p-4
+Quad: sin(x) = -0x1.e9d147e02ef78de8088c785cad6cp-1
+---
+x = 0x8p+843:
+libm: sin(x) = -0xc.010e447e9d928p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.e9d53b8392adp-4
+Quad: sin(x) = 0x1.1d3aa7707255993fa23af8e4aa78p-1
+---
+x = 0x8p+844:
+libm: sin(x) = -0xf.df7941e0c0328p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.cde96a9101178p-4
+Quad: sin(x) = -0x1.d9bd2d522022edda263da1dc2343p-1
+---
+x = 0x8p+845:
+libm: sin(x) = 0xf.f89d46976eab8p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.3b11e6d23941p-4
+Quad: sin(x) = -0x1.67623cda47281dc1abc6e3800f8fp-1
+---
+x = 0x8p+846:
+libm: sin(x) = -0xf.77425e72f78ep-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ff900a7fb8e08p-4
+Quad: sin(x) = 0x1.fff2014ff71c11a1e527aa488ef7p-1
+---
+x = 0x8p+847:
+libm: sin(x) = -0xd.8a228fde7ec58p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.f63e8d8c7b0c8p-9
+Quad: sin(x) = 0x1.dec7d1b18f618f7aa8c5b64e19b7p-6
+---
+x = 0x8p+848:
+libm: sin(x) = -0xe.6db2e0993026p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.f49bcbb38af38p-8
+Quad: sin(x) = -0x1.de937976715e77334c7ee9797285p-5
+---
+x = 0x8p+849:
+libm: sin(x) = 0xc.78c4f48a70b9p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.ee11d6f77a52p-7
+Quad: sin(x) = -0x1.ddc23adeef4a4782aad08d498b59p-4
+---
+x = 0x8p+850:
+libm: sin(x) = -0xf.a00985a5518c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.d3fb28e19a95p-6
+Quad: sin(x) = -0x1.da7f651c33529cca06761d504588p-3
+---
+x = 0x8p+851:
+libm: sin(x) = 0xd.731df6a5f43ep-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.6cb157206c008p-5
+Quad: sin(x) = -0x1.cd962ae40d801711b90db0af0d60p-2
+---
+x = 0x8p+852:
+libm: sin(x) = -0xc.343acc45e76ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.e03fc9cdf3cbp-4
+Quad: sin(x) = -0x1.9c07f939be795e1de50476684669p-1
+---
+x = 0x8p+853:
+libm: sin(x) = -0xf.c8d3de827d1f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4969d5670a92p-4
+Quad: sin(x) = -0x1.e92d3aace1523e6356e202ccb255p-1
+---
+x = 0x8p+854:
+libm: sin(x) = 0xa.53fbe150fdfc8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.06ca5c5961bp-4
+Quad: sin(x) = 0x1.20d94b8b2c35fa279efa2f7bd3aap-1
+---
+x = 0x8p+855:
+libm: sin(x) = -0x9.c67cc4bff0a48p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.e7e3008bc2f58p-4
+Quad: sin(x) = -0x1.dcfc6011785eb45966a98fda43f1p-1
+---
+x = 0x8p+856:
+libm: sin(x) = -0xf.7a400aeddde98p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.d5c84edc85618p-4
+Quad: sin(x) = -0x1.5ab909db90ac282eaa66c58b8a7ep-1
+---
+x = 0x8p+857:
+libm: sin(x) = -0xf.b110d0c9067c8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.f1edb2f8674d8p-4
+Quad: sin(x) = 0x1.fe3db65f0ce9b24918d8789bd4c9p-1
+---
+x = 0x8p+858:
+libm: sin(x) = 0xd.acf16243672ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.90802e2ec51cp-6
+Quad: sin(x) = 0x1.521005c5d8a37a554728d058994ep-3
+---
+x = 0x8p+859:
+libm: sin(x) = 0xe.32939bd9166d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.6b666f85856c8p-5
+Quad: sin(x) = -0x1.4d6ccdf0b0ad9388935942a80ac3p-2
+---
+x = 0x8p+860:
+libm: sin(x) = -0xd.17cfd2832ec88p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.da09a08200428p-4
+Quad: sin(x) = -0x1.3b41341040084dde4ea3865c6b97p-1
+---
+x = 0x8p+861:
+libm: sin(x) = 0xf.0d0e89393e3c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.8682191f4f108p-4
+Quad: sin(x) = -0x1.f0d04323e9e209e91f854303dd42p-1
+---
+x = 0x8p+862:
+libm: sin(x) = -0xa.367b60b26c62p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.0353cad9d5238p-5
+Quad: sin(x) = -0x1.e06a795b3aa46bfb0efeef7dbc2bp-2
+---
+x = 0x8p+863:
+libm: sin(x) = 0xf.b92fc928d97p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.4219d10d96378p-4
+Quad: sin(x) = 0x1.a8433a21b2c6f4752ac0bd0aff63p-1
+---
+x = 0x8p+864:
+libm: sin(x) = 0xb.a4f0d53395d98p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.d7eef1684cdp-4
+Quad: sin(x) = 0x1.dafdde2d0999fa3f359efd6ee40ap-1
+---
+x = 0x8p+865:
+libm: sin(x) = -0xa.d8946b69f7088p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.14e3d6f22428p-4
+Quad: sin(x) = -0x1.629c7ade448505517f6deaa34286p-1
+---
+x = 0x8p+866:
+libm: sin(x) = -0xf.f28d2bdba50e8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fc9efe3c7bbc8p-4
+Quad: sin(x) = 0x1.ff93dfc78f7790bbd07b8d78dcd2p-1
+---
+x = 0x8p+867:
+libm: sin(x) = -0xa.5476bab6c1db8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.633c38e95b1f8p-7
+Quad: sin(x) = 0x1.4c67871d2b63f5d5e0c98ed747f3p-4
+---
+x = 0x8p+868:
+libm: sin(x) = 0xa.31ca46638d92p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.5a76cde7b7c38p-6
+Quad: sin(x) = -0x1.4b4ed9bcf6f87030075786dbd3c1p-3
+---
+x = 0x8p+869:
+libm: sin(x) = 0x9.a9cfb8f40fa58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.378d855a9c48p-5
+Quad: sin(x) = -0x1.46f1b0ab5388f999fa6c0321c9cbp-2
+---
+x = 0x8p+870:
+libm: sin(x) = 0xf.6755f58d9834p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.aea79ab96245p-4
+Quad: sin(x) = -0x1.35d4f3572c48a1587c08d177063bp-1
+---
+x = 0x8p+871:
+libm: sin(x) = 0x8.551b3f1ebaca8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.6a9b7f818dd3p-4
+Quad: sin(x) = -0x1.ed536ff031ba59ad726fdddc3a1bp-1
+---
+x = 0x8p+872:
+libm: sin(x) = -0xe.3a08561f911c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.404e75b751d2p-4
+Quad: sin(x) = -0x1.0809ceb6ea3a41c6c2eb3713e752p-1
+---
+x = 0x8p+873:
+libm: sin(x) = -0xd.050c27246ee18p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.2384d2631e4c8p-4
+Quad: sin(x) = 0x1.c4709a4c63c994fb7f54b2a998fep-1
+---
+x = 0x8p+874:
+libm: sin(x) = 0xf.2299984aac2dp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.3ca59f5dc912p-4
+Quad: sin(x) = 0x1.a794b3ebb92242a95c331ff50c77p-1
+---
+x = 0x8p+875:
+libm: sin(x) = -0x9.d1396d4a87ap-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.df26c0375571p-4
+Quad: sin(x) = -0x1.dbe4d806eaae21d123b141ae42edp-1
+---
+x = 0x8p+876:
+libm: sin(x) = 0xf.810c0264e0978p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.f8b3701629bc8p-4
+Quad: sin(x) = 0x1.5f166e02c537963f2b58fff2ff25p-1
+---
+x = 0x8p+877:
+libm: sin(x) = 0xf.5208b76f2b688p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.f8b923198ca2p-4
+Quad: sin(x) = -0x1.ff172463319443b319ceef8921c2p-1
+---
+x = 0x8p+878:
+libm: sin(x) = -0xd.735333da10dbp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.39ce4d9d5b7c8p-7
+Quad: sin(x) = -0x1.e739c9b3ab6f95d3b9a46bb92f1ap-4
+---
+x = 0x8p+879:
+libm: sin(x) = -0xe.919ac225cbb58p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.1e21b49b72688p-6
+Quad: sin(x) = 0x1.e3c436936e4d116ef26f79f281a2p-3
+---
+x = 0x8p+880:
+libm: sin(x) = 0xc.0ba995254ab88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.b09c66ec89638p-5
+Quad: sin(x) = 0x1.d6138cdd912c6a492417d2da8b6fp-2
+---
+x = 0x8p+881:
+libm: sin(x) = -0xf.db4dcd18fde1p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.0cf2d77f7cd48p-4
+Quad: sin(x) = 0x1.a19e5aefef9a8f8b47f278d8cf48p-1
+---
+x = 0x8p+882:
+libm: sin(x) = 0x8.789c507f52cep-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.19ad253c2bfa8p-4
+Quad: sin(x) = 0x1.e335a4a7857f53a8c0210eaf0a20p-1
+---
+x = 0x8p+883:
+libm: sin(x) = -0x8.2b3e8d34ecde8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.fc095d752bef8p-4
+Quad: sin(x) = -0x1.3f812baea57df4c83ddbea732d72p-1
+---
+x = 0x8p+884:
+libm: sin(x) = -0xe.0c49229747eb8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.9a90f66c5dd4p-4
+Quad: sin(x) = 0x1.f3521ecd8bba7dcfb1fa2b8b63d8p-1
+---
+x = 0x8p+885:
+libm: sin(x) = -0xd.72cee6f60644p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.cdde443db3528p-5
+Quad: sin(x) = 0x1.b9bbc887b66a51d690bb6834ac14p-2
+---
+x = 0x8p+886:
+libm: sin(x) = 0xe.926499628c168p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.74267ef63b7dp-4
+Quad: sin(x) = -0x1.8e84cfdec76f9b127b4ee82900dbp-1
+---
+x = 0x8p+887:
+libm: sin(x) = -0xc.092631834a29p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.a32e679f9145p-4
+Quad: sin(x) = -0x1.f465ccf3f2289e5fbce513cf4d4dp-1
+---
+x = 0x8p+888:
+libm: sin(x) = 0xf.dc50f70d905d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.3d900d99ab968p-5
+Quad: sin(x) = 0x1.a7b201b33572d1c62ea295b57eefp-2
+---
+x = 0x8p+889:
+libm: sin(x) = -0x8.5b276f4737d4p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.0dcd81312a518p-4
+Quad: sin(x) = -0x1.81b9b026254a346c5db4643d9a11p-1
+---
+x = 0x8p+890:
+libm: sin(x) = 0x8.10ef4f9792c6p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.da6e06782977p-4
+Quad: sin(x) = -0x1.fb4dc0cf052ee659297b59812d79p-1
+---
+x = 0x8p+891:
+libm: sin(x) = 0xd.eea8cab20bf48p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.91b28602f7958p-5
+Quad: sin(x) = 0x1.123650c05ef2b51e7ff8e7f5b217p-2
+---
+x = 0x8p+892:
+libm: sin(x) = 0xd.b36e2ffff37a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.41949996d6148p-4
+Quad: sin(x) = -0x1.08329332dac297bbeae87351b92ep-1
+---
+x = 0x8p+893:
+libm: sin(x) = -0xe.26f431bfd708p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.24e8ff9ddc7a8p-4
+Quad: sin(x) = -0x1.c49d1ff3bb8f48d47bf389a0a066p-1
+---
+x = 0x8p+894:
+libm: sin(x) = 0xd.345de1536487p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.394d4393777a8p-4
+Quad: sin(x) = -0x1.a729a8726eef53fdebbfb214a1f6p-1
+---
+x = 0x8p+895:
+libm: sin(x) = -0xe.e9e6205ddb798p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.e3861625a33d8p-4
+Quad: sin(x) = 0x1.dc70c2c4b467a92791c32a337af2p-1
+---
+x = 0x8p+896:
+libm: sin(x) = 0xa.cd9c59bcb4638p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.e755b1fe73538p-4
+Quad: sin(x) = -0x1.5ceab63fce6a6e81f72af01cdb3cp-1
+---
+x = 0x8p+897:
+libm: sin(x) = -0xf.f0080934d2f4p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.f59ca7a46df28p-4
+Quad: sin(x) = 0x1.feb394f48dbe523e4626e657bfd6p-1
+---
+x = 0x8p+898:
+libm: sin(x) = -0xb.3f603ca80521p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.165819977f0e8p-6
+Quad: sin(x) = 0x1.22cb0332efe1d22e0643bc109e2fp-3
+---
+x = 0x8p+899:
+libm: sin(x) = 0xb.128fbc8682548p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.fec634d809b98p-5
+Quad: sin(x) = -0x1.1fd8c69b0137337af246f5772968p-2
+---
+x = 0x8p+900:
+libm: sin(x) = 0xa.63778547b7f58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.a1ec323bf4f98p-4
+Quad: sin(x) = -0x1.143d86477e9f34eefcf20e35100cp-1
+---
+x = 0x8p+901:
+libm: sin(x) = 0xf.cd4b61df2f138p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.895b127a31858p-4
+Quad: sin(x) = -0x1.d12b624f4630aa076d64e2686553p-1
+---
+x = 0x8p+902:
+libm: sin(x) = 0x9.ea315cd0de16p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.25a4eede7dcep-4
+Quad: sin(x) = -0x1.84b49ddbcfb9bd47c37ac9cc97bap-1
+---
+x = 0x8p+903:
+libm: sin(x) = -0x9.6d496828ab3p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.cff05e782069p-4
+Quad: sin(x) = 0x1.f9fe0bcf040d1f5d1c1a694fffe7p-1
+---
+x = 0x8p+904:
+libm: sin(x) = -0xf.3be01c166939p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.a922b21318368p-5
+Quad: sin(x) = -0x1.352456426306d1fc711e002d9d11p-2
+---
+x = 0x8p+905:
+libm: sin(x) = -0x9.509f953cca3a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.35bda71c56778p-4
+Quad: sin(x) = 0x1.26b7b4e38acef1aca8991c67d168p-1
+---
+x = 0x8p+906:
+libm: sin(x) = 0xf.25abf269739fp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.0fee123594c8p-4
+Quad: sin(x) = 0x1.e1fdc246b299040167ee097782a7p-1
+---
+x = 0x8p+907:
+libm: sin(x) = 0x9.c230670876c4p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.2962427321c78p-4
+Quad: sin(x) = 0x1.452c484e6438f6beac14092928e9p-1
+---
+x = 0x8p+908:
+libm: sin(x) = -0xf.777c418bc2818p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b2c231dc57afp-4
+Quad: sin(x) = -0x1.f658463b8af5dcdecb0f57a66ed3p-1
+---
+x = 0x8p+909:
+libm: sin(x) = -0xf.d6d8430da20f8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.231900dfc03fp-5
+Quad: sin(x) = -0x1.8463201bf807e19dcc440012cc93p-2
+---
+x = 0x8p+910:
+libm: sin(x) = 0xd.c347fb9139c88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.3aef907e3fd5p-4
+Quad: sin(x) = 0x1.675df20fc7faa17ae27383704c0fp-1
+---
+x = 0x8p+911:
+libm: sin(x) = 0xe.09ba1ab87bb18p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ff8ea0aef85b8p-4
+Quad: sin(x) = 0x1.fff1d415df0b76163ccf50fda00cp-1
+---
+x = 0x8p+912:
+libm: sin(x) = -0xd.7894e8a02faap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.0e568a08f7468p-9
+Quad: sin(x) = 0x1.e1cad1411ee8d6d1cb6d5f83e88fp-6
+---
+x = 0x8p+913:
+libm: sin(x) = 0xe.8985bd7e389fp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.0cabd41e93b4p-8
+Quad: sin(x) = -0x1.e1957a83d2767829ade0dc2a1dc3p-5
+---
+x = 0x8p+914:
+libm: sin(x) = -0xc.251ff77de28fp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.060217dc66efp-7
+Quad: sin(x) = -0x1.e0c042fb8cdde2205a7d0175a4bap-4
+---
+x = 0x8p+915:
+libm: sin(x) = 0xf.d02eb0ad43f3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.eb6cd7688e6bp-6
+Quad: sin(x) = -0x1.dd6d9aed11cd5c38fcbff6140e9fp-3
+---
+x = 0x8p+916:
+libm: sin(x) = -0x9.a30c9cb288398p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.823167bdfdccp-5
+Quad: sin(x) = -0x1.d0462cf7bfb97a02bfa148c60f84p-2
+---
+x = 0x8p+917:
+libm: sin(x) = 0x9.3084a823c959p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.ee802570a1608p-4
+Quad: sin(x) = -0x1.9dd004ae142c0acf5b94957ad77bp-1
+---
+x = 0x8p+918:
+libm: sin(x) = 0xf.0b9ad07116a78p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.3ae8e511b60f8p-4
+Quad: sin(x) = -0x1.e75d1ca236c1f6fc405aaeb1391cp-1
+---
+x = 0x8p+919:
+libm: sin(x) = 0xa.3d0e4d0b44be8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x9.55c02a55c59f8p-4
+Quad: sin(x) = 0x1.2ab8054ab8b3e95512998626abf7p-1
+---
+x = 0x8p+920:
+libm: sin(x) = -0xf.bc5109a165edp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.29b7df0f3eae8p-4
+Quad: sin(x) = -0x1.e536fbe1e7d5cea47d209c3580bfp-1
+---
+x = 0x8p+921:
+libm: sin(x) = -0xb.6525955e475d8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.ae2413435cddp-4
+Quad: sin(x) = -0x1.35c482686b9b9f0dfd0076ad5914p-1
+---
+x = 0x8p+922:
+libm: sin(x) = 0xa.a5ecc52c3cff8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.6a43071da0308p-4
+Quad: sin(x) = 0x1.ed4860e3b406153d7ddce2938be1p-1
+---
+x = 0x8p+923:
+libm: sin(x) = 0xf.e534860fb4b08p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.4284841dcf0dp-4
+Quad: sin(x) = 0x1.08509083b9e19a2546428c83faf3p-1
+---
+x = 0x8p+924:
+libm: sin(x) = 0xe.857af4e6d498p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.25eebf72a6188p-4
+Quad: sin(x) = -0x1.c4bdd7ee54c30ef2b7324433b538p-1
+---
+x = 0x8p+925:
+libm: sin(x) = -0xe.2486188a86a88p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.36d6052daf5dp-4
+Quad: sin(x) = -0x1.a6dac0a5b5eb9e9f1aeab686e32bp-1
+---
+x = 0x8p+926:
+libm: sin(x) = -0xc.afbd099ac8e28p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.e6b865509b25p-4
+Quad: sin(x) = 0x1.dcd70caa1364a4826e55a085035cp-1
+---
+x = 0x8p+927:
+libm: sin(x) = -0xf.75fd322e502dp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.da7f4741c22b8p-4
+Quad: sin(x) = -0x1.5b4fe8e8384568a97bc18adb7e13p-1
+---
+x = 0x8p+928:
+libm: sin(x) = 0xf.eb165ef2ead38p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.f2f879ef61798p-4
+Quad: sin(x) = 0x1.fe5f0f3dec2f320ca6b9038a37f8p-1
+---
+x = 0x8p+929:
+libm: sin(x) = -0xd.cf1d6b60f7ce8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.2b42b808a7858p-6
+Quad: sin(x) = 0x1.4568570114f0b61bc0356249bc72p-3
+---
+x = 0x8p+930:
+libm: sin(x) = -0xd.f31ee3ef04a1p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.0a307b5753208p-5
+Quad: sin(x) = -0x1.41460f6aea641469032b38a3171ep-2
+---
+x = 0x8p+931:
+libm: sin(x) = 0xd.aa01590a36ac8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x9.886a1eafb10e8p-4
+Quad: sin(x) = -0x1.310d43d5f621cd8875abab86e04cp-1
+---
+x = 0x8p+932:
+libm: sin(x) = -0xe.37c69b18b6738p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.4ff03d548b128p-4
+Quad: sin(x) = -0x1.e9fe07aa916252fc34248c72aa49p-1
+---
+x = 0x8p+933:
+libm: sin(x) = 0xd.0ac3b09892fa8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.e1d581da22638p-4
+Quad: sin(x) = -0x1.1c3ab03b444c6c1eb1e44b0dba18p-1
+---
+x = 0x8p+934:
+libm: sin(x) = -0xf.1c2a1dfd66a2p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.c6919a7de569p-4
+Quad: sin(x) = 0x1.d8d2334fbcad217e7551759a15e9p-1
+---
+x = 0x8p+935:
+libm: sin(x) = 0x9.f039fcd80562p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.565cd92f92d88p-4
+Quad: sin(x) = 0x1.6acb9b25f25b17fc4ab77e949513p-1
+---
+x = 0x8p+936:
+libm: sin(x) = -0xf.93c83f949dc3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fff6d1f596b4p-4
+Quad: sin(x) = -0x1.fffeda3eb2d681252d9e4be71b03p-1
+---
+x = 0x8p+937:
+libm: sin(x) = -0xe.3a675e608346p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.91cdf0470eecp-10
+Quad: sin(x) = 0x1.1239be08e1dd80938e19dc4b5fe2p-7
+---
+x = 0x8p+938:
+libm: sin(x) = 0xc.be8dedeb3a868p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.91ba459a4836p-9
+Quad: sin(x) = -0x1.123748b34906be284b4a4cbf953bp-6
+---
+x = 0x8p+939:
+libm: sin(x) = 0xf.69247808f5f98p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.916b9bf5fa91p-8
+Quad: sin(x) = -0x1.122d737ebf521f2ed4dde3f57cd3p-5
+---
+x = 0x8p+940:
+libm: sin(x) = -0x8.49a82351fb838p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.9031065122adp-7
+Quad: sin(x) = -0x1.120620ca24559a9458d1ab74d890p-4
+---
+x = 0x8p+941:
+libm: sin(x) = 0xe.2db15f4b93acp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.8b47be668e898p-6
+Quad: sin(x) = -0x1.1168f7ccd1d130ce1f5173a815edp-3
+---
+x = 0x8p+942:
+libm: sin(x) = 0xd.23e9927a2fb48p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.77b38202ea65p-5
+Quad: sin(x) = -0x1.0ef670405d4c9bbb6e66f9a6ecf9p-2
+---
+x = 0x8p+943:
+libm: sin(x) = -0xe.fe838dfd7de28p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.2a6ef53476b5p-4
+Quad: sin(x) = -0x1.054ddea68ed6a0416f749f508d46p-1
+---
+x = 0x8p+944:
+libm: sin(x) = 0xa.76fc15210e18p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.0b61ecc05cb7p-4
+Quad: sin(x) = -0x1.c16c3d980b96e71fad2889c81cb7p-1
+---
+x = 0x8p+945:
+libm: sin(x) = -0xf.d50c330fe4b6p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.74d9b0f813728p-4
+Quad: sin(x) = -0x1.ae9b361f026e485c9f8f11411bcfp-1
+---
+x = 0x8p+946:
+libm: sin(x) = -0x9.25af91e742f38p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.8f456211eef9p-4
+Quad: sin(x) = 0x1.d1e8ac423ddf2614b134910a5caap-1
+---
+x = 0x8p+947:
+libm: sin(x) = 0x8.c3fa2fcd7d3d8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.1311ebce3a44p-4
+Quad: sin(x) = -0x1.82623d79c7488355e3f1f50a12e4p-1
+---
+x = 0x8p+948:
+libm: sin(x) = 0xe.aa87873dcc4f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.d83b41f322968p-4
+Quad: sin(x) = 0x1.fb07683e6452d3488b3cd03df12fp-1
+---
+x = 0x8p+949:
+libm: sin(x) = 0xb.b99798c75905p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.cf6ff5b7e3f28p-5
+Quad: sin(x) = -0x1.19edfeb6fc7e571f2fef157f163dp-2
+---
+x = 0x8p+950:
+libm: sin(x) = -0xf.f4c34a23da82p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.7844f6b149e28p-4
+Quad: sin(x) = 0x1.0f089ed6293c4b954ea938d50ad4p-1
+---
+x = 0x8p+951:
+libm: sin(x) = 0x9.72ec0ca5487ep-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.5f19c5548572p-4
+Quad: sin(x) = 0x1.cbe338aa90ae43d0d8ded0f16dfep-1
+---
+x = 0x8p+952:
+libm: sin(x) = -0x9.5869ec61355b8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.a24cdaacbe8ap-4
+Quad: sin(x) = 0x1.94499b5597d140226ee94eebe0e7p-1
+---
+x = 0x8p+953:
+libm: sin(x) = -0x8.f01dfe38689bp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.8113126ffd98p-4
+Quad: sin(x) = -0x1.f022624dffb2fbe6444b31b8ad89p-1
+---
+x = 0x8p+954:
+libm: sin(x) = -0xe.d3a1482c05f88p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.51a44f793bdd8p-5
+Quad: sin(x) = 0x1.ea3489ef277bb57af949460eedc7p-2
+---
+x = 0x8p+955:
+libm: sin(x) = -0xb.256b4393d4a88p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.731542f203648p-4
+Quad: sin(x) = -0x1.ae62a85e406c8fd52eb360e7f521p-1
+---
+x = 0x8p+956:
+libm: sin(x) = 0xf.fe3aca8b8788p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.91f94ac692dap-4
+Quad: sin(x) = -0x1.d23f2958d25b41d67ecec4237c95p-1
+---
+x = 0x8p+957:
+libm: sin(x) = 0xf.0b95b1d705d8p-8 <more than 1 ulp away>
+MPFR: sin(x) = 0xc.0a7c69ec772ep-4
+Quad: sin(x) = 0x1.814f8d3d8ee5c44c18e12a9f60f1p-1
+---
+x = 0x8p+958:
+libm: sin(x) = -0xf.04ed671d3d648p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.dbc79948ba998p-4
+Quad: sin(x) = -0x1.fb78f32917532f2475c3ed361dc1p-1
+---
+x = 0x8p+959:
+libm: sin(x) = -0xe.ea5de6687b3b8p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.6ad266e6521p-5
+Quad: sin(x) = 0x1.0d5a4cdcca42028b8644de612711p-2
+---
+x = 0x8p+960:
+libm: sin(x) = -0xe.81391050019a8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0x8.1ef0970fb4b7p-4
+Quad: sin(x) = -0x1.03de12e1f696d9b1d0169bf46a94p-1
+---
+x = 0x8p+961:
+libm: sin(x) = -0xc.eddc0c447a3a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.fe8349b63a898p-4
+Quad: sin(x) = -0x1.bfd06936c751356566b0530f0d6ap-1
+---
+x = 0x8p+962:
+libm: sin(x) = -0xf.3b93867048b88p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.917368d30a89p-4
+Quad: sin(x) = -0x1.b22e6d1a615122d94ee981269cccp-1
+---
+x = 0x8p+963:
+libm: sin(x) = 0x9.5236b2d148258p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.61b72821fcbcp-4
+Quad: sin(x) = 0x1.cc36e5043f978291ac8aec3135c6p-1
+---
+x = 0x8p+964:
+libm: sin(x) = -0xf.26ee23980ebf8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.9af9b6051db98p-4
+Quad: sin(x) = -0x1.935f36c0a3b731f9195ab2425edbp-1
+---
+x = 0x8p+965:
+libm: sin(x) = -0x9.bbfbbc1b7745p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.86e4cb99d71p-4
+Quad: sin(x) = 0x1.f0dc99733ae200eea191c0c4b0b3p-1
+---
+x = 0x8p+966:
+libm: sin(x) = 0xf.73731f43ef0f8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.fdb03082caa18p-5
+Quad: sin(x) = -0x1.dfb606105954333356a531c8586fp-2
+---
+x = 0x8p+967:
+libm: sin(x) = 0x8.068f62da45238p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.3e85e2f612308p-4
+Quad: sin(x) = 0x1.a7d0bc5ec246121a0a39f3be542bp-1
+---
+x = 0x8p+968:
+libm: sin(x) = -0xd.e2cb74ec2a6cp-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xe.dcae58e7d0c78p-4
+Quad: sin(x) = 0x1.db95cb1cfa18f54a3ac49e761084p-1
+---
+x = 0x8p+969:
+libm: sin(x) = -0xd.cbfc2a577fc3p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xb.026a3c878b6dp-4
+Quad: sin(x) = -0x1.604d4790f16d9f46a68228f2c04ep-1
+---
+x = 0x8p+970:
+libm: sin(x) = 0xd.f92a9546eee3p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.fa3a98b737c8p-4
+Quad: sin(x) = 0x1.ff475316e6f906d0648adafb0f9ep-1
+---
+x = 0x8p+971:
+libm: sin(x) = -0xd.9d0ffb029f77p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.90cb8c389d6c8p-7
+Quad: sin(x) = 0x1.b219718713ad89932c37b20bae68p-4
+---
+x = 0x8p+972:
+libm: sin(x) = 0xe.4e3787cf15efp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.7d3c9bf8e6e48p-6
+Quad: sin(x) = -0x1.afa7937f1cdc976100ea5dd7542fp-3
+---
+x = 0x8p+973:
+libm: sin(x) = -0xc.d06f3e91fdb58p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.2fa9ba7fea158p-5
+Quad: sin(x) = -0x1.a5f5374ffd42b0fecd32b3bcc58ap-2
+---
+x = 0x8p+974:
+libm: sin(x) = 0xf.58bf46b88e268p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.03bed48ecd22p-4
+Quad: sin(x) = -0x1.8077da91d9a447558d9d42063b98p-1
+---
+x = 0x8p+975:
+libm: sin(x) = -0x8.ae6c0d1ab89bp-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.de7113a3951fp-4
+Quad: sin(x) = -0x1.fbce227472a3e3b98c21548b890bp-1
+---
+x = 0x8p+976:
+libm: sin(x) = 0xe.95ad67e9d75ap-4 <more than 1 ulp away>
+MPFR: sin(x) = 0x8.1bd330e2e15dp-5
+Quad: sin(x) = 0x1.037a661c5c2b9d7b81b62f235415p-2
+---
+x = 0x8p+977:
+libm: sin(x) = 0xb.fe9f7da2168a8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b0267df7405ap-5
+Quad: sin(x) = -0x1.f604cfbee80b450b93ef9128fec9p-2
+---
+x = 0x8p+978:
+libm: sin(x) = -0xf.e064686e2d68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.ac65cb3371a2p-4
+Quad: sin(x) = -0x1.b58cb9666e3446f34abe156fa49bp-1
+---
+x = 0x8p+979:
+libm: sin(x) = 0xf.bf9b5a55ad608p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.338b6da693a08p-4
+Quad: sin(x) = -0x1.c6716db4d2740fc8c2486e7cdf73p-1
+---
+x = 0x8p+980:
+libm: sin(x) = -0xf.43a4bbe6f59e8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xd.15653db4317cp-4
+Quad: sin(x) = 0x1.a2aca7b6862f8067c0d9d13d231ep-1
+---
+x = 0x8p+981:
+libm: sin(x) = -0xd.6a6ce2c09e118p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.0fe631a99ea1p-4
+Quad: sin(x) = -0x1.e1fcc63533d41fe7163c1abcb470p-1
+---
+x = 0x8p+982:
+libm: sin(x) = -0xe.9f07b0f6b371p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.298655483cbcp-4
+Quad: sin(x) = 0x1.4530caa907978095b8a13613ae2cp-1
+---
+x = 0x8p+983:
+libm: sin(x) = 0xb.e02380d3355c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.b2d43ea1452ep-4
+Quad: sin(x) = -0x1.f65a87d428a5c14be962bc59b82fp-1
+---
+x = 0x8p+984:
+libm: sin(x) = -0xf.eaba20941b68p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xc.21bf49c15d6fp-5
+Quad: sin(x) = -0x1.8437e9382badde4094c2f7b2a18fp-2
+---
+x = 0x8p+985:
+libm: sin(x) = 0xc.f5f8c06898cp-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.39e564bdefe68p-4
+Quad: sin(x) = 0x1.673cac97bdfcd52b966a46d6d018p-1
+---
+x = 0x8p+986:
+libm: sin(x) = -0xc.b138d20d76c8p-5 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.ff835f9e3d03p-4
+Quad: sin(x) = 0x1.fff06bf3c7a05873267c762632adp-1
+---
+x = 0x8p+987:
+libm: sin(x) = -0xb.a6b60ce01c8p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xf.c91021e55f8bp-9
+Quad: sin(x) = 0x1.f922043cabf1645f1ebbd146633fp-6
+---
+x = 0x8p+988:
+libm: sin(x) = -0xf.f87bd3f9e93b8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.c7245780607p-8
+Quad: sin(x) = -0x1.f8e48af00c0e05a30913ead26cd9p-5
+---
+x = 0x8p+989:
+libm: sin(x) = 0xf.79232dbad188p-7 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.bf7694f790fd8p-7
+Quad: sin(x) = -0x1.f7eed29ef21fb2ac4ddd2f690b25p-4
+---
+x = 0x8p+990:
+libm: sin(x) = -0xf.5c16bca48125p-6 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.a0d5f356f7448p-6
+Quad: sin(x) = -0x1.f41abe6adee88fe824c93a887965p-3
+---
+x = 0x8p+991:
+libm: sin(x) = -0xe.e92b605ca0aa8p-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.27b7eab6e49fp-5
+Quad: sin(x) = -0x1.e4f6fd56dc93da6d5363c849c4abp-2
+---
+x = 0x8p+992:
+libm: sin(x) = -0xd.31728b7a6f08p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xd.5906d35d1c328p-4
+Quad: sin(x) = -0x1.ab20da6ba3864c27304ce1fc09b3p-1
+---
+x = 0x8p+993:
+libm: sin(x) = -0xe.eda0c43957c7p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xe.b85bd69df5cb8p-4
+Quad: sin(x) = -0x1.d70b7ad3beb96e7bd0969c66c368p-1
+---
+x = 0x8p+994:
+libm: sin(x) = 0xa.be5642124cc78p-4 <more than 1 ulp away>
+MPFR: sin(x) = 0xb.899c501f8dbfp-4
+Quad: sin(x) = 0x1.71338a03f1b7deb9fcafa515b3a5p-1
+---
+x = 0x8p+995:
+libm: sin(x) = -0xf.ec2dd46823ee8p-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xf.fcba7cd874bfp-4
+Quad: sin(x) = -0x1.ff974f9b0e97e1044ed7ec7edf5ep-1
+---
+x = 0x8p+996:
+libm: sin(x) = -0xc.842a0792dfb08p-6 <more than 1 ulp away>
+MPFR: sin(x) = 0xa.38b7a7856e37p-7
+Quad: sin(x) = 0x1.4716f4f0adc6e2489c35e70ab928p-4
+---
+x = 0x8p+997:
+libm: sin(x) = 0xc.464b0777c59dp-5 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.305c570e4437p-6
+Quad: sin(x) = -0x1.460b8ae1c886e4d91fb4939ae34bp-3
+---
+x = 0x8p+998:
+libm: sin(x) = 0xb.55ee489c803ep-4 <more than 1 ulp away>
+MPFR: sin(x) = -0xa.0f180815a42d8p-5
+Quad: sin(x) = -0x1.41e30102b485aaef2969bc091a80p-2

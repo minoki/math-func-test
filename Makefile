@@ -3,6 +3,9 @@ all: sample test-sin test-exp test-pow test-pow2 test-pow05
 sample: sample.c
 	$(CC) -o $@ $< -lm
 
+const-sin: const-sin.c
+	gcc -std=c2x -o $@ $< -lm
+
 test-sin: test-sin.c sin-data.inc
 	$(CC) -o $@ $< -lm
 

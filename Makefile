@@ -1,4 +1,7 @@
-all: test-sin test-exp test-pow test-pow2 test-pow05
+all: sample test-sin test-exp test-pow test-pow2 test-pow05
+
+sample: sample.c
+	$(CC) -o $@ $< -lm
 
 test-sin: test-sin.c sin-data.inc
 	$(CC) -o $@ $< -lm

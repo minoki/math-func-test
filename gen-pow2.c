@@ -41,8 +41,8 @@ int main(void)
         fputs("Failed to open sin-data.inc", stderr);
         abort();
     }
-    for (int m = 1; m < 4000; m++) {
-        double x = (double)m / 10.0;
+    for (int m = 1; m < 10000; m++) {
+        double x = (double)m / 100.0;
         double y = 2.0;
         mpfr_t xm, ym, zm, zu, zd, zp;
         mpfr_init2(xm, 53);

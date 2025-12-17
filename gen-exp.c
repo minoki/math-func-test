@@ -42,7 +42,7 @@ int main(void)
         abort();
     }
     for (int n = -1000; n <= 1000; n++) {
-        double x = (double)n / 10.0;
+        double x = (double)n / 100.0;
         mpfr_t xm, ym, yu, yd, yp;
         mpfr_init2(xm, 53);
         mpfr_init2(ym, 53);

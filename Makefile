@@ -1,4 +1,4 @@
-all: test-sin test-exp test-pow test-pow05
+all: test-sin test-exp test-pow test-pow2 test-pow05
 
 test-sin: test-sin.c sin-data.inc
 	$(CC) -o $@ $< -lm

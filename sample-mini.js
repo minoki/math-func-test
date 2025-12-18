@@ -1,0 +1,7 @@
+console.log("sin(4)=", Math.sin(4))
+console.log("exp(-5.01)=", Math.exp(-5.01))
+console.log("pow(4.7, -2.7)=", 4.7 ** (-2.7))
+console.log("pow(0.6, -0.1)=", 0.6 ** (-0.1))
+console.log("pow(17.21, 2.0)=", 17.21 ** 2.0)
+console.log("pow(95.97, 2.0)=", 95.97 ** 2.0)
+console.log("pow(75.7, 0.5)=", 75.7 ** 0.5)

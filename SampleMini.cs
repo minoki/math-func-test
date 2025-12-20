@@ -28,15 +28,10 @@ void print_float(string s, double y)
     Console.WriteLine($"{s}{y} [{HexFloat(y)}]");
 }
 
-void Main()
-{
-    print_float("sin(4)=", Math.Sin(4));
-    print_float("exp(-5.01)=", Math.Exp(-5.01));
-    print_float("pow(4.7, -2.7)=", Math.Pow(4.7, -2.7));
-    print_float("pow(0.6, -0.1)=", Math.Pow(0.6, -0.1));
-    print_float("pow(17.21, 2.0)=", Math.Pow(17.21, 2.0));
-    print_float("pow(95.97, 2.0)=", Math.Pow(95.97, 2.0));
-    print_float("pow(75.7, 0.5)=", Math.Pow(75.7, 0.5));
-}
-
-Main();
+print_float("sin(4)=", Math.Sin(4));
+print_float("exp(-5.01)=", Math.Exp(-5.01));
+print_float("pow(4.7, -2.7)=", Math.Pow(4.7, -2.7));
+print_float("pow(0.6, -0.1)=", Math.Pow(0.6, -0.1));
+print_float("pow(17.21, 2.0)=", Math.Pow(17.21, 2.0));
+print_float("pow(95.97, 2.0)=", Math.Pow(95.97, 2.0));
+print_float("pow(75.7, 0.5)=", Math.Pow(75.7, 0.5));
